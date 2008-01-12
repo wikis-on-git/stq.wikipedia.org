@@ -1,0 +1,18 @@
+{{Tourääch ätter}}
+
+Elektroniske Apparoate benöödigje ne [[Glieksponnenge|Glieksponnenge]]. Deer kumt ju eerste Anweendenge fon n [[Dioden|Diode]] an t Lucht. 
+
+Wan wie ne sinusfoarmige Wikselsponnenge truch n Diode toufiere an n [[Wierstande|Wierstand]], dan lapt truch dän Wierstand n hoolich-sinusfoarmigen Stroom (sjuch ju Teekenge hier unner). Uur dän Wierstand stoant dan fonsälwen uk ne hoolich-sinusfoarmige Sponnenge, dan deer jält V = I x R. Ju Sponnenge wäd sieläärge nit negativ, mar ju annert sik daach stäärk. Wie naame dät ne pulsierjende Glieksponnenge.
+
+
+
+Uum deerfon ne ächte Glieksponnenge tou kriegen, bruuke wie n [[Kondensatore|Kondensator]] (sjuch hier unner). Nu annert sik ju Sponnenge noch man n bitsken un wofuul ju sik annert, honget je ou fon ju Grööte fon dän Kondensator un dän Wierstand. Nieme wie oun, dät ju Glieksponnenge 10 Volt is un die Wierstand R = 1000 Ω, dan lapt truch dän Wierstand n Stroom fon 10/1000 is 0,01 Ampêre (=10 milliAmpêre = 10 mA). 
+
+Wät in Fakt geböärt, is dät die Kondensator, älke Moal as ju Wikselsponnenge maximoal positiv is, ieuwkes truch ju Diode bieleeden wäd. Dät geböärt also insen in n Tied t = 0,02 s.
+
+
+
+Wollen wie nu dät ju Sponnengsannerenge, ju Wällegaid ("ripple") Vr, nit moor bedrächt as 0,1 Volt, dan bruuke wie ju [[Kondensatore|Kondensator-Gliekenge]] V = I.t/C, af n bitsken uurs: C = I.t/V = 0,01 x 0,02/0,1 = 0,002 Farad af 2000 μF. Die Ouflach- af Gläädengskondensator C schäl deeruum n Wäid hääbe fon ap minste 2000 μF un dät is n fiksen Käärel.
+Uum ju Sponnenge noch moor outouflachjen (tou gläädjen), also uum ne noch litjere Wällegaid tou kriegen, wäd oafte ne [[Spoulen|Spoule]] af n Wierstand in Serienschaltenge anwoand mäd noch aan Ouflach-Kondensator.
+
+[[Category:Seeltersk-test]]
