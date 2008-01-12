@@ -1,0 +1,18 @@
+[[Image:Fourpointprobe GMR.png|thumb|right|300px|Fjauerpunkt Probe foar dät Meeten fon glääde Materialien]]
+Ju '''Fjauerpunktsmeetenge''' is ne Methode tou dät Meeten fon dän [[spezifiske Wierstand|spezifiske elektriske Wierstand]] fon Materialien.
+
+Truch Benutsenge fon apaate Punkte foar Stroom un Sponnenge spielt also ju [[Spreedengswierstand|Kontaktwierstand]] neen Rulle. Gewöönelk wäd die elektriske Stroom ''I'' toufierd twiske do bee buuterste Punkte un wäd ju Sponnenge ''V'' meeten twiske do binnerste Punkte. Wan nu die Oustand twiske twäin apfoulgjende Punkte immer gliek ''s'' is un dät Materioalmuster is fuul tjukker as ''s'', dan foulget:
+
+V = I.rho/2.pi.s
+
+Is dät deerjuun ne tänne Loage mäd ne Tjukte ''t'', ju der fuul litjer is as ''s'', dan jält:
+
+V = I.rho.ln4/2.pi.t,
+
+wierbie rho die spezifiske Wierstand is in ohm.cm, wan ju Sponnenge roat wäd in Volts, die Stroom in Ampere un do Oustande ''s'' un ''t'' in cm.
+
+In Twiskefälle, wierbie also t nit nit fuul litjer of gratter is as s, schäl me n Korrektion anweende, ju juust as do bee buppestoundene Formeln mäd [[Integroalreekenge|Integroalreekenge]] bereekend wäide kon.
+
+
+== Anweendenge ==
+Ju Fjauerpunktsmeetenge wäd däälich foarallen anwoand ap [[Hoolichlaitere|Hoolichlaiter-Materioale,]] man waas al loange wai ju Methode tou dät Meeten fon dän Äidwierstand.
