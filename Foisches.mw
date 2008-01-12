@@ -1,0 +1,61 @@
+{{Tourääch ätter}}
+
+{{Topam in Fransän
+|nem = Foisches
+|topäd = Champagne-Ardenne
+|gretot = 250
+|plän = Steede in Frankriek.
+|videt_g = 50.1275 |videt_m = 0
+|lunet_g = 4.78 |lunet_m = 0}}
+'''Foisches''' is ne Meente in dät [[Frankriek|frantsööske]] Departement Ardennes (Regio Champagne-Ardennen) un häd 211 Ienwoonere (2004). Dät Täärp heert tou dät Arrondissement Charleville-Mézières.
+
+==Geografie==
+Dät Gebiet fon Foisches is 4,7 km² groot, ju Befoulkengstichte is 44,9 Ienwoonere per km². 
+
+==Demografie==
+Toal fon Ienwoonere (Uursproang: [[Institut national de la statistique et des études économiques/Definities|INSEE-Tällenge]]).
+
+<timeline>                                                
+ImageSize  = width:250 height:200                          
+PlotArea   = left:40 right:10 top:10 bottom:20            
+TimeAxis   = orientation:horizontal                       
+AlignBars  = justify                                       
+Colors =                                                
+  id:gray1 value:gray(0.9)                           
+                                                  
+DateFormat = yyyy                                 
+Period     = from:1960 till:2010                 
+ScaleMajor = unit:year increment:10 start:1960
+                                    
+PlotData =                          
+  bar:300 color:gray1 width:1       
+  from:start till:end             
+  bar:200 color:gray1              
+  from:start till:end            
+  bar:100 color:gray1           
+  from:start till:end         
+  bar:0 color:gray1       
+                       
+                    
+LineData =       
+  layer:front    
+  points:(48,141)(84,140) color:blue  width:2 #1962 bit 1968. Ienwoonertoal 1962: 214 1968: 212
+  points:(84,140)(100,131)    color:blue    width:2 #1975: 196
+  points:(100,131)(128,128)   color:blue    width:2 #1982: 190
+  points:(128,128)(160,142)   color:blue    width:2 #1990: 215
+  points:(160,142)(196,129)   color:blue    width:2 #1999: 193
+  points:(196,129)(228,140)     color:blue    width:2 #2004/5 
+  
+</timeline>
+
+==Links ätter Buuten==
+*[http://www.mapquest.com/maps/map.adp?searchtype=address&formtype=latlong&latlongtype=degrees&latdeg=50&latmin=8&latsec=0&longdeg=4&longmin=47&longsec=0&zoom=6 Loage fon ju Meente (Koarte in Mäite 1:100.000) ap Mapquest]
+*[http://www.recensement.insee.fr/RP99/rp99/co_navigation.co_page?nivgeo=C&codgeo=08175&theme=ALL&typeprod=ALL&lang=FR&quelcas=LISTE Moor statistiske Informatione uur ju Meente ap www.insee.fr] 
+
+[[ceb:Foisches]]
+[[fr:Foisches]]
+[[it:Foisches]]
+[[pl:Foisches]]
+[[pt:Foisches]]
+[[nl:Foisches]]
+[[vo:Foisches]]
