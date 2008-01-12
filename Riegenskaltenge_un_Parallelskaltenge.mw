@@ -1,0 +1,20 @@
+{{Tourääch ätter}}
+
+Schaltje wie twäin Wierstande R1 un R2 bäätenunner, dan is die Wierstand Rx an do uuterste Eenden gliek an ju Summe: Rx = R1 + R2. Dät hat Riegenschaltenge.
+
+
+Insteede fon mäd dän Wierstand fon n Dingen kon me uk mäd sien Laitenge G reekenje. Ju is dät Uumekierde, also G = 1/R.
+
+Schaltje wie 2 Wierstande R1 un R2 ieuwenskenunner, dan is ju totoale Laitenge Gx gliek an ju Summe: Gx = G1 + G2. Dät hat Parallelschaltenge. Die totoale Wierstand is dan Rx = 1/Gx = 1/(1/R1 + 1/R2). Af uurs schrieuwen: Rx = (R1.R2)/(R1+R2).  [Die Punkt stoant foar "x"].
+
+
+
+Schaltje wie 2 Kondensatore C1 un C2 parallel, dan kumt dät deerap hääruut, dät do Flächen fon do Platten touhoope täld wäid. Dät hat dät ju totoale Kapazität gliek wäd an Cx = C1 + C2.
+
+
+Die Kondensator häd foar Wikselstroom ne Oard fon Wierstand; die naame wie Impedanz (Y). Ju Impedanz wäd litjer as die Kondensator gratter wäd, also Y = k/C, wierbie k ne Konstante is.
+
+
+Moakje wie ne Riegenschaltenge fon 2 Kondensatore C1 un C2, dan wäd ju totoale Impedanz Yx = Y1 + Y2 = k/C1 + k/C2. Ju totoale Kapazität wäd dan Cx=k/Yx=k/(k/C1+k/C2)= 1/(1/C1+1/C2). Af uurs schrieuwen: Cx=(C1.C2)/(C1+C2).
+
+[[Category:Seeltersk-test]]
