@@ -1,0 +1,21 @@
+{{Tourääch ätter}}
+
+[[Image:Spreedengswierstand2.jpg|thumb|right|300px|Metallen Kontakt mäd Radius ''a'' ap n Materioal-Muster. Schematisk deerstoald.]]
+Wan me n Kontakt ap n Materioal sät, dan mät me deertwiske n Wierstand ''Rs'', uk wan die Kontakt gans scheen is. Dät naamt me Spreedengswierstand. Die Wierstand wäd bestimd fon dän Radius (Hoolichmeeter) ''a'' fon dän Kontakt un dän spezifisken Wierstand ''ρ'' ätter <div style="text-align: center">''Rs =   ρ/4a''</div>
+
+as bereekend mäd [[Integroalreekenge|Integroalreekenge]].
+Dissen Wierstand spielt ne Rulle, alleweegense wier gans litje Kontakte anwoand wäide, as in ju [[Mikro-Elektronik|Mikro-Elektronik]].
+
+Ne apaate Anweendenge fon disse Oainskup fint sik in ju '''Spreedengswierstand-Profilierenge'''. Deerbie wäd die spezifiske Wierstand oulaited uut dän Spreedengswierstand. Ne Näddele mäd n hädden goud definierden Punkt wäd ap dät Materioal sät. Bie ne bestimde [[Häddegaid|Häddegaid]]  fon dät Materioal un dän Näddelpunkt rakt n bestimden Kuugel-Radius ''r'' fon n Näddelpunkt uk n bestimden Kontaktradius ''a''. Wan me nu die Spreedengswierstand twiske ju Näddele un dät Materioal mät, so kon me dän spezifiske Wierstand ''ρ'' in n gans litjet Gebiet meete. Licht me dan ju Näddele un sät ju foarsichtich ieuwen fääre wier deel, dan kon me sjo, of die spezifiske Wierstand deer fielicht uurs is. 
+Ju Methode wäd anwoand ap [[Metall|Metalle]] un [[Hoolichlaitere|Hoolichlaiter-Materioale.]] Deerbie kon dät lichten un ieuwen fääre wier deelsätten fon ju Näddele automatisierd wäide. N praktisken Wäid foar ''a'' is ap [[Silizium|Silizium]] 2 bit 4 [[Laangtemäite|Mikron.]]
+
+Ne Variante fon ju Methode is '''Djupte-Profilierenge''' fon Loagenstruktuuren. Deerbie wäd dät Materioal fluch scheeuw ouslieped un lät me ju Näddele uur ju scheeuwe Kaante stappe. Ap ju Wiese kon me meete, wo ''ρ'' in de Djupte ferlapt, wierbie dan do Resultoate automatisk as Punkte in ne grafiske Deerstaalenge oudrukt wäide konnen.
+Uum Ienfloud fon isolierjende Loagen tou fermieden, wäide deerbie oafte two Näddeln anwoand, do der gans prezise gjuchted uur dät Materioal stappe. Foarallen in ju Hoolichlaiter-technik wäd disse Methode anwoand.
+
+Uurigens schäl dät Resultoat korrigierd wäide foar ju Tjukte fon do Loagen. Uk mout reekend wäide mäd Speerloagen un Tunneleffekte, wiertruch uk die Temperatuur Ienfloud häd.
+
+
+
+== Ferbiendengen ätter buuten ==
+*[http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TY5-46VKB3R-36&_user=10&_coverDate=07%2F31%2F1972&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=a4226c8eb96990b7445908b3847252c7 Temperatuur-Ienfloud]
+*[http://www.cascade.co.uk/srp.pdf Biespiele fon Djupte-Profile]
