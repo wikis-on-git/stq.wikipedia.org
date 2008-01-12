@@ -1,0 +1,254 @@
+{| 
+! Atomnr. || Seelter Noome || Wietenskuppelke Noome || Symbol
+|-
+| 1 || [[Woaterstof]] || Hydrogenium || H
+|-
+| 2 || [[Helium]] || Helium || He
+|-
+| 3 || [[Lithium]] || Lithium || Li
+|-
+| 4 || [[Beryllium]] || Beryllium || Be
+|-
+| 5 || [[Boor]] || Borium || B
+|-
+| 6 || [[Koolestof]] || Carbonium || C
+|-
+| 7 || [[Stikstof]] || Nitrogenium || N
+|-
+| 8 || [[Suurstof]] || Oxygenium || O
+|-
+| 9 || [[Fluor]] || Fluor || F
+|-
+| 10 || [[Neon]] || Neon || Ne
+|-
+| 11 || [[Natrium]] || Natrium || Na
+|-
+| 12 || [[Magnesium]] || Magnesium || Mg
+|-
+| 13 || [[Aluminium]] || Aluminium || Al
+|-
+| 14 || [[Silicium]] || Silicium || Si
+|-
+| 15 || [[Phosphor]] || Phosphorus || P
+|-
+| 16 || [[Swieuwel]] || Sulphur || S
+|-
+| 17 || [[Chloor]] || Chlorium || Cl
+|-
+| 18 || [[Argon]] || Argon || Ar
+|-
+| 19 || [[Kalium]] || Calium || K
+|-
+| 20 || [[Calcium]] || Calcium || Ca
+|-
+| 21 || [[Scandium]] || Scandium || Sc
+|-
+| 22 || [[Titaan]] || Titanium || Ti
+|-
+| 23 || [[Vanadium]] || Vanadium || V
+|-
+| 24 || [[Chroom]] || Chromium || Cr
+|-
+| 25 || [[Mangaan]] || Manganum || Mn
+|-
+| 26 || [[Iersen]] || Ferrum || Fe
+|-
+| 27 || [[Cobalt]] || Cobaltum || Co
+|-
+| 28 || [[Nikkel]] || Nikkel || Ni
+|-
+| 29 || [[Kooper]] || Cuprum || Cu
+|-
+| 30 || [[Zink]] || Zink || Zn
+|-
+| 31 || [[Gallium]] || Gallium || Ga
+|-
+| 32 || [[Germanium]] || Germanium || Ge
+|-
+| 33 || [[Arseen]] || Arsenicum || As
+|-
+| 34 || [[Seleen]] || Selenium || Se
+|-
+| 35 || [[Broom]] || Bromium || Br
+|-
+| 36 || [[Krypton]] || Krypton || Kr
+|-
+| 37 || [[Rubidium]] || Rubidium || Rb
+|-
+| 38 || [[Strontium]] || Strontium || Sr
+|-
+| 39 || [[Yttrium]] || Yttrium || Y
+|-
+| 40 || [[Zirkonium]] || Zirconium || Zr
+|-
+| 41 || [[Niobium]] || Niobium || Nb
+|-
+| 42 || [[Molybdeen]] || Molybdenum || Mo
+|-
+| 43 || [[Technetium]] || Technetium || Tc
+|-
+| 44 || [[Ruthenium]] || Ruthenium || Ru
+|-
+| 45 || [[Rhodium]] || Rhodium || Rh
+|-
+| 46 || [[Palladium]] || Palladium || Pd
+|-
+| 47 || [[Säälwer]] || Argentum || Ag
+|-
+| 48 || [[Cadmium]] || Cadmium || Cd
+|-
+| 49 || [[Indium]] || Indium || In
+|-
+| 50 || [[Tin]] || Stannum || Sn
+|-
+| 51 || [[Antimoon]] || Antimonium || Sb
+|-
+| 52 || [[Telluur]] || Tellurium || Te
+|-
+| 53 || [[Iood]] || Iodium || I
+|-
+| 54 || Xenon || Xenon || Xe
+|-
+| 55 || Ceesium || Cesium || Cs
+|-
+| 56 || Barium || Barium || Ba
+|-
+| 57 || Lantaan || Lanthanium || La
+|-
+| 58 || Ceer || Cerium || Ce
+|-
+| 59 || Praseodym || Praseodymium || Pr
+|-
+| 60 || Neodym || Neodymium || Nd
+|-
+| 61 || Promeetium || Prometium || Pm
+|-
+| 62 || Samarium || Samarium || Sm
+|-
+| 63 || Europium || Europium || Eu
+|-
+| 64 || Gadolinium || Gadolinium || Gd
+|-
+| 65 || Terbium || Terbium || Tb
+|-
+| 66 || Dysprosium || Dysprosium || Dy
+|-
+| 67 || Holmium || Holmium || Ho
+|-
+| 68 || Erbium || Erbium || Er
+|-
+| 69 || Thulium || Thulium || Tm
+|-
+| 70 || Ytterbium || Ytterbium || Yb
+|-
+| 71 || Lutetium || Lutetium || Lu
+|-
+| 72 || Hafnium || Hafnium || Hf
+|-
+| 73 || Tantaal || Tantalium || Ta
+|-
+| 74 || Wolfraam || Wolframium || W
+|-
+| 75 || Renium || Rhenium || Re
+|-
+| 76 || Osmium || Osmium || Os
+|-
+| 77 || Iridium || Iridium || Ir
+|-
+| 78 || Platin || Platina || Pt
+|-
+| 79 || Gould || Aurum || Au
+|-
+| 80 || Kwiksäälwer || Hydrargyrum || Hg
+|-
+| 81 || Thallium || Thallium || Tl
+|-
+| 82 || Lood || Plumbum || Pb
+|-
+| 83 || Bismut || Bismut || Bi
+|-
+| 84 || Polonium || Polonium || Po
+|-
+| 85 || Astaat || Astatium || At
+|-
+| 86 || Radon || Radon || Rn
+|-
+| 87 || Francium || Francium || Fr
+|-
+| 88 || Radium || Radium || Ra
+|-
+| 89 || Actinium || Actinium || Ac
+|-
+| 90 || Thorium || Thorium || Th
+|-
+| 91 || Protactinium || Protactinium || Pa
+|-
+| 92 || Uraan || Uranium || U
+|-
+| 93 || Neptunium || Neptunium || Np
+|-
+| 94 || Plutonium || Plutonium || Pu
+|-
+| 95 || Americium || Americum || Am
+|-
+| 96 || Curium || Curium || Cm
+|-
+| 97 || Berkelium || Berkelium || Bk
+|-
+| 98 || Californium || Californium || Cf
+|-
+| 99 || Einsteinium || Einsteinium || Es
+|-
+| 100 || Fermium || Fermium || Fm
+|-
+| 101 || Mendelevium || Mendelevium || Md
+|-
+| 102 || Nobelium || Nobelium || No
+|-
+| 103 || Lawrencium || Lawrencium || Lr
+|-
+| 104 || Rutherfordium || Rutherfordium || Rf
+|-
+| 105 || Dubnium || Dubnium || Db
+|-
+| 106 || Seaborgium || Seaborgium || Sg
+|-
+| 107 || Bohrium || Bohrium || Bh
+|-
+| 108 || Hassium || Hassium || Hs
+|-
+| 109 || Meitnerium || Meitnerium || Mt
+|-
+| 110 || Darmstadtium || Darmstadtium || Ds
+|-
+| 111 || Roentgenium || Roentgenium || Rg
+|-
+|}
+
+
+
+[[ar:قائمة عناصر (عدد ذري)]]
+[[bg:Списък на химичните елементи]]
+[[cy:Rhestr elfennau yn nhrefn eu rhif]]
+[[da:Grundstoffer efter atomnummer]]
+[[de:Liste der chemischen Elemente nach der Ordnungszahl]]
+[[en:List of elements by atomic number]]
+[[eo:Listo de kemiaj elementoj laŭ atomnumero]]
+[[fi:Luettelo alkuaineista järjestysluvun mukaan]]
+[[ga:Liosta na ndúl de réir uimhreach adamhaigh]]
+[[gl:Elemento químico]]
+[[he:יסודות כימיים (לפי מספר אטומי)]]
+[[hu:Kémiai elemek listája rendszám szerint]]
+[[io:Kemiala elementi]]
+[[is:Listi yfir frumefni eftir sætistölu]]
+[[ja:元素の番号順一覧]]
+[[ko:원자번호 순 원소 목록]]
+[[mk:Хемиските елементи наредени според атомскиот броj]]
+[[nn:Grunnstoffliste etter atomnummer]]
+[[no:Grunnstoffliste]]
+[[pl:Pierwiastki chemiczne według liczby atomowej]]
+[[pt:Lista de elementos por número atómico]]
+[[sl:Seznam elementov po atomskem številu]]
+[[sv:Lista över grundämnen efter atomnummer]]
+[[th:รายชื่อของธาตุตามเลขอะตอม]]
+[[zh:元素序号列表]]
