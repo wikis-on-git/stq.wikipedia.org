@@ -1,1 +1,138 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Kohlenstoff
+| Symbol = C
+| Ordnungszahl = 6
+| Serie = [[Nichtmetalle|Nichtmetall]]
+| Gruppe = 14
+| Periode = 2
+| Block = p
+| Serienfarbe = LimeGreen
+| Aussehen = schwarz (Graphit)<br />farblos (Diamant)
+| Massenanteil = 0,09
+| Atommasse = 12,0107
+| Atomradius = 70 
+| AtomradiusBerechnet = 67
+| KovalenterRadius = 77
+| VanDerWaalsRadius = 170
+| Elektronenkonfiguration = &#x5B;[[Helium|He]]&#x5D;2[[S-Orbital|s]]<sup>2</sup>2p<sup>2</sup>
+| ElektronenProEnergieNiveau =  2,4
+| Austrittsarbeit = 4,81
+| Ionisierungsenergie_1 = 1086,5
+| Ionisierungsenergie_2 = 2352,6
+| Ionisierungsenergie_3 = 4620,5
+| Ionisierungsenergie_4 = 6222,2
+| Aggregatzustand = fest
+| Modifikationen = 3
+| Kristallstruktur = G: hexagonal<br />D: kubisch flächenzentriert
+| Dichte =  G: 2,25 g/cm<sup>3</sup><br/>D: 3,51 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = G: 0,5<br/>D: 10
+| Magnetismus = diamagnetisch
+| Schmelzpunkt_K = D: 3820 
+| Schmelzpunkt_C = D: 3550
+| Siedepunkt_K = G: (Subl.)<br/>D: 5100
+| Siedepunkt_C = 4800
+| MolaresVolumen = 5,29 · 10<sup>-6</sup>
+| Verdampfungswärme = [[Sublimation (Physik)|Sublimation]]: 715 
+| Schmelzwärme = -
+| Dampfdruck = 1
+| RefTempDampfdruck_K = 2710
+| Schallgeschwindigkeit =  D: 18350
+| RefTempSchallgeschwindigkeit_K = 
+| SpezifischeWärmekapazität = G: 709 J/(kg K)<ref name="Lide2006">D. R. Lide: ''CRC handbook of chemistry and physics: A ready-reference book of chemical and physical data''. 87. Aufl. Boca Raton Fla. : CRC Taylor & Francis, 2006 – ISBN 0-8493-0487-3</ref><br/>D: 427
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = G: 3 · 10<sup>6</sup> S/m<br/>D: 1 · 10<sup>-4</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = G: 119–165 W/(m · K)<br/>D: 900–1300
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = 2, '''4'''
+| Oxide = CO<sub>2</sub>; CO
+| Basizität = leicht [[Säure|sauer]]
+| Normalpotential = 
+| Elektronegativität = 2,55
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R = {{R-Sätze|-}}
+| S = {{S-Sätze|-}}
+| Radioaktiv = 
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = C
+| Massenzahl = 10
+| NH = 0
+| Halbwertszeit = 19,255 s
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,648
+| Zerfallstyp1ZP = [[Bor|<sup>10</sup>B]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = C
+| Massenzahl = 11
+| NH = 0
+| Halbwertszeit = 20,39 min
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,982
+| Zerfallstyp1ZP = [[Bor|<sup>11</sup>B]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = C
+| OZ = 6
+| Massenzahl = 12
+| NH = '''98,9'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = C
+| OZ = 6
+| Massenzahl = 13
+| NH = 1,1
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = C
+| Massenzahl = 14
+| NH = < 10<sup>-9</sup>
+| Halbwertszeit = 5730 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 0,156
+| Zerfallstyp1ZP = [[Stickstoff|<sup>14</sup>N]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = C
+| Massenzahl = 15
+| NH = 0
+| Halbwertszeit = 2,449 s
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 9,772
+| Zerfallstyp1ZP = [[Stickstoff|<sup>15</sup>N]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = C
+| Massenzahl = 16
+| NH = 0
+| Halbwertszeit = 0,747 s
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 8,012
+| Zerfallstyp1ZP = [[Stickstoff|<sup>16</sup>N]]
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = C
+| Massenzahl_1 = 12
+| Kernspin_1 = 0
+| Gamma_1 = 0
+| Empfindlichkeit_1 = -
+| Larmorfrequenz_1 = -
+| Massenzahl_2 = 13
+| Kernspin_2 = 1/2
+| Gamma_2 = 6,73 · 10<sup>7</sup>
+| Empfindlichkeit_2 = -
+| Larmorfrequenz_2 = 125,72 MHz
+}}
+}}
