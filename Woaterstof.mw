@@ -1,5 +1,101 @@
-'''Woaterstof''' (dt. Wasserstoff) is n [[chemisk Element]] mäd Symbol '''H''' ([[Latiensk|La:]] '''''H'''ydrogenium'') un [[Atomnummer]] 1. Woaterstofgas (Diwoaterstof, H<sub>2</sub>) is bie Ruumtemperatuur n faaweloos, baadenboar, truchsichtich [[Nit-Metal]]..
 {{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Woaterstof
+| Symbol = H
+| Ordnengstaal = 1
+| Massentaal = 
+| Serie = [[Nichtmetalle|Nitmetal]]
+| Gruppe = 1
+| Periode = 1
+| Blok = s
+| Serienfaawe = LimeGreen
+| Uutsjoon = faaweloos Gas
+| Massenandeel = 0,88
+| Atommasse = 1,00794
+| Atomradius = 25
+| AtomradiusBereekend = 53
+| KovalentenRadius = 37
+| VanDerWaalsRadius = 120
+| Elektronekonfiguration = 1s<sup>1</sup>
+| ElektroneProEnergieNiveau = 1
+| Austrittsarbeit = 
+| Ionisierengsenergie_1 = 1312
+| Aggregattoustand = gasfoarmich
+| Kristalstruktuur = neen (Gas)
+| Tichte = 0,0899 kg · m<sup>−3</sup>
+| RefTempTichte_K =  273
+| Magnetismus = [[Magnetische Suszeptibilität|Magn. Suszeptibilität]] = 8 · 10<sup>−9</sup><br /> ([[Diamagnetismus|diamagnetisk]])
+| Smiltpunkt_K = 14,025
+| Smiltpunkt_C = −259,125
+| Sjoodepunkt_K = 20,268
+| Sjoodepunkt_C = −252,882
+| MolarVolumen = 22,42 · 10<sup>−3</sup>
+| Ferdampengswaarmte = 0,891
+| Smiltwaarmte = 0,117
+| Dampdruk = 209 · 10<sup>3</sup>
+| RefTempDampdruk_K = 23
+| Schalgauegaid = 1314
+| RefTempSchalgauegaid_K = 298,15
+| SpezifiskeWaarmtekapazität = 14304
+| ElektriskeLaitfäiegaid = 0
+| RefTempElektriskeLaitfäiegaid_K = 
+| Waarmtelaitfäiegaid = 0,1815
+| RefTempWaarmtelaitfäiegaid_K = 
+| Oxidationstoustande = +1, −1
+| Oxide = H<sub>2</sub>O , H<sub>2</sub>O<sub>2</sub>
+| Basizität = amphoter
+| Normoalpotentioal = 0
+| Elektronegativität = 2,1
+| RL 67/548/EWG      = Ja
+| Gefoarensymbole    = {{Gefahrensymbole|F+}}
+| R                  = {{R-Sätze|12}}
+| S                  = {{S-Sätze|(2)|9|16|33}}
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope = 
+{{Foarloage:Infobox Chemisk Element/Isotop|
+| AnzahlZerfallstypen = 0
+| OZ= 1
+| Massenzahl = 1
+| Symbol = H
+| NH= 99,9885(70)
+}}
+{{Foarloage:Infobox Chemisk Element/Isotop|
+| AnzahlZerfallstypen = 0
+| OZ= 1
+| Massenzahl = 2
+| Symbol = H
+| NH= 0,0115(70)
+}}
+{{Foarloage:Infobox Chemisk Element/Isotop|
+| AnzahlZerfallstypen = 1
+| Massenzahl = 3
+| Symbol = H
+| NH = 10<sup>−15</sup>
+| Halbwertszeit = 12,33 [[Jahr|a]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 0,019
+| Zerfallstyp1ZP = [[Helium|<sup>3</sup>He]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisk_Element/NMR
+| Symbol = H
+| Massenzahl_1 = 1
+| Massenzahl_2 = 2
+| Kernspin_1 = 1/2
+| Kernspin_2 = 1
+| Gamma_1 = 26,752 · 10<sup>7</sup>
+| Gamma_2 = 4,107 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 1,00
+| Empfindlichkeit_2 = 1,45 · 10 <sup>−6</sup>
+| Larmorfrequenz_1 = 100,0 (2,348 T)
+| Larmorfrequenz_2 = 15,351 (2,348 T)
+}}
+}}
+
+'''Woaterstof''' (dt. Wasserstoff) is n [[chemisk Element]] mäd Symbol '''H''' ([[Latiensk|La:]] '''''H'''ydrogenium'') un [[Atomnummer]] 1. Woaterstofgas (Diwoaterstof, H<sub>2</sub>) is bie Ruumtemperatuur n faaweloos, baadenboar, truchsichtich [[Nit-Metal]]..
+
 Loose Atome Woaterstof kuume in fräie Foarm bolde nit foar, wan uk siet dän Eende fon dät twintichste Jierhunnert Unnersäikenge moaked wuuden is an [[atomären Woaterstof]]. Loose Atome fon dit Element sunt gjucht reaktiv un ferbiende sik fluks mäd uur Woaterstofatome. Hierbie wäd maasttied Woaterstofgas bilded (H<sub>2</sub>). 
 
 Do Oainskuppe do der in dissen Artikkel ärwäänd wäide, jäilde dan uk foarallen foar dissen Stof, die der bie [[Ruumtemperatuur]] n Gas (H<sub>2</sub>) is.
