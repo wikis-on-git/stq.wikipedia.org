@@ -1,3 +1,193 @@
+'''Fetter Text'''{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Uran
+| Symbol = U
+| Ordnungszahl = 92
+| Serie = [[Actinoide]]
+| Gruppe = Ac
+| Periode = 7
+| Block = f
+| Serienfarbe = Orchid
+<!--- Allgemein --->
+| Aussehen = Säälwerwiet
+| Massenanteil = 3 · 10<sup>−4</sup>
+<!--- Atomar --->
+| Atommasse = 238,0289
+| Atomradius = 138,5 (α-Uran)
+| AtomradiusBerechnet =
+| KovalenterRadius = 142
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = [[Radon|Rn]] 5f<sup>3</sup> 6d<sup>1</sup> 7s<sup>2</sup>
+| ElektronenProEnergieNiveau =
+| Austrittsarbeit =
+| Ionisierungsenergie_1 =
+| Ionisierungsenergie_2 =
+| Ionisierungsenergie_3 =
+| Ionisierungsenergie_4 =
+| Ionisierungsenergie_5 =
+| Ionisierungsenergie_6 =
+| Ionisierungsenergie_7 =
+| Ionisierungsenergie_8 =
+| Ionisierungsenergie_9 =
+| Ionisierungsenergie_10 =
+<!--- Physikalisch --->
+| Aggregatzustand = fääst
+| Modifikationen = 3
+| Kristallstruktur =
+| Dichte = 19,16 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte = 2,5–3
+| Magnetismus =
+| Schmelzpunkt_K = 1405
+| Schmelzpunkt_C = 1132
+| Siedepunkt_K = 4407
+| Siedepunkt_C = 4134
+| MolaresVolumen =
+| Verdampfungswärme = 422,6
+| Schmelzwärme =
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit= ~3400 ([[Longitudinalwelle|long.]]), ~2000 ([[Transversalwelle|trans.]])<br/>
+| RefTempSchallgeschwindigkeit_K= 293
+| SpezifischeWärmekapazität =
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit =
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 27,6
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 3, 4, 5, '''6'''
+| Oxide              =
+| Basizität          =
+| Normalpotential    = −1,798 [[Volt|V]] (U<sup>3+</sup> + 3e<sup>−</sup> → U)
+| Elektronegativität = 1,2
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|TT}}
+| R = {{R-Sätze|26/28|33|53}}
+| S = {{S-Sätze|(1/2)|20/21|45|61}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 232
+| NH = 0
+| Halbwertszeit = 68,9 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]] & [[Spontane Spaltung| SF]]
+| Zerfallstyp1ZE = 5.414
+| Zerfallstyp1ZP = [[Thorium|<sup>228</sup>Th]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 233
+| NH = 0
+| Halbwertszeit = 1,592 · 10<sup>5</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 4,824
+| Zerfallstyp1ZP = [[Thorium|<sup>229</sup>Th]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 234
+| NH = 0,0055
+| Halbwertszeit = 2,455 · 10<sup>5</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 4,774
+| Zerfallstyp1ZP = [[Thorium|<sup>230</sup>Th]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 235
+| NH = 0,72
+| Halbwertszeit = 7,038 · 10<sup>8</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 4,398
+| Zerfallstyp1ZP = [[Thorium|<sup>231</sup>Th]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 235[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = ~25 [[Minute|min]]
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp1ZE = < 1
+| Zerfallstyp1ZP = <sup>235</sup>U
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 236
+| NH = -1
+| Halbwertszeit = 2,342 · 10<sup>7</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 4,494
+| Zerfallstyp1ZP = [[Thorium|<sup>232</sup>Th]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 236[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 121 [[Nanosekunde|ns]]
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]] (0,013 %)
+| Zerfallstyp1ZE = < 1
+| Zerfallstyp1ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 3
+| Symbol = U
+| Massenzahl = 236[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 120 ns
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]] (87 %)
+| Zerfallstyp1ZE = 2,750
+| Zerfallstyp1ZP = <sup>236</sup>U
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]] (13 %)
+| Zerfallstyp2ZE = 
+| Zerfallstyp2ZP = 
+| Zerfallstyp3ZM = [[Alphastrahlung|α]] (< 10 %)
+| Zerfallstyp3ZE = 7,322
+| Zerfallstyp3ZP = [[Thorium|<sup>232</sup>Th]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 237
+| NH = 0
+| Halbwertszeit = 6,75 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 0,519
+| Zerfallstyp1ZP = [[Neptunium|<sup>237</sup>Np]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = U
+| Massenzahl = 238
+| NH = '''99,27'''
+| Halbwertszeit = 4,468 · 10<sup>9</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 4,198
+| Zerfallstyp1ZP = [[Thorium|<sup>234</sup>Th]]
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = U
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
+
+
 Dät '''Uran''' is n räätselhaft un uunbekoand Metal, dät do maaste Moansken goarnit tou sjoon kriege.
 
 Man dät häd Waareldgeschichte moaked. Foer uur twohunnert Jiere wuud et fuunen, man bolde uurelhunnert Jiere uunbeoachted lät, wil deer noch neen Ferweertenge foar waas. Däälich stoant dät Uran uur Gould un Diamanten, un ju Hoast, wier däälich mäd soacht wäd ätter do ferbuurgene Uranleegere, uurträft bi wieden dät Gouldfiewer in do fergeene Jierhunnerte. 
@@ -5,7 +195,7 @@ Man dät häd Waareldgeschichte moaked. Foer uur twohunnert Jiere wuud et fuunen
 
 == Äntdäkkenge ==
 
-Die Berliner Chemieprofessor Klaproth foont 1789 bie dät Unnersäiken fon Pik-blenden dät chemiske Element Nr. 92 un roate et dän Noome Uran. Et waas n säälwerschimmerjend, häd Metal, dät bie1125 Groad smilt un wät lichter is as Platin. Der wuude dan fääststoald, dät dät Element in de Natuur bloot in ju Foarm fon Ferbiendengen vorkumt, maast tousommen mäd do Ertse fon do Metalle Kobalt, Säälwer un Wismut. Et wuud bruukt bie dät faawjen fon Glääs un Porselain. Leeter spielden Uransoalte in ju Glöiköärperhäärstaalenge ne Rulle, un toulääst ferwoande man et tou hädjen fon Metalle, insteede fon Wolfram. 
+Die Berliner Chemieprofessor Klaproth foont 1789 bie dät Unnersäiken fon Pik-blenden dät chemiske Element Nr. 92 un roate et dän Noome Uran. Et waas n säälwerschimmerjend, häd Metal, dät bie 1125 Groad smilt un wät lichter is as Platin. Der wuude dan fääststoald, dät dät Element in de Natuur bloot in ju Foarm fon Ferbiendengen vorkumt, maast tousommen mäd do Ertse fon do Metalle Kobalt, Säälwer un Wismut. Et wuud bruukt bie dät faawjen fon Glääs un Porselain. Leeter spielden Uransoalte in ju Glöiköärperhäärstaalenge ne Rulle, un toulääst ferwoande man et tou hädjen fon Metalle, insteede fon Wolfram. 
 
 Die frantsööske Physiker Becquerel foont 1896 truch n glukkelken Toufal, dät Uran Stroalen uutsoant. Düsse Stroalen hääbe äänelke Wierkengen as Röntgen-Stroalen. Jo moakje ju Luft rundhääruume elektrisk un konnen ne fotografiske Platte swot moakje, uk wän se in Papier ienwikkeld is, dät neen Lucht truch lät. Truch genaue Unnersäikenge fon ju gewonnene Stroalfäiegaid keem dät frantsööske Foarsker-Eehepoor Curie deerap, dät in do Urblieuwsele fon ju Pikblende noch uurs n chemisken Gruundstof weese moaste, die noch stäärker stroalde as dät Uran un dän et, wil die Stroal ap Latien Radius hat, dän Noome Radium roate. 
 
