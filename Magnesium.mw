@@ -1,1 +1,119 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name=Magnesium
+| Symbol= Mg
+| Ordnungszahl= 12
+| Massenzahl= 24
+| Serie= [[Erdalkalimetalle]]
+| Gruppe = 2
+| Periode = 3
+| Block= s
+| Serienfarbe= DarkOrange
+<!--- Allgemein --->
+| Aussehen= silbrig weiß
+| Massenanteil= 1,94
+<!--- Atomar --->
+| Atommasse= 24,305
+| Atomradius= 150
+| AtomradiusBerechnet= 145
+| KovalenterRadius= 130
+| VanDerWaalsRadius= 173
+| Elektronenkonfiguration= &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 2
+| Austrittsarbeit= 3,7
+| Ionisierungsenergie_1= 737,7
+| Ionisierungsenergie_2= 1450,7
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= [[Paramagnetismus|paramagnetisch]]
+| Modifikationen= -
+| Kristallstruktur= [[Hexagonales Kristallsystem|hexagonal]]
+| Dichte= 1,738 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 2,5
+| Schmelzpunkt_K= 923
+| Schmelzpunkt_C= 650
+| Siedepunkt_K= 1380
+| Siedepunkt_C= 1107
+| MolaresVolumen= 14,00 · 10<sup>-6</sup>
+| Verdampfungswärme= 127,4
+| Schmelzwärme= 8,954
+| Dampfdruck= 361
+| RefTempDampfdruck_K= 923
+| Schallgeschwindigkeit= 4602
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 1020
+| ElektrischeLeitfähigkeit= 22,6 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 156
+<!--- Chemisch --->
+| Oxidationszustände= 2
+| Oxide= MgO
+| Basizität= mäßig [[Base (Chemie)|basisch]]
+| Normalpotential= -2,372 [[Volt|V]] (Mg<sup>2+</sup> + 2e<sup>-</sup> → Mg)
+| Elektronegativität= 1,31
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = '''Pulver''' <br />{{Gefahrensymbole|F}}
+| R                  = {{R-Sätze|15|17}} (nicht stabilisiert) <br />
+R: {{R-Sätze|11|15}} ([[phlegmatisiert]], Späne)
+| S                  = {{S-Sätze|(2)|7/8|43}} 
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mg
+| Massenzahl = 23
+| NH = 0
+| Halbwertszeit = 11,317 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 4,057
+| Zerfallstyp1ZP = [[Natrium|<sup>23</sup>Na]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mg
+| Massenzahl = 24
+| NH = '''78,99'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mg
+| Massenzahl = 25
+| NH = 10,00
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mg
+| Massenzahl = 26
+| NH = 11,01
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mg
+| Massenzahl = 27
+| NH = 0
+| Halbwertszeit = 9,458 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 2,610
+| Zerfallstyp1ZP = [[Aluminium|<sup>27</sup>Al]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mg
+| Massenzahl = 28
+| NH = 0
+| Halbwertszeit = 20,91 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,832
+| Zerfallstyp1ZP = [[Aluminium|<sup>28</sup>Al]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol= Mg
+| Massenzahl_1= 25
+| Kernspin_1= -5/2
+| Gamma_1= 1,637 · 10<sup>7</sup>
+| Empfindlichkeit_1= 0,00267
+| Larmorfrequenz_1= 12,2
+}}
+}}
