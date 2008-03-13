@@ -1,1 +1,121 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Fluor
+| Symbol = F
+| Ordnungszahl = 9
+| Serie = [[Halogene]]
+| Gruppe = 17
+| Periode = 2
+| Block = p
+| PSSpalte= 31
+| PSZeile= 2
+| Serienfarbe= Khaki
+<!--- Allgemein --->
+| Aussehen = blasses, gelbliches Gas
+| Massenanteil = 0,06<ref name="HoWi">Holleman-Wiberg: Lehrbuch der Anorganischen Chemie. 102. Auflage, de Gruyter, Berlin 2007, ISBN 978-3-11-017770-1.</ref>
+<!--- Atomar --->
+| Atommasse = 18,9984
+| Atomradius = 50
+| AtomradiusBerechnet = 42
+| KovalenterRadius = 71
+| VanDerWaalsRadius = 147
+| Elektronenkonfiguration = &#x5B;[[Helium|He]]&#x5D; 2s<sup>2</sup> 2p<sup>5</sup>
+| ElektronenProEnergieNiveau = 2, 7
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 1681,0
+| Ionisierungsenergie_2 = 3374,2
+| Ionisierungsenergie_3 = 6050,4
+<!--- Physikalisch --->
+| Aggregatzustand = gasförmig
+| Modifikationen = 
+| Kristallstruktur = 
+| RefTempDichte_K = 
+| Dichte = 1,6965 kg/m<sup>3</sup><ref name="BGIA GESTIS"/>
+| RefTempDichte_K = 273
+| Mohshärte =  
+| Magnetismus = diamagnetisch
+| Schmelzpunkt_K = 53,53
+| Schmelzpunkt_C = −219,62
+| Siedepunkt_K = 85,03
+| Siedepunkt_C = −188,12
+| MolaresVolumen = 11,20 · 10<sup>−6</sup> 
+| Verdampfungswärme = 3,2698
+| Schmelzwärme = 0,2552
+| Dampfdruck = 
+| Schallgeschwindigkeit = 
+| SpezifischeWärmekapazität = 
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit= 
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,0279
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = −1
+| Oxide = 
+| Basizität = stark sauer
+| Normalpotential = 2,87 V (F + e<sup>−</sup> → F<sup>−</sup>)
+| Elektronegativität = 4,0
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|T+|C}}
+| R                  = {{R-Sätze|7|26|35}}
+| S                  = {{S-Sätze|(1/2)|9|26|36/37/39|45}}
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 17
+| Symbol = F
+| NH = 0
+| Halbwertszeit = 64,49 [[Sekunde|s]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,761
+| Zerfallstyp1ZP = <sup>17</sup>O
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 18
+| Symbol = F
+| NH = 0
+| Halbwertszeit = 109,77 [[Minute|m]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Betastrahlung|β+]],[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,656
+| Zerfallstyp1ZP = <sup>18</sup>O
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 19
+| OZ= 9
+| Symbol = F
+| NH = 100
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 20
+| Symbol = F
+| NH = 0
+| Halbwertszeit = 11,00 [[Sekunde|s]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 7,025
+| Zerfallstyp1ZP = <sup>20</sup>Ne
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 21
+| Symbol = F
+| NH = 0
+| Halbwertszeit = 4,158 [[Sekunde|s]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 5,684
+| Zerfallstyp1ZP = <sup>21</sup>Ne
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol = F
+| Massenzahl_1 = 19
+| Kernspin_1 = 1/2
+| Gamma_1 = 25,17 · 10<sup>7</sup><ref>W. Herzog, M. Messerschmidt, NMR- Spektroskopie für Anwender, VCH, Weinheim, 1995
+ISBN 3-527-28690-X.</ref>
+| Empfindlichkeit_1 = 
+| Larmorfrequenz_1 = 
+}}
+}}
