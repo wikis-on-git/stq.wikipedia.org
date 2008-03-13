@@ -1,1 +1,202 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Neon
+| Symbol = Ne
+| Ordnungszahl = 10
+| Serie = [[Edelgase]]
+| Gruppe = 18
+| Periode = 2
+| Block = p
+| Serienfarbe = LightskyBlue
+| Aussehen = Farbloses Gas
+| Massenanteil = 5 · 10<sup>-7</sup>
+| Atommasse = 20,1797 
+| Atomradius = ?
+| AtomradiusBerechnet = 38
+| KovalenterRadius = 69
+| VanDerWaalsRadius = 154
+| Elektronenkonfiguration = &#x5B;[[Helium|He]]&#x5D;2s<sup>2</sup> 2p<sup>6</sup>
+| ElektronenProEnergieNiveau = 2, 8
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 2080,7 
+| Ionisierungsenergie_2 = 3952,3
+| Ionisierungsenergie_3 = 6122
+| Ionisierungsenergie_4 = 9371
+| Ionisierungsenergie_5 = 12177
+| Ionisierungsenergie_6 = 15238
+| Ionisierungsenergie_7 = 19999,0
+| Ionisierungsenergie_8 = 23069,5
+| Aggregatzustand = gasförmig
+| Modifikationen = 1
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 0,8999 kg · m<sup>−3</sup>
+| RefTempDichte_K = 
+| Mohshärte = keine (Gas)
+| Magnetismus = unmagnetisch
+| Schmelzpunkt_K = 24,56
+| Schmelzpunkt_C = -248,59
+| Siedepunkt_K = 27,07
+| Siedepunkt_C = -246,08
+| MolaresVolumen =  22,42 · 10<sup>-3</sup>
+| Verdampfungswärme = 1,7326
+| Schmelzwärme = 0,3317
+| Dampfdruck = 
+| RefTempDampfdruck_K = 
+| Schallgeschwindigkeit =  433
+| RefTempSchallgeschwindigkeit_K = 
+| SpezifischeWärmekapazität = 1031
+| RefTempSpezifischeWärmekapazität_K = 298
+| ElektrischeLeitfähigkeit = 0
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,0493
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = 0
+| Oxide = keine
+| Basizität = keine
+| Normalpotential = 
+| Elektronegativität = 4,5
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|9|23}}<ref>[http://gasekatalog.airliquide.de/sdb/086a__neon.pdf Stoffdatenblatt Neon(verdichtet)]</ref>
+| Radioaktiv         = 
+
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 17
+| NH = 0
+| Halbwertszeit = 109,2 [[Millisekunde|ms]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 14,530
+| Zerfallstyp1ZP = [[Fluor|<sup>17</sup>F]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 18
+| NH = 0
+| Halbwertszeit = 1,67 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 4,446
+| Zerfallstyp1ZP = [[Fluor|<sup>18</sup>F]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 19
+| NH = 0
+| Halbwertszeit = 17,34 [[Sekunde|ms]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,238
+| Zerfallstyp1ZP = [[Fluor|<sup>19</sup>F]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ne
+| Massenzahl = 20
+| NH = '''90,48'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ne
+| Massenzahl = 21
+| NH = 0,27
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ne
+| Massenzahl = 22
+| NH = 9,25
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 23
+| NH = 0
+| Halbwertszeit = 34,24 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 4,376
+| Zerfallstyp1ZP = [[Natrium|<sup>23</sup>Na]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 24
+| NH = 0
+| Halbwertszeit = 3,38 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 2,470
+| Zerfallstyp1ZP = [[Natrium|<sup>24</sup>Na]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 25
+| NH = 0
+| Halbwertszeit = 602 [[Millisekunde|ms]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 7,300
+| Zerfallstyp1ZP = [[Natrium|<sup>25</sup>Na]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 26
+| NH = 0
+| Halbwertszeit = 230 [[Millisekunde|ms]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 7,330
+| Zerfallstyp1ZP = [[Natrium|<sup>26</sup>Na]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 27
+| NH = 0
+| Halbwertszeit = 32 [[Millisekunde|ms]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 12,670
+| Zerfallstyp1ZP = [[Natrium|<sup>27</sup>Na]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 28
+| NH = 0
+| Halbwertszeit = 14 [[Millisekunde|ms]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 12,310
+| Zerfallstyp1ZP = [[Natrium|<sup>28</sup>Na]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 29
+| NH = 0
+| Halbwertszeit = 200 [[Millisekunde|ms]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]+ [[Neutronen-Emission|n]]
+| Zerfallstyp1ZE = 9,170
+| Zerfallstyp1ZP = [[Natrium|<sup>28</sup>Na]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ne
+| Massenzahl = 30
+| NH = 0
+| Halbwertszeit =  
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]+ [[Neutronen-Emission|n]]
+| Zerfallstyp1ZE =  
+| Zerfallstyp1ZP = [[Natrium|<sup>29</sup>Na]]
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Ne
+| Massenzahl_1 = 21
+| Kernspin_1 = 3/2
+| Gamma_1 = 2,112 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,0025
+| Larmorfrequenz_1 =15,8 [[Hertz (Einheit)|MHz]]
+}}
+}}
