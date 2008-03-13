@@ -1,1 +1,127 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Bor
+| Symbol= B
+| Ordnungszahl= 5
+| Massenzahl= 11
+| Serie= [[Halbmetalle]]
+| Gruppe= 13
+| Periode= 2
+| Block= p
+| Serienfarbe= Peru
+| Aussehen= schwarz
+| Massenanteil= 1 · 10<sup>−3</sup>
+| Atommasse= 10,811
+| Atomradius= 85
+| AtomradiusBerechnet= 87
+| KovalenterRadius= 82
+| VanDerWaalsRadius=
+| Elektronenkonfiguration= [[Helium|He]] 2s<sup>2</sup> 2p<sup>1</sup>
+| ElektronenProEnergieNiveau= 2, 3
+| Austrittsarbeit=
+| Ionisierungsenergie_1= 800,6
+| Ionisierungsenergie_2= 2427,1
+| Ionisierungsenergie_3= 3659,7
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= 
+| Modifikationen= 
+| Kristallstruktur= [[Rhomboeder|rhomboedrisch]]
+| Dichte= 2,460 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 9,3
+| Schmelzpunkt_K= 2349
+| Schmelzpunkt_C= 2076
+| Siedepunkt_K= 4200
+| Siedepunkt_C=  3927
+| MolaresVolumen= 4,39 · 10<sup>−6</sup>
+| Verdampfungswärme= 489,7
+| Schmelzwärme= 50,2
+| Dampfdruck= 0,348
+| RefTempDampfdruck_K= 2573
+| Schallgeschwindigkeit= 16200
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 1026
+| ElektrischeLeitfähigkeit = 1,0 · 10<sup>−4</sup>
+| Wärmeleitfähigkeit = 27,4
+<!--- Chemisch --->
+| Oxidationszustände= 3
+| Oxide= B<sub>2</sub>O<sub>3</sub>
+| Basizität= leicht [[Säure|sauer]]
+| Normalpotential= 
+| Elektronegativität= 2,04
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|XN}}
+| R                  = {{R-Sätze|22}}<ref name="Merck-SDB">[http://chemdat.merck.de/documents/sds/emd/deu/de/1120/112070.pdf Sicherheitsdatenblatt (Merck)]</ref>
+| S                  = {{S-Sätze|22}}<ref name="Merck-SDB"/>
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= B
+| Massenzahl= 8
+| NH= 0
+| Halbwertszeit= 770 [[Sekunde|ms]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 17,979
+| Zerfallstyp1ZP= [[Beryllium|<sup>8</sup>Be]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= B
+| Massenzahl= 9
+| NH= 0
+| Halbwertszeit= 8,465 · 10<sup>−19</sup> [[Sekunde|s]]
+| Zerfallstyp1ZM= [[Protonen-Emission|p]]
+| Zerfallstyp1ZE= 0,185
+| Zerfallstyp1ZP= [[Beryllium|<sup>8</sup>Be]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Symbol= B
+| OZ= 5
+| Massenzahl= 10
+| NH=19,9
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Symbol= B
+| OZ= 5
+| Massenzahl= 11
+| NH='''80,1'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= B
+| Massenzahl= 12
+| NH= 0
+| Halbwertszeit= 20,20 [[Sekunde|ms]]
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 13,369
+| Zerfallstyp1ZP= [[Kohlenstoff|<sup>12</sup>C]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= B
+| Massenzahl= 13
+| NH= 0
+| Halbwertszeit= 17,36 [[Sekunde|ms]]
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 13,437
+| Zerfallstyp1ZP= [[Kohlenstoff|<sup>13</sup>C]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| Symbol = B
+| Massenzahl_1 = 10
+| Kernspin_1 = 3<ref name="Hesse">M.Hesse, H.Meier, B.Zeeh: ''Spektroskopische Methoden in der organischen Chemie'' Thieme Verlag, 2002</ref>
+| Gamma_1 = 2,875 · 10<sup>7</sup><ref name="Hesse"/>
+| Empfindlichkeit_1 = 
+| Larmorfrequenz_1 = 21,5<ref name="Hesse"/>
+| Massenzahl_2 = 11
+| Kernspin_2 = 3/2<ref name="Hesse"/>
+| Gamma_2 = 8,584 · 10<sup>7</sup><ref name="Hesse"/>
+| Empfindlichkeit_2 = 
+| Larmorfrequenz_2 = 64,2<ref name="Hesse"/>
+}}
+}}
