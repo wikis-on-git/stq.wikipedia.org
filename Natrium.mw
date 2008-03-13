@@ -1,1 +1,114 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name=Natrium
+| Symbol=Na
+| Ordnungszahl=11
+| Massenzahl=23
+| Serie= [[Alkalimetalle]]
+| Gruppe = 1
+| Periode = 3
+| Block= s
+| Serienfarbe= OrangeRed
+<!--- Allgemein --->
+| Aussehen= silbrig weiß
+| Massenanteil= 2,7<ref name="HoWi"/>
+<!--- Atomar --->
+| Atommasse= 22,989770
+| Atomradius= 180
+| AtomradiusBerechnet= 190
+| KovalenterRadius= 154
+| VanDerWaalsRadius= 227
+| Elektronenkonfiguration= &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>1</sup>
+| ElektronenProEnergieNiveau= 2, 8, 1
+| Ionisierungsenergie_1=495,8
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= paramagnetisch
+| Modifikationen=
+| Kristallstruktur= kubisch raumzentriert
+| Dichte= 0,968 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 0,5
+| Schmelzpunkt_K= 370,87
+| Schmelzpunkt_C= 97,72
+| Siedepunkt_K= 1156
+| Siedepunkt_C= 883
+| MolaresVolumen= 23,78 · 10<sup>−6</sup>
+| Verdampfungswärme= 97,7
+| Schmelzwärme= 2,60
+| Dampfdruck= 1
+| RefTempDampfdruck_K=554 <ref name="crc">David R. Lide (ed), CRC Handbook of Chemistry and Physics, 84th Edition, CRC Press, Boca Raton, Florida, 2003.</ref>
+| Schallgeschwindigkeit= 3200
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität= 1230
+| ElektrischeLeitfähigkeit= 21 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 140
+<!--- Chemisch --->
+| Oxidationszustände= 1
+| Oxide= Na<sub>2</sub>O
+| Basizität= stark [[Base (Chemie)|basisch]]
+| Normalpotential= −2,713 V (Na<sup>+</sup>+ e<sup>−</sup> → Na)
+| Elektronegativität= 0,93
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|F|C}}
+| R                  = {{R-Sätze|14/15|34}}
+| S                  = {{S-Sätze|(1/2)|5|8|43|45}}
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Na
+| Massenzahl = 21
+| NH = 0
+| Halbwertszeit = 22,49 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,547
+| Zerfallstyp1ZP = [[Neon|<sup>21</sup>Ne]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Na
+| Massenzahl = 22
+| NH = 0
+| Halbwertszeit = 2,602 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,842
+| Zerfallstyp1ZP = [[Neon|<sup>22</sup>Ne]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Na
+| Massenzahl = 23
+| NH = '''100'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Na
+| Massenzahl = 24
+| NH = 0
+| Halbwertszeit = 14,959 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 5,516
+| Zerfallstyp1ZP = [[Magnesium|<sup>24</sup>Mg]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Na
+| Massenzahl = 25
+| NH = 0
+| Halbwertszeit = 59,1 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 3,835
+| Zerfallstyp1ZP = [[Magnesium|<sup>25</sup>Mg]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol=Na
+| Massenzahl_1=23
+| Kernspin_1=3/2
+| Gamma_1=7,081 · 10<sup>7</sup>
+| Empfindlichkeit_1=100 %
+| Larmorfrequenz_1=52,9
+}}
+}}
