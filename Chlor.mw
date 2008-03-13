@@ -1,1 +1,180 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Chlor
+| Symbol= Cl
+| Ordnungszahl= 17
+| Serie= [[Halogene]]
+| Gruppe = 17
+| Periode = 3
+| Block= p
+| Serienfarbe= Khaki
+<!--- Allgemein --->
+| Aussehen = gelblich-grün
+| Massenanteil = 0,19
+<!--- Atomar --->
+| Atommasse= 35,453
+| Atomradius=100
+| AtomradiusBerechnet= 79
+| KovalenterRadius= 99
+| VanDerWaalsRadius= 175
+| Elektronenkonfiguration= &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup> 3p<sup>5</sup>
+| ElektronenProEnergieNiveau= 2, 8, 7
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 1251,2
+| Ionisierungsenergie_2= 2298
+| Ionisierungsenergie_3= 3822
+| Ionisierungsenergie_4= 5159
+| Ionisierungsenergie_5= 6542
+| Ionisierungsenergie_6= 9362
+| Ionisierungsenergie_7= 11018
+<!--- Physikalisch --->
+| Aggregatzustand= gasförmig
+| Magnetismus= diamagnetisch
+| Modifikationen= 
+| Kristallstruktur= orthorhombisch
+| Dichte= 3,214 kg · m<sup>−3</sup>
+| RefTempDichte_K= 273
+| Mohshärte=-
+| Schmelzpunkt_K= 171,6
+| Schmelzpunkt_C= −101,5
+| Siedepunkt_K= 239,11
+| Siedepunkt_C= −34,04
+| MolaresVolumen= 22,1 · 10<sup>−3</sup>
+| Verdampfungswärme= 10,2
+| Schmelzwärme= 3,203
+| Dampfdruck= 3,67 · 10<sup>6</sup>
+| RefTempDampfdruck_K=
+| Schallgeschwindigkeit= 206
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= 480 
+| ElektrischeLeitfähigkeit= 
+| Wärmeleitfähigkeit= 0,0089
+<!--- Chemisch --->
+| Oxidationszustände= ±'''1''', 3, 4, 5, 6, 7
+| Oxide= 
+| Basizität= stark sauer
+| Normalpotential= 1,358 V (Cl + e<sup>−</sup> → Cl<sup>−</sup>)
+| Elektronegativität= 3,16
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|T|N}}
+| R                  = {{R-Sätze|23|36/37/38|50}}
+| S                  = {{S-Sätze|(1/2)|9|45|61}}
+| MAK                = 1,5 mg/m<sup>3</sup><ref>[http://gasekatalog.airliquide.de/sdb/022__chlor.pdf Sicherheitsdatenblatt (Air Liquide)]</ref>
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 33
+| Symbol= Cl
+| NH= 0
+| Halbwertszeit= 2,511 [[Sekunde|s]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 5,583
+| Zerfallstyp1ZP= [[Schwefel|<sup>33</sup>S]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 34
+| Symbol= Cl
+| NH= 0
+| Halbwertszeit= 1,5264 [[Sekunde|s]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 5,492
+| Zerfallstyp1ZP= [[Schwefel|<sup>34</sup>S]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 34[[Metastabiler Zustand|meta]]
+| Symbol= Cl
+| NH= 0
+| Halbwertszeit= 32,0 [[Minute|min]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 5,638
+| Zerfallstyp1ZP= [[Schwefel|<sup>34</sup>S]]
+| Zerfallstyp2ZM= [[Isomerie-Übergang|IT]]
+| Zerfallstyp2ZE= 0,146
+| Zerfallstyp2ZP= <sup>34</sup>Cl
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 17
+| Massenzahl= 35
+| Symbol= Cl
+| NH= '''75,77'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=36
+| Symbol=Cl
+| NH= 0
+| Halbwertszeit= 301.000 a
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 0,709
+| Zerfallstyp1ZP= [[Argon|<sup>36</sup>Ar]]
+| Zerfallstyp2ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE= 1,142
+| Zerfallstyp2ZP= [[Schwefel|<sup>36</sup>S]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Massenzahl= 37
+| OZ = 17
+| Symbol= Cl
+| NH=24,23
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 38
+| Symbol= Cl
+| NH= 0
+| Halbwertszeit= 37,24 min
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 4,917
+| Zerfallstyp1ZP= [[Argon|<sup>38</sup>Ar]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 39
+| Symbol =Cl
+| NH= 0
+| Halbwertszeit= 55,6 min
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE=3,442
+| Zerfallstyp1ZP= [[Argon|<sup>39</sup>Ar]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 40
+| Symbol= Cl
+| NH= 0
+| Halbwertszeit= 1,35 min
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 7,480
+| Zerfallstyp1ZP= [[Argon|<sup>40</sup>Ar]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 41
+| Symbol= Cl
+| NH= 0
+| Halbwertszeit= 38,4 s
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 5,730
+| Zerfallstyp1ZP= [[Argon|<sup>41</sup>Ar]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| Symbol= Cl
+| Massenzahl_1= 35
+| Kernspin_1= 3/2
+| Gamma_1= 2,64 · 10<sup>7</sup> <!-- Organische Chemie TU München -->
+| Empfindlichkeit_1= 3,58 · 10<sup>-3</sup>
+| Larmorfrequenz_1= 
+| Massenzahl_2= 37
+| Kernspin_2=  3/2
+| Gamma_2= 2,18 · 10<sup>7</sup> <!-- Organische Chemie TU München -->
+| Empfindlichkeit_2= 6,59 · 10<sup>-4</sup>
+| Larmorfrequenz_2= 
+}}
+}}
