@@ -1,1 +1,165 @@
-{{stump}}
+{{Infobox Chemisk Element
+|Name= Schwefel
+|Symbol= S
+|Ordnungszahl= 16
+|Massenzahl= 32
+|Serie= [[Nichtmetalle]]
+|Gruppe = 16
+|Periode = 3
+|Block= p
+|Serienfarbe= LimeGreen
+|Aussehen= zitronengelb
+|Massenanteil= 0,05
+|Atommasse= 32,065
+|Atomradius= 100
+|AtomradiusBerechnet= 88
+|KovalenterRadius= 102
+|VanDerWaalsRadius= 180
+|Elektronenkonfiguration= &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup> 3p<sup>4</sup>
+|ElektronenProEnergieNiveau= 2, 8, 6
+|Austrittsarbeit= 
+|Ionisierungsenergie_1= 999,6
+|Ionisierungsenergie_2= 2252
+|Ionisierungsenergie_3= 3357
+|Ionisierungsenergie_4= 4556
+|Ionisierungsenergie_5= 7004,3
+|Ionisierungsenergie_6= 8495,8
+|Aggregatzustand= fest
+|Modifikationen= 
+|Kristallstruktur= [[orthorhombisch]]
+|Dichte= 1,96 g/cm<sup>3</sup>
+|Mohshärte= 2
+|Magnetismus= diamagnetisch
+|Schmelzpunkt_K= 388,36
+|Schmelzpunkt_C= 115,21
+|Siedepunkt_K= 717,87
+|Siedepunkt_C= 444,72
+|MolaresVolumen= 15,53 · 10<sup>-6</sup>
+|Verdampfungswärme= 9,6
+|Schmelzwärme= 1,7175
+|Dampfdruck= 2,65 · 10<sup>-20</sup>
+|RefTempDampfdruck_K= 388
+|Schallgeschwindigkeit= 
+|SpezifischeWärmekapazität= 710
+|ElektrischeLeitfähigkeit= 5,0 · 10<sup>-22</sup>
+|Wärmeleitfähigkeit= 0,269
+|Oxidationszustände= ±2, 4, '''6'''
+|Oxide= SO<sub>2</sub>, SO<sub>3</sub>
+|Basizität= stark [[Säure|sauer]]
+|Normalpotential= -0,48 V (S + 2e<sup>−</sup> → S<sup>2−</sup>)
+|Elektronegativität= 2,58
+| RL 67/548/EWG = Nein
+| Gefahrensymbole = {{Gefahrensymbole|F}}
+| R = {{R-Sätze|11}}<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/43766_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
+| S = {{S-Sätze|33}} <ref name="alfa-SDB"/>
+| Radioaktiv = 
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 30
+| Symbol= S
+| NH= 0
+| Halbwertszeit= 1,178 [[Sekunde|s]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 6,138
+| Zerfallstyp1ZP= [[Phosphor|<sup>30</sup>P]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 31
+| Symbol= S
+| NH= 0
+| Halbwertszeit= 2,572 [[Sekunde|s]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 5,396
+| Zerfallstyp1ZP= [[Phosphor|<sup>31</sup>P]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 16
+| Massenzahl= 32
+| Symbol= S
+| NH= 95,02
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 16
+| Massenzahl=33
+| Symbol= S
+| NH= 0,75
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 16
+| Massenzahl=34
+| Symbol=S
+| NH=4,21
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl=35
+| Symbol=S
+| NH= 0
+| Halbwertszeit= 87,32 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE= 0,167
+| Zerfallstyp1ZP= [[Chlor|<sup>35</sup>Cl]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 16
+| Massenzahl= 36
+| Symbol= S
+| NH= 0,02
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 37
+| Symbol= S
+| NH= 0
+| Halbwertszeit= 5,05 [[Minute|min]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE= 4,865
+| Zerfallstyp1ZP= [[Chlor|<sup>37</sup>Cl]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 38
+| Symbol= S
+| NH= 0
+| Halbwertszeit= 170,3 [[Minute|min]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE= 2,937
+| Zerfallstyp1ZP= [[Chlor|<sup>38</sup>Cl]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 39
+| Symbol= S
+| NH= 0
+| Halbwertszeit= 11,5 [[Sekunde|s]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE= 6,640
+| Zerfallstyp1ZP= [[Chlor|<sup>39</sup>Cl]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 40
+| Symbol= S
+| NH= 0
+| Halbwertszeit= 8,8 [[Sekunde|s]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE= 4,710
+| Zerfallstyp1ZP= [[Chlor|<sup>40</sup>Cl]]
+}}
+|NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol = S
+| Massenzahl_1 = 33
+| Kernspin_1 = 3/2
+| Gamma_1 = 2,053
+| Empfindlichkeit_1 = 1,72 · 10<sup>-5</sup>
+| Larmorfrequenz_1 = 7,670 (2,3488 T)
+}}
+}}
