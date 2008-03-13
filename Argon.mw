@@ -1,1 +1,187 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Argon
+| Symbol= Ar
+| Ordnungszahl= 18
+| Serie= [[Edelgase]]
+| Gruppe = 18
+| Periode = 3
+| Block= p
+| Serienfarbe= LightskyBlue
+<!--- Allgemein --->
+| Aussehen= farbloses Gas
+| Massenanteil= 4 · 10<sup>-4</sup>
+| CAS_Nummer= 7440-37-1 
+<!--- Atomar --->
+| Atommasse= 39,948
+| Atomradius= -
+| AtomradiusBerechnet= 147
+| KovalenterRadius= 97
+| VanDerWaalsRadius= 188
+| Elektronenkonfiguration= &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup> 3p<sup>6</sup>
+| ElektronenProEnergieNiveau= 2, 8, 8
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 1521
+| Ionisierungsenergie_2= 2666
+| Ionisierungsenergie_3= 3931
+| Ionisierungsenergie_4= 5771
+| Ionisierungsenergie_5= 7238
+| Ionisierungsenergie_6= 8781
+| Ionisierungsenergie_7= 11995
+| Ionisierungsenergie_8= 13842
+<!--- Physikalisch --->
+| Aggregatzustand= gasförmig
+| Modifikationen= 
+| Kristallstruktur= kubisch flächenzentriert
+| Dichte= 1,784 kg · m<sup>−3</sup>
+| RefTempDichte_K= 273
+| Mohshärte= 
+| Magnetismus= diamagnetisch
+| Schmelzpunkt_K= 83,8
+| Schmelzpunkt_C= -189,3
+| Siedepunkt_K= 87,3
+| Siedepunkt_C= -185,8
+| MolaresVolumen= 22,4 · 10<sup>-3</sup>
+| Verdampfungswärme= 6,447
+| Schmelzwärme= 1,188
+| Dampfdruck= 
+| RefTempDampfdruck_K= 
+| Schallgeschwindigkeit= 318 
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 520
+| ElektrischeLeitfähigkeit= 0 
+| RefTempElektrischeLeitfähigkeit_K= 
+| Wärmeleitfähigkeit= 0,01772
+| RefTempWärmeleitfähigkeit_K= 
+<!--- Chemisch --->
+| Oxidationszustände=0
+| Oxide= 
+| Basizität= 
+| Normalpotential= 
+| Elektronegativität= 3,2
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|9|23}}<ref>[http://linde-gas.de/international/web/lg/de/likelgde30.nsf/RepositoryByAlias/y8303_8/$FILE/8303_8.pdf Sicherheitsdatenblatt Argon(verdichtet)]</ref>
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Massenzahl= 34
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 844,5 [[Sekunde|ms]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 6,061
+| Zerfallstyp1ZP= [[Chlor|<sup>34</sup>Cl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 35
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 1,775 [[Sekunde|s]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 5,965
+| Zerfallstyp1ZP= [[Chlor|<sup>35</sup>Cl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 36
+| OZ = 18
+| Symbol= Ar
+| NH= 0,336
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 37
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 35,04 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 0,813
+| Zerfallstyp1ZP= [[Chlor|<sup>37</sup>Cl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Massenzahl= 38
+| OZ= 18
+| Symbol= Ar
+| NH= 0,063
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 39
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 269 [[Jahr|a]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE= 0,565
+| Zerfallstyp1ZP= [[Kalium|<sup>39</sup>K]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Massenzahl= 40
+| OZ= 18
+| Symbol= Ar
+| NH= 99,6
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 41
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 109,34 [[Minute|min]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE= 2,492
+| Zerfallstyp1ZP= [[Kalium|<sup>41</sup>K]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 42
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 32,9 [[Jahr|a]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE= 0,600
+| Zerfallstyp1ZP= [[Kalium|<sup>42</sup>K]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 43
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 5,37 [[Minute|min]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE= 4,620
+| Zerfallstyp1ZP= [[Kalium|<sup>43</sup>K]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 44
+| Symbol= Ar
+| NH= 0
+| Halbwertszeit= 11,87 [[Minute|min]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE= 3,550
+| Zerfallstyp1ZP= [[Kalium|<sup>44</sup>K]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol = Ar
+| Massenzahl_1 = 36
+| Kernspin_1 = 
+| Gamma_1 = 
+| Empfindlichkeit_1 = 
+| Larmorfrequenz_1 = 
+| Massenzahl_2 = 38
+| Kernspin_2 = 
+| Gamma_2 = 
+| Empfindlichkeit_2 = 
+| Larmorfrequenz_2 = 
+| Massenzahl_3 = 40
+| Kernspin_3 = 
+| Gamma_3 = 
+| Empfindlichkeit_3 = 
+| Larmorfrequenz_3 = 
+}}
+}}
