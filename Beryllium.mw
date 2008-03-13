@@ -1,1 +1,115 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Beryllium
+| Symbol= Be
+| Ordnungszahl= 4
+| Massenzahl= 9
+| Serie= [[Erdalkalimetalle]]
+| Gruppe= 2
+| Periode= 2
+| Block= s
+| Serienfarbe= DarkOrange
+| Aussehen= weiß-grau metallisch
+| Massenanteil= 5 · 10<sup>−4</sup>
+| Atommasse= 9,01218
+| Atomradius= 112
+| AtomradiusBerechnet= -
+| KovalenterRadius= 90
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= &#x5B;[[Helium|He]]&#x5D; 2s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 2
+| Austrittsarbeit= 5,0
+| Ionisierungsenergie_1= 899,5
+| Ionisierungsenergie_2= 1757,1
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= [[Diamagnetismus|diamagnetisch]]
+| Modifikationen= 
+| Kristallstruktur= hexagonal
+| Dichte= 1,848 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 5,5
+| Schmelzpunkt_K= 1551,15
+| Schmelzpunkt_C= 1278
+| Siedepunkt_K= 2750
+| Siedepunkt_C= 2476,85
+| MolaresVolumen= 4,85 · 10<sup>−6</sup>
+| Verdampfungswärme= 292,40
+| Schmelzwärme= 12,20
+| Dampfdruck= 4180
+| RefTempDampfdruck_K=
+| Schallgeschwindigkeit= 13000
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= 1825
+| ElektrischeLeitfähigkeit= 31,3 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 201
+<!--- Chemisch --->
+| Oxidationszustände= 2
+| Oxide= BeO
+| Basizität= amphoter
+| Normalpotential= −1,85 [[Volt|V]] (Be<sup>2+</sup> + 2e<sup>−</sup> → Be)
+| Elektronegativität= 1,57
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|T+}}
+| R = {{R-Sätze|49|E25|E26|E48/23|36/37/38|43}}
+| S = {{S-Sätze|53|45}}
+| Radioaktiv = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Be
+| Massenzahl = 7
+| NH = -1
+| Halbwertszeit = 53,12 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,862
+| Zerfallstyp1ZP = [[Lithium|<sup>7</sup>Li]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Be
+| Massenzahl = 8
+| NH = 0
+| Halbwertszeit = 6,722 · 10<sup>−17</sup> [[Sekunde|s]]
+| Zerfallstyp1ZM = 2 [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 0,092
+| Zerfallstyp1ZP = -
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Be
+| OZ = 4
+| Massenzahl = 9
+| NH = 100
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Be
+| Massenzahl = 10
+| NH = -1
+| Halbwertszeit = 1,51 · 10<sup>6</sup>[[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,556
+| Zerfallstyp1ZP = [[Bor|<sup>10</sup>B]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Be
+| Massenzahl = 11
+| NH = 0
+| Halbwertszeit = 13,81 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 11,506
+| Zerfallstyp1ZP = [[Bor|<sup>11</sup>B]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol= Be
+| Massenzahl_1= 9
+| Kernspin_1= -3/2
+| Gamma_1= 3,759 · 10<sup>7</sup>
+| Empfindlichkeit_1= 0,0139
+| Larmorfrequenz_1= 28,1
+}}
+}}
