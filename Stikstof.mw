@@ -1,1 +1,109 @@
-{{stump}}
+{{Infobox Chemisches Element
+<!--- Periodensystem --->
+| Name = Stickstoff
+| Symbol = N
+| Ordnungszahl = 7
+| Serie = [[Nichtmetalle|Nichtmetall]]
+| Gruppe = 15
+| Periode = 2
+| Block = p
+| Serienfarbe = LimeGreen
+| Aussehen = Farbloses Gas
+| Massenanteil = 0,03
+| Atommasse = 14,0067
+| Atomradius = 65
+| AtomradiusBerechnet = 56
+| KovalenterRadius = 75
+| VanDerWaalsRadius = 155
+| Elektronenkonfiguration = &#x5B;[[Helium|He]]&#x5D;2s<sup>2</sup>2p<sup>3</sup>
+| ElektronenProEnergieNiveau = 2, 5
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 1402
+| Ionisierungsenergie_2 = 2856
+| Ionisierungsenergie_3 = 4578
+| Ionisierungsenergie_4 = 7475
+| Ionisierungsenergie_5 = 9445
+| Ionisierungsenergie_8 = 
+| Ionisierungsenergie_9 = 
+| Ionisierungsenergie_10 = 
+| Aggregatzustand = gasförmig
+| Modifikationen = 1
+| Kristallstruktur = hexagonal
+| Dichte = 1,2506 kg · m<sup>−3</sup>
+| RefTempDichte_K = 
+| Mohshärte = keine (Gas)
+| Magnetismus = diamagnetisch
+| Schmelzpunkt_K = 63,14
+| Schmelzpunkt_C = −210,01
+| Siedepunkt_K = 77,35
+| Siedepunkt_C = −195,80
+| MolaresVolumen = 22,42 · 10<sup>−3</sup>
+| Verdampfungswärme = 5,5856
+| Schmelzwärme = 0,7208 
+| Dampfdruck = 
+| RefTempDampfdruck_K = 
+| Schallgeschwindigkeit = 334 
+| RefTempSchallgeschwindigkeit_K = 298,15
+| SpezifischeWärmekapazität = 1040
+| RefTempSpezifischeWärmekapazität_K = 298
+| ElektrischeLeitfähigkeit = 0
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,02598
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = −3, 1, 2, '''3''', 4, 5 
+| Oxide = N<sub>2</sub>O, NO, N<sub>2</sub>O<sub>3</sub>, NO<sub>2</sub>, N<sub>2</sub>O<sub>5</sub>
+| Basizität = stark [[Säure|sauer]]
+| Normalpotential = 
+| Elektronegativität = 3,04
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|9|23}}<ref>[http://gasekatalog.airliquide.de/sdb/089a__stickstoff.pdf Stoffdatenblatt Stickstoff (verdichtet)]</ref>
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = N
+| Massenzahl = 13
+| NH = 0
+| Halbwertszeit = 9,965 min
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,220
+| Zerfallstyp1ZP = [[Kohlenstoff|<sup>13</sup>C]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = N
+| Massenzahl = 14
+| NH = 99,634
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = N
+| Massenzahl = 15
+| NH = 0,366
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = N
+| Massenzahl = 16
+| NH = 0
+| Halbwertszeit = 7,13 s
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 10,419
+| Zerfallstyp1ZP = [[Sauerstoff|<sup>16</sup>O]]
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = N
+| Massenzahl_1 = 14
+| Massenzahl_2 = 15
+| Kernspin_1 = 1
+| Kernspin_2 = 1/2
+| Gamma_1 = 1,934
+| Gamma_2 = −2,712
+| Empfindlichkeit_1 = 1,01 ·10 <sup>−3</sup>
+| Empfindlichkeit_2 = 3,85 · 10 <sup>−6</sup>
+| Larmorfrequenz_1 = 7,224 (2,348 T)
+| Larmorfrequenz_2 = 10,133 (2,348 T)
+}}
+}}
