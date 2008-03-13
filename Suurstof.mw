@@ -1,1 +1,97 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Sauerstoff
+| Symbol = O
+| Ordnungszahl = 8
+| Serie = [[Nichtmetalle]]
+| Gruppe = 16
+| Periode = 2
+| Block = p
+| Serienfarbe = LimeGreen
+| Aussehen = Farbloses Gas
+| Massenanteil = 49,4
+| Atommasse = 15,9994
+| Atomradius = 60
+| AtomradiusBerechnet = 48
+| KovalenterRadius = 73
+| VanDerWaalsRadius = 152
+| Elektronenkonfiguration = &#x5B;[[Helium|He]]&#x5D;2s<sup>2</sup>2p<sup>4</sup>
+| ElektronenProEnergieNiveau = 2, 6
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 1313,9
+| Ionisierungsenergie_2 = 3388,3
+| Ionisierungsenergie_3 = 5300,5
+| Ionisierungsenergie_4 = 7469,2
+| Aggregatzustand = gasförmig
+| Modifikationen = 2 (O<sub>2</sub>, Ozon O<sub>3</sub>)
+| Kristallstruktur = kubisch
+| Dichte = 1,429&nbsp;kg&nbsp;·&nbsp;m<sup>−3</sup>
+| RefTempDichte_K = 273,15<ref name="BGIA"/>
+| Mohshärte = keine (Gas)
+| Magnetismus = paramagnetisch
+| Schmelzpunkt_K = 54,40
+| Schmelzpunkt_C = −218,79 <ref name="BGIA">[http://biade.itrust.de/biade/lpext.dll?f=id&id=biadb%3Ar%3A007080&t=main-h.htm BGIA Gestis Stoffdatenbank]</ref>
+| Siedepunkt_K = 90,18
+| Siedepunkt_C = −182,97 <ref name="BGIA"/>
+| MolaresVolumen =  22,42&nbsp;·&nbsp;10<sup>−3</sup>
+| Verdampfungswärme = 3,4099
+| Schmelzwärme = 0,22259
+| Dampfdruck = 10&nbsp;·&nbsp;10<sup>3</sup>
+| RefTempDampfdruck_K = 61
+| Schallgeschwindigkeit =  317,5
+| RefTempSchallgeschwindigkeit_K = 293
+| SpezifischeWärmekapazität = 920
+| RefTempSpezifischeWärmekapazität_K = 298
+| ElektrischeLeitfähigkeit = 
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,02674
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = '''−2''', −1, 0, +1, +2
+| Oxide = entfällt
+| Basizität = 
+| Normalpotential = 1,23
+| Elektronegativität = 3,44
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|O}}
+| R                  = {{R-Sätze|8}}
+| S                  = {{S-Sätze|(2)|17}}
+| Radioaktiv         = 
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = O
+| Massenzahl = 15
+| NH = 0
+| Halbwertszeit = 122,24&nbsp;s
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,754
+| Zerfallstyp1ZP = [[Stickstoff|<sup>15</sup>N]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = O
+| Massenzahl = 16
+| NH = '''99,762'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = O
+| Massenzahl = 17
+| NH = 0,038
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = O
+| Massenzahl = 18
+| NH = 0,2
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = O
+| Massenzahl_1 = 17
+| Kernspin_1 = 5/2
+| Gamma_1 = −3,628&nbsp;·&nbsp;10<sup>7</sup></sup> 
+| Empfindlichkeit_1 = 
+| Larmorfrequenz_1 =  27,1&nbsp;M[[Hertz (Einheit)|Hz]]
+}}
+}}
