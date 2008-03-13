@@ -1,120 +1,151 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name= Aluminium
-| Symbol= Al
-| Ordnungszahl= 13
-| Massenzahl= 27
-| Serie= [[Metalle]]
-| Gruppe= 13
-| Periode= 3
-| Block= p
-| Serienfarbe= DarkGray
-<!--- Allgemein --->
-| Aussehen= silbrig
-| Massenanteil= 7,57
-<!--- Atomar --->
-| Atommasse= 26,981538
-| Atomradius= 125
-| AtomradiusBerechnet= 118
-| KovalenterRadius= 118
-| VanDerWaalsRadius= -
-| Elektronenkonfiguration= &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup> 3p<sup>1</sup>
-| ElektronenProEnergieNiveau= 2, 8, 3
-| Austrittsarbeit= 4,08–4,25
-| Ionisierungsenergie_1= 577,5
-| Ionisierungsenergie_2= 1816,7
-| Ionisierungsenergie_3= 2744,8
-<!--- Physikalisch --->
-| Aggregatzustand= fest
-| Magnetismus= [[Paramagnetismus|paramagnetisch]]
-| Modifikationen= 
-| Kristallstruktur= [[kubisch]] flächenzentriert
-| Dichte= 2,7 g/cm<sup>3</sup>
-| RefTempDichte_K=
-| Mohshärte= 2,75
-| Schmelzpunkt_K= 933,47
-| Schmelzpunkt_C= 660,32
-| Siedepunkt_K= 2740
-| Siedepunkt_C= 2467
-| MolaresVolumen= 10,00 · 10<sup>−6</sup>
-| Verdampfungswärme= 293,4
-| Schmelzwärme= 10,79
-| Dampfdruck= 2,42 · 10<sup>−6</sup>
-| RefTempDampfdruck_K= 
-| Schallgeschwindigkeit= 6420 ([[Longitudinalwelle|long.]]), 3040 ([[Transversalwelle|trans.]])<br/>
-| RefTempSchallgeschwindigkeit_K= 293,15
-| SpezifischeWärmekapazität = 900
-| ElektrischeLeitfähigkeit = 37,7 · 10<sup>6</sup>
-| Wärmeleitfähigkeit = 237
-<!--- Chemisch --->
-| Oxidationszustände= 3
-| Oxide= {{Chemieformel|Al|2|O|3}}
-| Basizität= [[amphoter]]
-| Normalpotential = −1,66201 [[Volt|V]] (Al<sup>3+</sup> + 3e<sup>−</sup> → Al)
-| Elektronegativität = 1,61
-| RL 67/548/EWG      = Ja
-| Gefahrensymbole    = '''Pulver''' <br />{{Gefahrensymbole|F}}
-| R                  = {{R-Sätze|15|17}} (nicht stabilisiert) <br />
-R: {{R-Sätze|10|15}} ([[phlegmatisiert]])
-| S                  = {{S-Sätze|(2)|7/8|43}} 
-| Radioaktiv         = 
-
-<!--- Isotope --->
-| Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
-| Massenzahl = 25
-| Symbol = Al
-| NH = 0
-| Halbwertszeit = 7,183 [[Sekunde|s]]
+| Name = Silicium
+| Symbol = Si
+| Ordnungszahl = 14
+| Serie = [[Halbmetalle]]
+| Gruppe = 14
+| Periode = 3
+| Block = p
+| Serienfarbe = Peru
+| Aussehen = dunkelgrau,<br />bläulicher Farbton
+| Massenanteil = 25,8
+| Atommasse = 28,0855
+| Atomradius = 110 
+| AtomradiusBerechnet = 111  
+| KovalenterRadius = 111
+| VanDerWaalsRadius = 210
+| Elektronenkonfiguration = &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup> 3p<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 4
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 786,5
+| Ionisierungsenergie_2 = 1577,1
+| Ionisierungsenergie_3 = 3231,6
+| Ionisierungsenergie_4 = 4355,5
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = [[Diamant]]-Struktur
+| Gitterparameter = 543 pm
+| Dichte = 2,33 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 6,5
+| Magnetismus = [[diamagnet]]isch
+| Schmelzpunkt_K = 1683
+| Schmelzpunkt_C = 1410
+| Siedepunkt_K = 2628
+| Siedepunkt_C = 2355
+| MolaresVolumen =  12,06 · 10<sup>-6</sup>
+| Verdampfungswärme = 384,22
+| Schmelzwärme = 50,55
+| Dampfdruck = 4,77
+| RefTempDampfdruck_K = 1683
+| Schallgeschwindigkeit = long.: ~8900 m/s<br/>trans.: ~5300 
+| RefTempSchallgeschwindigkeit_K = 293
+| SpezifischeWärmekapazität = 700
+| RefTempSpezifischeWärmekapazität_K = 298
+| ElektrischeLeitfähigkeit = 2,52 10<sup>-4</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 148
+| Dielektrizitätskonstante = 11,9
+| Oxidationszustände = -4, (2) '''+4'''
+| Oxide = SiO<sub>2</sub>
+| Basizität = [[amphoter]]
+| Normalpotential = 
+| Elektronegativität = 1,90
+| Gefahrensymbole = <div>{{Gefahrensymbole|-}}</div>
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = '''Granulat'''<br />{{Gefahrensymbole|Xi}}<br />'''Pulver'''<br />{{Gefahrensymbole|F|Xi}}
+| R                  = {{R-Sätze|36/38}} (Granulat)<ref name="alfa-SDB-Gran">[http://www.alfa-chemcat.com/daten_msds/D/38542_-_D.pdf Sicherheitsdatenblatt (alfa-aesar) für Granulat]</ref> <br />
+R: {{R-Sätze|11|36/37/38}} (Pulver)<ref name="alfa-SDB-Pulv">[http://www.alfa-chemcat.com/daten_msds/D/44185_-_D.pdf Sicherheitsdatenblatt (alfa-aesar) für Pulver]</ref>
+| S                  = {{S-Sätze|26|36/37/39}} (Granulat)<ref name="alfa-SDB-Gran"/><ref name="alfa-SDB-Pulv"/>
+S: {{S-Sätze|26|36/37/39|22}} (Pulver)
+| Radioaktiv         = Nein
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
-| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
-| Zerfallstyp1ZE = 4,277
-| Zerfallstyp1ZP = [[Magnesium|<sup>25</sup>Mg]]
-}}
-{{Vorlage:Infobox Chemisches Element/Isotop
+| Symbol = Si
 | Massenzahl = 26
-| Symbol = Al
-| NH= 0
-| Halbwertszeit = 7,17 · 10<sup>5</sup> [[Jahr|a]]
-| AnzahlZerfallstypen = 1
-| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
-| Zerfallstyp1ZE = 4,004
-| Zerfallstyp1ZP = [[Magnesium|<sup>26</sup>Mg]]
+| NH = 0
+| Halbwertszeit = 2,234 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Elektroneneinfang|ε]]
+| Zerfallstyp1ZE = 5,066
+| Zerfallstyp1ZP = [[Aluminium|<sup>26</sup>Al]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
-| AnzahlZerfallstypen= 0
-| OZ= 13
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Si
 | Massenzahl = 27
-| Symbol = Al
-| NH = 100
+| NH = 0
+| Halbwertszeit = 4,16 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Elektroneneinfang|ε]]
+| Zerfallstyp1ZE = 4,812
+| Zerfallstyp1ZP = [[Aluminium|<sup>27</sup>Al]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Si
 | Massenzahl = 28
-| Symbol = Al
-| NH= 0
-| Halbwertszeit = 2,2414 [[Minute|min]]
-| AnzahlZerfallstypen = 1
-| Zerfallstyp1ZM = [[Betastrahlung|β-]]
-| Zerfallstyp1ZE = 4,642
-| Zerfallstyp1ZP = [[Silicium|<sup>28</sup>Si]]
+| NH = '''92,23'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Si
 | Massenzahl = 29
-| Symbol = Al
-| NH= 0
-| Halbwertszeit=6,56 [[Minute|min]]
-| AnzahlZerfallstypen = 1
-| Zerfallstyp1ZM = [[Betastrahlung|β-]]
-| Zerfallstyp1ZE = 3,680
-| Zerfallstyp1ZP = [[Silicium|<sup>29</sup>Si]]
+| NH = 4,67
 }}
-| NMREigenschaften=
-{{Infobox Chemisches Element/NMR
-| Symbol = Al
-| Massenzahl_1 = 
-| Kernspin_1 = 
-| Gamma_1 = 
-| Empfindlichkeit_1 = 
-| Larmorfrequenz_1 = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Si
+| Massenzahl = 30
+| NH = 3,1
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Si
+| Massenzahl = 31
+| NH = 0
+| Halbwertszeit = 157,3 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 1,492
+| Zerfallstyp1ZP = [[Phosphor|<sup>31</sup>P]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Si
+| Massenzahl = 32
+| NH = 0
+| Halbwertszeit = 276 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 0,224
+| Zerfallstyp1ZP = [[Phosphor|<sup>32</sup>P]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Si
+| Massenzahl = 33
+| NH = 0
+| Halbwertszeit = 6,18 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 5,845
+| Zerfallstyp1ZP = [[Phosphor|<sup>33</sup>P]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Si
+| Massenzahl = 34
+| NH = 0
+| Halbwertszeit = 2,77 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>-</sup>]]
+| Zerfallstyp1ZE = 4,601
+| Zerfallstyp1ZP = [[Phosphor|<sup>34</sup>P]]
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Si
+| Massenzahl_1 = 29
+| Kernspin_1 = 1/2
+| Gamma_1 = - 5,319
+| Empfindlichkeit_1 = 3,69 · 10<sup>-4</sup>
+| Larmorfrequenz_1 = 19,864 (2,3488 T)
 }}
 }}
