@@ -1,1 +1,120 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Aluminium
+| Symbol= Al
+| Ordnungszahl= 13
+| Massenzahl= 27
+| Serie= [[Metalle]]
+| Gruppe= 13
+| Periode= 3
+| Block= p
+| Serienfarbe= DarkGray
+<!--- Allgemein --->
+| Aussehen= silbrig
+| Massenanteil= 7,57
+<!--- Atomar --->
+| Atommasse= 26,981538
+| Atomradius= 125
+| AtomradiusBerechnet= 118
+| KovalenterRadius= 118
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup> 3p<sup>1</sup>
+| ElektronenProEnergieNiveau= 2, 8, 3
+| Austrittsarbeit= 4,08–4,25
+| Ionisierungsenergie_1= 577,5
+| Ionisierungsenergie_2= 1816,7
+| Ionisierungsenergie_3= 2744,8
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= [[Paramagnetismus|paramagnetisch]]
+| Modifikationen= 
+| Kristallstruktur= [[kubisch]] flächenzentriert
+| Dichte= 2,7 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 2,75
+| Schmelzpunkt_K= 933,47
+| Schmelzpunkt_C= 660,32
+| Siedepunkt_K= 2740
+| Siedepunkt_C= 2467
+| MolaresVolumen= 10,00 · 10<sup>−6</sup>
+| Verdampfungswärme= 293,4
+| Schmelzwärme= 10,79
+| Dampfdruck= 2,42 · 10<sup>−6</sup>
+| RefTempDampfdruck_K= 
+| Schallgeschwindigkeit= 6420 ([[Longitudinalwelle|long.]]), 3040 ([[Transversalwelle|trans.]])<br/>
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität = 900
+| ElektrischeLeitfähigkeit = 37,7 · 10<sup>6</sup>
+| Wärmeleitfähigkeit = 237
+<!--- Chemisch --->
+| Oxidationszustände= 3
+| Oxide= {{Chemieformel|Al|2|O|3}}
+| Basizität= [[amphoter]]
+| Normalpotential = −1,66201 [[Volt|V]] (Al<sup>3+</sup> + 3e<sup>−</sup> → Al)
+| Elektronegativität = 1,61
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = '''Pulver''' <br />{{Gefahrensymbole|F}}
+| R                  = {{R-Sätze|15|17}} (nicht stabilisiert) <br />
+R: {{R-Sätze|10|15}} ([[phlegmatisiert]])
+| S                  = {{S-Sätze|(2)|7/8|43}} 
+| Radioaktiv         = 
+
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 25
+| Symbol = Al
+| NH = 0
+| Halbwertszeit = 7,183 [[Sekunde|s]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 4,277
+| Zerfallstyp1ZP = [[Magnesium|<sup>25</sup>Mg]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 26
+| Symbol = Al
+| NH= 0
+| Halbwertszeit = 7,17 · 10<sup>5</sup> [[Jahr|a]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 4,004
+| Zerfallstyp1ZP = [[Magnesium|<sup>26</sup>Mg]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 13
+| Massenzahl = 27
+| Symbol = Al
+| NH = 100
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 28
+| Symbol = Al
+| NH= 0
+| Halbwertszeit = 2,2414 [[Minute|min]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 4,642
+| Zerfallstyp1ZP = [[Silicium|<sup>28</sup>Si]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl = 29
+| Symbol = Al
+| NH= 0
+| Halbwertszeit=6,56 [[Minute|min]]
+| AnzahlZerfallstypen = 1
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 3,680
+| Zerfallstyp1ZP = [[Silicium|<sup>29</sup>Si]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol = Al
+| Massenzahl_1 = 
+| Kernspin_1 = 
+| Gamma_1 = 
+| Empfindlichkeit_1 = 
+| Larmorfrequenz_1 = 
+}}
+}}
