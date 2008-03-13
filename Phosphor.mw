@@ -1,1 +1,148 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Phosphor
+| Symbol = P
+| Ordnungszahl = 15
+| Serie = [[Nichtmetalle]]
+| Gruppe = 15 
+| Periode = 3
+| Block = p
+| Serienfarbe = LimeGreen
+| Aussehen = weiß-beige (W) <br/>dunkelrot (R)<br/>Schwarz (S)
+| Massenanteil = 0,09
+| Atommasse = 30,97376
+| Atomradius = 100  
+| AtomradiusBerechnet = 98
+| KovalenterRadius = 106
+| VanDerWaalsRadius = 180
+| Elektronenkonfiguration = &#x5B;[[Neon|Ne]]&#x5D; 3s<sup>2</sup> 3p<sup>3</sup>
+| ElektronenProEnergieNiveau = 2, 8, 5
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 1011,8 
+| Ionisierungsenergie_2 = 1907
+| Ionisierungsenergie_3 = 2914,1
+| Ionisierungsenergie_4 = 4963,6
+| Ionisierungsenergie_5 = 6273,9
+| Aggregatzustand = fest
+| Modifikationen = 6
+| Kristallstruktur = monoklin
+| Dichte = W: 1,877 g/cm<sup>3</sup><br/> R: 2,340 g/cm<sup>3</sup><br/>S: 2,67 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 
+| Magnetismus = unmagnetisch
+| Schmelzpunkt_K = 317,3
+| Schmelzpunkt_C = 44,2
+| Siedepunkt_K = 550
+| Siedepunkt_C =277 
+| MolaresVolumen = 17,02 · 10<sup>−6</sup>
+| Verdampfungswärme = 12,129
+| Schmelzwärme = 0,657
+| Dampfdruck = 20,8
+| RefTempDampfdruck_K = 294
+| Schallgeschwindigkeit =  
+| RefTempSchallgeschwindigkeit_K = 
+| SpezifischeWärmekapazität = 769
+| RefTempSpezifischeWärmekapazität_K = 298
+| ElektrischeLeitfähigkeit = W: 0 R: 0  S: 1,0 · 10<sup>−9</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,235
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = ±3, 4, '''5'''
+| Oxide = [[Phosphorpentoxid|P<sub>2</sub>O<sub>5</sub>]]
+| Basizität = leicht [[Säure|sauer]]
+| Normalpotential = 
+| Elektronegativität = 2,19
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = '''Roter Phosphor'''<br />{{Gefahrensymbole|F}}<br />'''Weißer Phosphor'''<br />{{Gefahrensymbole|F|T+|C|N}}
+| R                  = {{R-Sätze|11|16|52/53}} (rot) <br />
+R: {{R-Sätze|17|26/28|35|50}} (weiß)
+| S                  = {{S-Sätze|(2)|7|43|61}} (rot)<br />
+S: {{S-Sätze|(1/2)|5|26|38|45|61}} (weiß)
+| Radioaktiv         = Nein
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = P
+| Massenzahl = 28
+| NH = 0
+| Halbwertszeit = 270,3 ms
+| Zerfallstyp1ZM = ε
+| Zerfallstyp1ZE = 14,332
+| Zerfallstyp1ZP = <sup>28</sup> [[Silicium|Si]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = P
+| Massenzahl = 29
+| NH = 0
+| Halbwertszeit = 4,14 s
+| Zerfallstyp1ZM = ε
+| Zerfallstyp1ZE = 4,943
+| Zerfallstyp1ZP = <sup>29</sup> [[Silicium|Si]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = P
+| Massenzahl = 30
+| NH = 0
+| Halbwertszeit = 2,49 min
+| Zerfallstyp1ZM = ε
+| Zerfallstyp1ZE = 4,232
+| Zerfallstyp1ZP = <sup>30</sup>[[Silicium|Si]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = P
+| Massenzahl = 31
+| NH = '''100'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = P
+| Massenzahl = 32
+| NH = 0
+| Halbwertszeit = 14,26 d
+| Zerfallstyp1ZM = β−
+| Zerfallstyp1ZE = 1,711 
+| Zerfallstyp1ZP = <sup>32</sup>[[Schwefel|S]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = P
+| Massenzahl = 33
+| NH = 0
+| Halbwertszeit = 25,34 d
+| Zerfallstyp1ZM = β−
+| Zerfallstyp1ZE = 0,249 
+| Zerfallstyp1ZP = <sup>33</sup>[[Schwefel|S]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = P
+| Massenzahl = 34
+| NH = 0
+| Halbwertszeit = 12,43 s
+| Zerfallstyp1ZM = β−
+| Zerfallstyp1ZE = 5,374
+| Zerfallstyp1ZP = <sup>34</sup>[[Schwefel|S]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = P
+| Massenzahl = 35
+| NH = 0
+| Halbwertszeit = 47,3 s
+| Zerfallstyp1ZM = β−
+| Zerfallstyp1ZE = 3,989
+| Zerfallstyp1ZP = <sup>35</sup>[[Schwefel|S]]
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = P
+| Massenzahl_1 = 31
+| Kernspin_1 = 1/2
+| Gamma_1 = 10,841
+| Empfindlichkeit_1 = 0,066
+| Larmorfrequenz_1 = 40,481 (2,3488 T)
+}}
+}}
