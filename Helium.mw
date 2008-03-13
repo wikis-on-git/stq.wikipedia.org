@@ -1,1 +1,140 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Helium
+| Symbol = He
+| Ordnungszahl = 2
+| Serie = [[Edelgase]]
+| Gruppe = 18 
+| Periode = 1
+| Block = s
+| Serienfarbe = LightskyBlue
+| Aussehen = Farbloses Gas
+| Massenanteil = 4&nbsp;·&nbsp;10<sup>−7</sup>
+| Atommasse = 4,002602
+| Atomradius = 128
+| AtomradiusBerechnet = 31
+| KovalenterRadius = 32
+| VanDerWaalsRadius = 140
+| Elektronenkonfiguration = 1s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 2372,3
+| Ionisierungsenergie_2 = 5250,5
+| Aggregatzustand = gasförmig
+| Modifikationen = 
+| Kristallstruktur = 
+| Dichte = 0,1785&nbsp;kg·m<sup>−3</sup>
+| RefTempDichte_K =
+| Mohshärte = 
+| Magnetismus = 
+| Schmelzpunkt_K = - 
+| Schmelzpunkt_C = −272,2
+| Siedepunkt_K = 4,22
+| Siedepunkt_C = −268,93
+| MolaresVolumen = 22,4&nbsp;·&nbsp;10<sup>−3</sup>
+| Verdampfungswärme = 0,0845
+| Schmelzwärme = 0,021
+| Dampfdruck = -
+| RefTempDampfdruck_K = 
+| Schallgeschwindigkeit = 972
+| RefTempSchallgeschwindigkeit_K = 273,15
+| SpezifischeWärmekapazität = 5193
+| ElektrischeLeitfähigkeit = 0
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,152
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = 0
+| Oxide = keine
+| Basizität = keine
+| Normalpotential =
+| Elektronegativität = 5,2
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R = {{R-Sätze|-}}
+| S = {{S-Sätze|9|23}}<ref>[http://gasekatalog.airliquide.de/sdb/061a__helium.pdf Stoffdatenblatt Helium (verdichtet)]</ref>
+| Radioaktiv = 
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| OZ= 2
+| Massenzahl = 3
+| Symbol = He
+| NH = 0,000137
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| OZ= 2
+| Massenzahl = 4
+| Symbol = He
+| NH = '''99,999863'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 5
+| Symbol = He
+| NH = 0
+| Halbwertszeit = 7,618&nbsp;·&nbsp;10<sup>−22</sup>&nbsp;s
+| Zerfallstyp1ZM = [[Neutronen-Emission|n]]
+| Zerfallstyp1ZE = 0,60
+| Zerfallstyp1ZP = <sup>4</sup>He
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 6
+| Symbol = He
+| NH = 0
+| Halbwertszeit = 806,7&nbsp;ms
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 3,508
+| Zerfallstyp1ZP = <sup>6</sup>[[Lithium|Li]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 7
+| Symbol = He
+| NH = 0
+| Halbwertszeit = 2,857&nbsp;·&nbsp;10<sup>−21</sup>&nbsp;s
+| Zerfallstyp1ZM = [[Neutronen-Emission|n]]
+| Zerfallstyp1ZE = 0,60
+| Zerfallstyp1ZP = <sup>6</sup>He
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 8
+| Symbol = He
+| NH = 0
+| Halbwertszeit = 119 ms
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup> + [[Neutronen-Emission|n]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = <sup>7</sup>[[Lithium|Li]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 9
+| Symbol = He
+| NH = 0
+| Halbwertszeit = 1,5&nbsp;·&nbsp;10<sup>−21</sup>&nbsp;s
+| Zerfallstyp1ZM = [[Neutronen-Emission|n]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = <sup>8</sup>He
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 10
+| Symbol = He
+| NH = 0
+| Halbwertszeit = 2,7&nbsp;·&nbsp;10<sup>−21</sup>&nbsp;s
+| Zerfallstyp1ZM = [[Neutronen-Emission|n]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = <sup>9</sup>He
+}}
+| NMREigenschaften = 
+{{Infobox Chemisches Element/NMR
+| Symbol = He
+| Massenzahl_1 = 3
+| Kernspin_1 = 1/2
+| Gamma_1 = 2,038&nbsp;·&nbsp;10<sup>8</sup>
+| Empfindlichkeit_1 = 0,44
+| Larmorfrequenz_1 = 152
+}}
+}}
