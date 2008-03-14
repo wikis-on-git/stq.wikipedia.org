@@ -1,1 +1,144 @@
-{{stump}}
+{{Infobox_Chemisk_Element
+<!--- Periodensystem --->
+| Name = Lanthan
+| Symbol = La
+| Ordnungszahl = 57
+| Massenzahl = 139
+| Serie=[[Übergangsmetalle]]
+| Gruppe = 3 
+| Periode = 6
+| Block= d
+| Serienfarbe= LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil = 2 · 10<sup>−3</sup>
+<!--- Atomar --->
+| Atommasse = 138,9055
+| Atomradius = 195
+| AtomradiusBerechnet = -
+| KovalenterRadius = 169
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>5d<sup>1</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 18, 9, 2
+| Austrittsarbeit = -
+| Ionisierungsenergie_1 = 538,1
+| Ionisierungsenergie_2 = 1067
+| Ionisierungsenergie_3 = 1850,3
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 3
+| Kristallstruktur = hexagonal
+| Dichte = 6,146 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 2,5
+| Magnetismus = -
+| Schmelzpunkt_K = 1193
+| Schmelzpunkt_C = 920
+| Siedepunkt_K = 3730
+| Siedepunkt_C = 3457
+| MolaresVolumen = 22,39 · 10<sup>−6</sup>
+| Verdampfungswärme = 414
+| Schmelzwärme = 6,2
+| Dampfdruck = 1,33 · 10<sup>−7</sup>
+| RefTempDampfdruck_K = 1193
+| Schallgeschwindigkeit = 2475
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 190
+| RefTempSpezifischeWärmekapazität = 
+| ElektrischeLeitfähigkeit = 1,26 · 10<sup>6</sup>
+| Wärmeleitfähigkeit = 13,5
+<!--- Chemisch --->
+| Oxidationszustände = 3
+| Oxide = La<sub>2</sub>O<sub>3</sub> 
+| Basizität = 
+| Normalpotential = −2,522 [[Volt|V]] (La<sup>3+</sup> + 3e<sup>−</sup> → La)
+| Elektronegativität = 1,1
+| Gefahrensymbole    = pulverförmiges Lanthan:{{Gefahrensymbole|F}}&nbsp;<ref name="BGIA GESTIS">{{GESTIS|ZVG=7570|CAS=7439-91-0|Datum=29. Aug. 2007}}</ref>
+| R                  = {{R-Sätze|11}}&nbsp;<ref name="BGIA GESTIS"/>
+| S                  = {{S-Sätze|16|33|36/37/39}}&nbsp;<ref name="BGIA GESTIS"/>
+<!--- Isotope --->
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 135
+| Symbol = La
+| NH = 0
+| Halbwertszeit = 19,5 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,200
+| Zerfallstyp1ZP = [[Barium|<sup>135</sup>Ba]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 136
+| Symbol = La
+| NH = 0
+| Halbwertszeit = 9,87 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,870
+| Zerfallstyp1ZP = [[Barium|<sup>136</sup>Ba]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 137
+| Symbol = La
+| NH = 0
+| Halbwertszeit = 60.000 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,600
+| Zerfallstyp1ZP = [[Barium|<sup>137</sup>Ba]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Massenzahl = 138
+| Symbol = La
+| NH = 0,09
+| Halbwertszeit = 1,05 · 10<sup>11</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,737
+| Zerfallstyp1ZP = [[Barium|<sup>138</sup>Ba]]
+| Zerfallstyp2ZM = [[Betastrahlung|β-]]
+| Zerfallstyp2ZE = 1,044
+| Zerfallstyp2ZP = [[Cer|<sup>138</sup>Ce]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Massenzahl = 139
+| Symbol = La
+| NH = '''99,91'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 140
+| Symbol = La
+| NH = 0
+| Halbwertszeit = 1,6731 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 3,762
+| Zerfallstyp1ZP = [[Cer|<sup>140</sup>Ce]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 141
+| Symbol = La
+| NH = 0
+| Halbwertszeit = 3,92 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 2,502
+| Zerfallstyp1ZP = [[Cer|<sup>141</sup>Ce]]
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = La
+| Massenzahl_1 = 138
+| Kernspin_1 = 5
+| Gamma_1 = 3,529 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,0919
+| Larmorfrequenz_1 = 26,4
+| Massenzahl_2 = 139
+| Kernspin_2 = 7/2
+| Gamma_2 = 3,779 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,0592
+| Larmorfrequenz_2 = 28,3
+}}
+}}
