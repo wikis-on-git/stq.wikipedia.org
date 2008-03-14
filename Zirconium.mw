@@ -1,1 +1,140 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Zirconium
+| Symbol = Zr
+| Ordnungszahl = 40
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 4
+| Periode = 5
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil = 0,016
+<!--- Atomar --->
+| Atommasse = 91,224
+| Atomradius = 155
+| AtomradiusBerechnet = 206
+| KovalenterRadius = 148
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki>4d<sup>2</sup>5[[S-Orbital|s]]<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 10, 2
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 640,1
+| Ionisierungsenergie_2 = 1270
+| Ionisierungsenergie_3 = 2218
+| Ionisierungsenergie_4 = 3313
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = zwei (α-/β-Zr)
+| Kristallstruktur = [[Hexagonales Kristallsystem|hexagonal]];
+[[Kubisches Kristallsystem|kubisch]] > 1140 [[Kelvin|K]] (867 [[°C]])
+| Dichte = 6,511 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte = 5
+| Magnetismus =
+| Schmelzpunkt_K = 2130
+| Schmelzpunkt_C = 1857
+| Siedepunkt_K = 4682
+| Siedepunkt_C = 4409
+| MolaresVolumen = 14,02 · 10<sup>−6</sup>
+| Verdampfungswärme = 590,5
+| Schmelzwärme = 16,9
+| Dampfdruck = 0,00168
+| RefTempDampfdruck_K = 2125
+| Schallgeschwindigkeit= 4650 ([[Longitudinalwelle|long.]]), 2250 ([[Transversalwelle|trans.]])<br />
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität = 270,0
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 2,36 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 22,7
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 4, 2
+| Oxide =
+| Basizität = [[amphoter]]
+| Normalpotential = −1,553 [[Volt|V]] (ZrO<sub>2</sub> + 4 H<sup>+</sup> + 4e<sup>−</sup><br />→ Zr + 2H<sub>2</sub>O)
+| Elektronegativität = 1,33
+| RL 67/548/EWG = Ja
+| Gefahrensymbole = '''Pulver''' <br />{{Gefahrensymbole|F}}
+| R = {{R-Sätze|15|17}} (nicht stabilisiert) <br />
+R: {{R-Sätze|15}} ([[phlegmatisiert]])
+| S = {{S-Sätze|(2)|7/8|43}}
+| Radioaktiv =
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = 89
+| Massenzahl = Zr
+| NH = 0
+| Halbwertszeit = 78,41 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,832
+| Zerfallstyp1ZP = [[Yttrium|<sup>89</sup>Y]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = 90
+| Massenzahl = Zr
+| NH = '''51,45'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = 91
+| Massenzahl = Zr
+| NH = 11,22
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = 92
+| Massenzahl = Zr
+| NH = 17,15
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = 93
+| Massenzahl = Zr
+| NH = 0
+| Halbwertszeit = 1,53 · 10<sup>6</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,091
+| Zerfallstyp1ZP = [[Niob|<sup>93</sup>Nb]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = 94
+| Massenzahl = Zr
+| NH = 17,38
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = 95
+| Massenzahl = Zr
+| NH = 0
+| Halbwertszeit = 64,02 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,125
+| Zerfallstyp1ZP = [[Niob|<sup>95</sup>Nb]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = 96
+| Massenzahl = Zr
+| NH = 2,8
+| Halbwertszeit = > 3,8 · 10<sup>19</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Doppelter Betazerfall|β<sup>−</sup>β<sup>−</sup>]]
+| Zerfallstyp1ZE = 3,350
+| Zerfallstyp1ZP = [[Molybdän|<sup>96</sup>Mo]]
+}}
+| NMREigenschaften =
+{{Infobox Chemisches Element/NMR
+| Symbol = Zr
+| Massenzahl_1 = 91
+| Kernspin_1 = −5/2
+| Gamma_1 = 2,496 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00948
+| Larmorfrequenz_1 = 18,7
+}}
+}}
