@@ -1,1 +1,170 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Plutonium
+| Symbol = Pu
+| Ordnungszahl = 94
+| Serie = [[Actinoide]]
+| Gruppe = Ac
+| Periode = 7
+| Block = f
+| Serienfarbe = Orchid
+<!--- Allgemein --->
+| Aussehen = silbriges Metall
+| Massenanteil = 2 · 10<sup>−19</sup>
+<!--- Atomar --->
+| Atommasse = 244,0642
+| Atomradius = 151
+| AtomradiusBerechnet =
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki>5f<sup>6</sup>7s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 24, 8, 2
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 544,5
+| Ionisierungsenergie_2 =
+| Ionisierungsenergie_3 =
+| Ionisierungsenergie_4 =
+| Ionisierungsenergie_5 =
+| Ionisierungsenergie_6 =
+| Ionisierungsenergie_7 =
+| Ionisierungsenergie_8 =
+| Ionisierungsenergie_9 =
+| Ionisierungsenergie_10 =
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 6
+| Kristallstruktur = [[monoklin]]
+| Dichte = 19,740 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus = [[Paramagnetismus|paramagnetisch]]
+| Schmelzpunkt_K = 914
+| Schmelzpunkt_C = 641
+| Siedepunkt_K = 3600
+| Siedepunkt_C = 3327
+| MolaresVolumen = 12,32 · 10<sup>−6</sup>
+| Verdampfungswärme = 325
+| Schmelzwärme =
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit = 2260
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 130
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 6,7 · 10<sup>5</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 6,74
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = +3, '''+4''', +5, +6
+| Oxide =
+| Basizität = leicht [[amphoter]]
+| Normalpotential = −2,031&nbsp;[[Volt|V]] (Pu<sup>3+</sup> + 3e<sup>−</sup> → Pu)
+| Elektronegativität = 1,28
+| Gefahrensymbole = '''nicht von der EU eingestuft'''<ref>In Bezug auf ihre Gefährlichkeit wurde die Substanz von der EU noch nicht eingestuft, eine verlässliche und zitierfähige Quelle hierzu wurde noch nicht gefunden. Die Radioaktivität gehört ''nicht'' zu den einzustufenden Eigenschaften. Genaueres über Gefährlichkeit und Sicherheit von Plutonium findet man in den Abschnitten [[Plutonium#Toxizität|Toxizität]] und [[Plutonium#Sicherheitshinweise|Sicherheitshinweise]]</ref>
+| R                  = ''siehe oben''
+| S                  = ''siehe oben''
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pu
+| Massenzahl = 238
+| NH = 0
+| Halbwertszeit = 87,7 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,593
+| Zerfallstyp1ZP = [[Uran|<sup>234</sup>U]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]] (1,9 · 10<sup>−7</sup> %)
+| Zerfallstyp2ZE =
+| Zerfallstyp2ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pu
+| Massenzahl = 239
+| NH = 0
+| Halbwertszeit = 24.110 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,245
+| Zerfallstyp1ZP = <sup>235</sup>U
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]] (3 · 10<sup>−10</sup> %)
+| Zerfallstyp2ZE =
+| Zerfallstyp2ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pu
+| Massenzahl = 240
+| NH = 0
+| Halbwertszeit = 6564 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,256
+| Zerfallstyp1ZP = <sup>236</sup>U
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]] (5,7 · 10<sup>−6</sup> %)
+| Zerfallstyp2ZE =
+| Zerfallstyp2ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 3
+| Symbol = Pu
+| Massenzahl = 241
+| NH = 0
+| Halbwertszeit = 14,35 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 0,021
+| Zerfallstyp1ZP = [[Americium|<sup>241</sup>Am]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]] (0,0025 %)
+| Zerfallstyp2ZE = 5,14
+| Zerfallstyp2ZP = <sup>237</sup>U
+| Zerfallstyp3ZM = [[Spontane Spaltung|SF]] (2 · 10<sup>−14</sup> %)
+| Zerfallstyp3ZE =
+| Zerfallstyp3ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pu
+| Massenzahl = 242
+| NH = 0
+| Halbwertszeit = 375.000 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 4,984
+| Zerfallstyp1ZP = <sup>238</sup>U
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]] (0,00055 %)
+| Zerfallstyp2ZE =
+| Zerfallstyp2ZP =
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pu
+| Massenzahl = 243
+| NH = 0
+| Halbwertszeit = 4,956 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = ?
+| Zerfallstyp1ZP = [[Americium|<sup>243</sup>Am]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pu
+| Massenzahl = 244
+| NH = '''100'''
+| Halbwertszeit = 80 · 10<sup>6</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]] (99,88 %)
+| Zerfallstyp1ZE = 4,666
+| Zerfallstyp1ZP = <sup>240</sup>U
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]] (0,12 %)
+| Zerfallstyp2ZE =
+| Zerfallstyp2ZP =
+}}
+| NMREigenschaften =
+<!----{{Infobox_Chemisches_Element/NMR
+| Symbol = Pu
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}---->
+}}
