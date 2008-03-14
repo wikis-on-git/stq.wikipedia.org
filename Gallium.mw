@@ -1,1 +1,134 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Gallium
+| Symbol= Ga
+| Ordnungszahl= 31
+| Massenzahl= 69
+| Serie= [[Metalle]]
+| Gruppe = 13
+| Periode = 4
+| Block= p
+| Serienfarbe= DarkGray
+<!--- Allgemein --->
+| Aussehen=silbrig weiß
+| Massenanteil=1 · 10<sup>-3</sup>
+<!--- Atomar --->
+| Atommasse= 69,723
+| Atomradius= 126
+| AtomradiusBerechnet= 187
+| KovalenterRadius= 126
+| VanDerWaalsRadius= 187
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 3d<sup>10</sup> 4s<sup>2</sup> 4p<sup>1</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 3
+| Austrittsarbeit=
+| Ionisierungsenergie_1= 578,8
+| Ionisierungsenergie_2= 1979,3
+| Ionisierungsenergie_3= 2963
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= 
+| Modifikationen= 
+| Kristallstruktur= orthorhombisch (Ga-I)
+| Dichte= 5,904 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 1,5
+| Schmelzpunkt_K= 302,91
+| Schmelzpunkt_C= 29,76
+| Siedepunkt_K= 2477
+| Siedepunkt_C= 2204
+| MolaresVolumen= 11,80 · 10<sup>-6</sup>
+| Verdampfungswärme= 258,7
+| Schmelzwärme= 5,59
+| Dampfdruck= 9,31 · 10<sup>-36</sup>
+| RefTempDampfdruck_K= 302,9
+| Schallgeschwindigkeit= 2740
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität= 370 
+| ElektrischeLeitfähigkeit= 6,78 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 40,6
+<!--- Chemisch --->
+| Oxidationszustände= 3
+| Oxide= 
+| Basizität= [[amphoter]]
+| Normalpotential= -0,56 [[Volt|V]] (Ga<sup>3+</sup> + 3e<sup>-</sup> → Ga)
+| Elektronegativität= 1,81
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|C}}<ref name="alfa">[http://www.alfa-chemcat.com/daten_msds/D/10186_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
+| R                  = {{R-Sätze|34}}<ref name="alfa"/>
+| S                  = {{S-Sätze|20|26|36/37/39|45|60}}<ref name="alfa"/>
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 67
+| Symbol= Ga
+| NH=0
+| Halbwertszeit= 3,2612 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 1,00
+| Zerfallstyp1ZP= [[Zink|<sup>67</sup>Zn]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=68
+| Symbol=Ga
+| NH=0
+| Halbwertszeit= 67,629 [[Minute|m]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 2,921
+| Zerfallstyp1ZP= [[Zink|<sup>68</sup>Zn]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 69
+| OZ= 31
+| Symbol= Ga
+| NH= 60,1
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=70
+| Symbol=Ga
+| NH=0
+| Halbwertszeit=21,14 [[Minute|m]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=1,656
+| Zerfallstyp1ZP=[[Germanium|<sup>70</sup>Ge]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=71
+| OZ= 31
+| Symbol=Ga
+| NH= 39,9
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=72
+| Symbol=Ga
+| NH= 0
+| Halbwertszeit=14,10 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=4,001
+| Zerfallstyp1ZP=[[Germanium|<sup>72</sup>Ge]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=73
+| Symbol=Ga
+| NH=0
+| Halbwertszeit=4,86 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=1,593
+| Zerfallstyp1ZP=[[Germanium|<sup>73</sup>Ge]]
+}}
+| NMREigenschaften=
+<!---
+{{Vorlage:NMREigenschaften
+| Symbol = 
+| Massenzahl_1 = 
+| Kernspin_1 = 
+| Gamma_1 = 
+| Empfindlichkeit_1 = 
+| Larmorfrequenz_1 = 
+}}--->
+}}
