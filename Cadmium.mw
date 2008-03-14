@@ -1,1 +1,216 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Cadmium
+| Symbol= Cd
+| Ordnungszahl= 48
+| Massenzahl= 64
+| Serie= [[Übergangsmetalle]]
+| Gruppe = 12
+| Periode = 5
+| Block= d
+| Serienfarbe= LightCoral
+<!--- Allgemein --->
+| Aussehen=silbrig grau metallisch
+| Massenanteil=3 · 10<sup>-5</sup>
+<!--- Atomar --->
+| Atommasse= 112,411
+| Atomradius=  155
+| AtomradiusBerechnet=161
+| KovalenterRadius= 148
+| VanDerWaalsRadius= 158
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki> 4d<sup>10</sup> 5s<sup>2</sup>
+| ElektronenProEnergieNiveau=2, 8, 18, 18, 2
+| Austrittsarbeit=4,07
+| Ionisierungsenergie_1=867,8
+| Ionisierungsenergie_2=1631,4
+<!--- Physikalisch --->
+| Aggregatzustand=fest
+| Magnetismus=-
+| Modifikationen=-
+| Kristallstruktur=hexagonal
+| Dichte=8,65 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte=2
+| Schmelzpunkt_K=594,22
+| Schmelzpunkt_C=321,07
+| Siedepunkt_K=1040
+| Siedepunkt_C=767
+| MolaresVolumen=13,00 · 10<sup>-6</sup>
+| Verdampfungswärme=100
+| Schmelzwärme=6,192
+| Dampfdruck=14,8
+| RefTempDampfdruck_K=597
+| Schallgeschwindigkeit=2310
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität= 233
+| ElektrischeLeitfähigkeit= 13,8 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 96,8
+<!--- Chemisch --->
+| Oxidationszustände= 2
+| Oxide= CdO
+| Basizität=leicht [[Basen (Chemie)|basisch]]
+| Normalpotential=  -0,403 [[Volt|V]] (Cd<sup>2+</sup> + 2e<sup>-</sup> → Cd)
+| Elektronegativität= 1,69
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = <br />{{Gefahrensymbole|T+|F|N}} (F gilt nur für die nicht stabilisierte Form)
+| R                  = {{R-Sätze|45|E26|E48/23/25|17|50/53|62|63|68}} (nicht stabilisiert) <br />
+R: {{R-Sätze|45|E26|E48/23/25|50/53|62|63|68}} ([[phlegmatisiert]])
+| S                  = {{S-Sätze|7/8|43|45|53|60|61}} (nicht stabilisiert)<br />
+S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 104
+| NH = 0
+| Halbwertszeit = 57,7 [[Minute|m]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,137
+| Zerfallstyp1ZP = [[Silber|<sup>104</sup>Ag]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 105
+| NH = 0
+| Halbwertszeit = 55,5 [[Minute|m]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,739
+| Zerfallstyp1ZP = [[Silber|<sup>105</sup>Ag]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cd
+| OZ = 48
+| Massenzahl = 106
+| NH = 1,25
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 107
+| NH = 0
+| Halbwertszeit = 6,50 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,417
+| Zerfallstyp1ZP = [[Silber|<sup>107</sup>Ag]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cd
+| OZ = 48
+| Massenzahl = 108
+| NH = 0,89
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 109
+| NH = 0
+| Halbwertszeit = 462,6 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,214
+| Zerfallstyp1ZP = [[Silber|<sup>109</sup>Ag]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cd
+| OZ = 48
+| Massenzahl = 110
+| NH = 12,49
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cd
+| OZ = 48
+| Massenzahl = 111
+| NH = 12,8
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cd
+| OZ = 48
+| Massenzahl = 112
+| NH = 24,13
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 113
+| NH = 12,22
+| Halbwertszeit = 7,7 · 10<sup>15</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,316
+| Zerfallstyp1ZP = [[Indium|<sup>113</sup>In]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 113
+| NH = 0
+| Halbwertszeit = 14,1 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,580
+| Zerfallstyp1ZP = [[Indium|<sup>113</sup>In]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cd
+| OZ = 48
+| Massenzahl = 114
+| NH = '''28,73'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 115
+| NH = 0
+| Halbwertszeit = 53,46 h
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,446
+| Zerfallstyp1ZP = [[Indium|<sup>115</sup>In]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cd
+| OZ = 48
+| Massenzahl = 116
+| NH = 7,49
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 117
+| NH = 0
+| Halbwertszeit = 2,49 h
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 2,516
+| Zerfallstyp1ZP = [[Indium|<sup>117</sup>In]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cd
+| Massenzahl = 118
+| NH = 0
+| Halbwertszeit = 50,3 min
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,520
+| Zerfallstyp1ZP = [[Indium|<sup>118</sup>In]]
+}}
+
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| Symbol=Cd
+| Massenzahl_1=111
+| Kernspin_1=-1/2
+| Gamma_1=5,673 · 10<sup>7</sup>
+| Empfindlichkeit_1=0,00954
+| Larmorfrequenz_1=42,4
+| Massenzahl_2=113
+| Kernspin_2=-1/2
+| Gamma_2=5,934 · 10<sup>7</sup>
+| Empfindlichkeit_2=0,0109
+| Larmorfrequenz_2=44,4
+}}
+}}
