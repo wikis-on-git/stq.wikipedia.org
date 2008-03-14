@@ -1,1 +1,213 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Tellur
+| Symbol = Te
+| Ordnungszahl = 52
+| Serie = [[Halbmetalle]]
+| Gruppe = 16
+| Periode = 5
+| Block = p
+| Serienfarbe = Peru
+<!--- Allgemein --->
+| Aussehen = silberweiß, metallisch glänzend
+| Massenanteil = 1 · 10<sup>−6</sup>
+<!--- Atomar --->
+| Atommasse = 127,60
+| Atomradius = 140
+| AtomradiusBerechnet = 123
+| KovalenterRadius = 135
+| VanDerWaalsRadius = 206
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki>4[[D-Orbital|d]]<sup>10</sup>5[[S-Orbital|s]]<sup>2</sup>5[[P-Orbital|p]]<sup>4</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 18, 6
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 869,3
+| Ionisierungsenergie_2 = 1790
+| Ionisierungsenergie_3 = 2698
+| Ionisierungsenergie_4 = 3610
+| Ionisierungsenergie_5 = 5668
+| Ionisierungsenergie_6 = 6820
+<!--- Physikalisch --->
+| Aggregatzustand = [[Festkörper|fest]]
+| Modifikationen = [[Kristall|kristallin]] und [[Amorphes Material|amorph]]<br />Hochdruckmodifikationen (kristallin)
+| Kristallstruktur = [[Trigonales Kristallsystem|trigonal]]
+| Dichte = 6,24 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte = 2,25
+| Magnetismus = unmagnetisch
+| Schmelzpunkt_K = 722,66
+| Schmelzpunkt_C = 449,51
+| Siedepunkt_K = 1263
+| Siedepunkt_C = 990
+| MolaresVolumen = 20,46 · 10<sup>−6</sup>
+| Verdampfungswärme = 52,55
+| Schmelzwärme = 17,49
+| Dampfdruck = 23,1
+| RefTempDampfdruck_K = 272,65
+| Schallgeschwindigkeit = 2610
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 202
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 0,005
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 2,35
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = '''−2''', (±1), 2, '''4''', 6
+| Oxide = [[Tellurdioxid|TeO<sub>2</sub>]], TeO<sub>3</sub>
+| Basizität = leicht [[Säure|sauer]]
+| Normalpotential = −1,143 [[Volt|V]] (Te + 2e<sup>−</sup> → Te<sup>2−</sup>)
+| Elektronegativität = 2,1
+| RL 67/548/EWG = Nein
+| Gefahrensymbole = {{Gefahrensymbole|T}}<ref name="SD">Sicherheitsdatenblatt der Alfa Aesar GmbH gemäß 91/155/EWG für [http://www.alfa-chemcat.com/daten_msds/D/11076_-_D.pdf Tellur (Stücke)] und [http://www.alfa-chemcat.com/daten_msds/D/43960_-_D.pdf Tellurpulver]. Die R-Sätze 36/37/38 und S-Sätze 26 und 37 gelten nur für Tellurpulver.</ref></div>
+| R = {{R-Sätze|25|36/37/38}}<ref name="SD"/>
+| S = {{S-Sätze|20|26|36/37|45}}<ref name="SD"/>
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Te
+| Massenzahl = 120
+| NH = 0,096
+| Halbwertszeit = 2,2 · 10<sup>16</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε ε]]
+| Zerfallstyp1ZE = 1,701
+| Zerfallstyp1ZP = [[Zinn|<sup>120</sup>Sn]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Te
+| Massenzahl = 121
+| NH = 0
+| Halbwertszeit = 16,78 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,040
+| Zerfallstyp1ZP = [[Antimon|<sup>121</sup>Sb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Te
+| Massenzahl = 121[[Metastabiler Zustand|meta]]
+| NH = 0
+| Halbwertszeit = 154 [[Tag|d]]
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp1ZE = 0,294
+| Zerfallstyp1ZP = <sup>121</sup>Te
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 1,334
+| Zerfallstyp2ZP = [[Antimon|<sup>121</sup>Sb]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Te
+| Massenzahl = 122
+| NH = 2,603
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Te
+| Massenzahl = 123
+| NH = 0,908
+| Halbwertszeit = >1 · 10<sup>13</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,051
+| Zerfallstyp1ZP = [[Antimon|<sup>123</sup>Sb]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Te
+| Massenzahl = 124
+| NH = 4,816
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Te
+| Massenzahl = 125
+| NH = 7,139
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Te
+| Massenzahl = 126
+| NH = 18,952
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Te
+| Massenzahl = 127
+| NH = 0
+| Halbwertszeit = 9,35 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 0,698
+| Zerfallstyp1ZP = [[Iod|<sup>127</sup>I]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Te
+| Massenzahl = 127[[Metastabiler Zustand|meta]]
+| NH = 0
+| Halbwertszeit = 109 [[Tag|d]]
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp1ZE = 0,088
+| Zerfallstyp1ZP = <sup>127</sup>Te
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp2ZE = 0,786
+| Zerfallstyp2ZP = [[Iod|<sup>127</sup>I]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Te
+| Massenzahl = 128
+| NH = 31,687
+| Halbwertszeit = 7,2 · 10<sup>24</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>β<sup>−</sup>]]
+| Zerfallstyp1ZE = 0,867
+| Zerfallstyp1ZP = [[Xenon|<sup>128</sup>Xe]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Te
+| Massenzahl = 129
+| NH = 0
+| Halbwertszeit = 69,6 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 1,498
+| Zerfallstyp1ZP = [[Iod|<sup>129</sup>I]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Te
+| Massenzahl = 129[[Metastabiler Zustand|meta]]
+| NH = 0
+| Halbwertszeit = 33,6 [[Tag|d]]
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp1ZE = 0,106
+| Zerfallstyp1ZP = <sup>129</sup>Te
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp2ZE = 1,604
+| Zerfallstyp2ZP = [[Iod|<sup>129</sup>I]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Te
+| Massenzahl = 130
+| NH = '''33,799'''
+| Halbwertszeit = 7,9 · 10<sup>20</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>β<sup>−</sup>]]
+| Zerfallstyp1ZE = 2,528
+| Zerfallstyp1ZP = [[Xenon|<sup>130</sup>Xe]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Te
+| Massenzahl_1 = 123
+| Kernspin_1 = <sup>1</sup>/<sub>2</sub><ref name="Harris">[http://www.iupac.org/publications/pac/2001/pdf/7311x1795.pdf R. K. Harris, E. D. Becker, S. M. Cabral de Menezes, R. Goodfellow, P. Granger: ''NMR Nomenclature. Nuclear spin properties and conventions for chemical shifts (IUPAC Recommendations 2001).'' In: ''Pure Applied Chemistry.'' Bd. 73, Nr. 11, 2001, S. 1795–1818.]</ref>
+| Gamma_1 = −7,059&nbsp;·&nbsp;10<sup>7</sup><ref name="Harris"/>
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+| Massenzahl_2 = 125
+| Kernspin_2 = <sup>1</sup>/<sub>2</sub><ref name="Harris"/>
+| Gamma_2 = −8,510&nbsp;·&nbsp;10<sup>7</sup><ref name="Harris"/>
+| Empfindlichkeit_2 =
+| Larmorfrequenz_2 =
+}}
+}}
