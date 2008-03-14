@@ -1,1 +1,145 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Strontium
+| Symbol= Sr
+| Ordnungszahl= 38
+| Massenzahl= 88
+| Serie= [[Erdalkalimetalle]]
+| Gruppe = 2
+| Periode = 5
+| Block= s
+| Serienfarbe= DarkOrange
+<!--- Allgemein --->
+| Aussehen= silbrig weiß metallisch
+| Massenanteil= 0,01
+<!--- Atomar --->
+| Atommasse= 87,62
+| Atomradius= 219
+| AtomradiusBerechnet= 
+| KovalenterRadius= 192
+| VanDerWaalsRadius= 
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki>5s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 8, 2
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 549,5
+| Ionisierungsenergie_2= 1064,2
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= [[Paramagnetismus|paramagnetisch]]
+| Modifikationen= -
+| Kristallstruktur= kubisch flächenzentriert
+| Dichte= 2,63 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 1,5
+| Schmelzpunkt_K= 1050
+| Schmelzpunkt_C= 777
+| Siedepunkt_K= 1655
+| Siedepunkt_C= 1382
+| MolaresVolumen= 33,94 · 10<sup>-6</sup>
+| Verdampfungswärme= 144
+| Schmelzwärme= 8,3
+| Dampfdruck= 246
+| RefTempDampfdruck_K= 1042
+| Schallgeschwindigkeit= 
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= 300
+| ElektrischeLeitfähigkeit= 7,62 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 35,3
+<!--- Chemisch --->
+| Oxidationszustände= 2
+| Oxide= SrO
+| Basizität= stark [[Base (Chemie)|basisch]]
+| Normalpotential= -2,89 [[Volt|V]] (Sr<sup>2+</sup> + 2e<sup>-</sup> → Sr)
+| Elektronegativität= 0,95
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|F}}
+| R                  = {{R-Sätze|15}}<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/35789_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
+| S                  = {{S-Sätze|8|24/25|43}}<ref name="alfa-SDB"/>
+| Radioaktiv         = 
+ 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sr
+| Massenzahl = 82
+| NH = 0
+| Halbwertszeit = 25,55 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,180
+| Zerfallstyp1ZP = [[Rubidium|<sup>82</sup>Rb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sr
+| Massenzahl = 83
+| NH = 0
+| Halbwertszeit = 32,41 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,276
+| Zerfallstyp1ZP = [[Rubidium|<sup>83</sup>Rb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sr
+| Massenzahl = 84
+| NH = 0,56
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sr
+| Massenzahl = 85
+| NH = 0
+| Halbwertszeit = 64,84 d
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,065
+| Zerfallstyp1ZP = [[Rubidium|<sup>85</sup>Rb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sr
+| Massenzahl = 86
+| NH = 9,86
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sr
+| Massenzahl = 87
+| NH = 7,00
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sr
+| Massenzahl = 88
+| NH = '''82,58'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sr
+| Massenzahl = 89
+| NH = 0
+| Halbwertszeit = 50,53 d
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,497
+| Zerfallstyp1ZP = [[Yttrium|<sup>89</sup>Y]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sr
+| Massenzahl = 90
+| NH = 0
+| Halbwertszeit = 28,78 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,546
+| Zerfallstyp1ZP = [[Yttrium|<sup>90</sup>Y]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol= Sr
+| Massenzahl_1= 87
+| Kernspin_1= -9/2
+| Gamma_1= 1,159 · 10<sup>7</sup>
+| Empfindlichkeit_1= 0,00269
+| Larmorfrequenz_1= 8,67
+}}
+}}
