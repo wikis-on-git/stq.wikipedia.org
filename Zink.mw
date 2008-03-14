@@ -1,1 +1,126 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Zink
+| Symbol = Zn
+| Ordnungszahl = 30
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 12
+| Periode = 4
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = bläulich blassgrau
+| Massenanteil = 0,01
+<!--- Atomar --->
+| Atommasse = 65,409
+| Atomradius = 135
+| AtomradiusBerechnet = 142
+| KovalenterRadius = 131
+| VanDerWaalsRadius = 139
+| Elektronenkonfiguration = &#x5B;[[Argon|Ar]]&#x5D; 3d<sup>10</sup>4s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 906,4
+| Ionisierungsenergie_2 = 1733,3
+| Ionisierungsenergie_3 = 
+| Ionisierungsenergie_4 = 
+| Ionisierungsenergie_5 = 
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = eine
+| Kristallstruktur = hexagonal
+| Dichte = 7,14 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 2,5
+| Magnetismus = diamagnetisch
+| Schmelzpunkt_K = 692,68
+| Schmelzpunkt_C = 419,5
+| Siedepunkt_K = 1180
+| Siedepunkt_C = 907
+| MolaresVolumen = 9,16 · 10<sup>−6</sup>
+| Verdampfungswärme = 119
+| Schmelzwärme = 7,35
+| Dampfdruck = 192,2
+| RefTempDampfdruck_K = 692,73
+| Schallgeschwindigkeit = 3700
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 390
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 16,9 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 120
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = 2
+| Oxide = 
+| Basizität = [[amphoter]]
+| Normalpotential = −0,762 [[Volt|V]] (Zn<sup>2+</sup> + 2e<sup>−</sup> → Zn)
+| Elektronegativität = 1,65
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = '''Pulver''' <br />{{Gefahrensymbole|F|N}} (F gilt nur für die nicht stabilisierte Form)
+| R                  = {{R-Sätze|15|17|50/53}} (nicht stabilisiert) <br />
+R: {{R-Sätze|50/53}} ([[phlegmatisiert]])
+| S                  = {{S-Sätze|(2)|43|46|60|61}} (nicht stabilisiert)<br />
+S: {{S-Sätze|60|61}} (phlegmatisiert)
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Zn
+| Massenzahl = 64
+| NH = '''48,6'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Zn
+| Massenzahl = 65
+| NH = 0
+| Halbwertszeit = 244,06 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup+</sup>
+| Zerfallstyp1ZE = 1,352
+| Zerfallstyp1ZP = [[Kupfer|<sup>65</sup>Cu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Zn
+| Massenzahl = 66
+| NH = 27,9
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Zn
+| Massenzahl = 67
+| NH = 4,1
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Zn
+| Massenzahl = 68
+| NH = 18,8
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Zn
+| Massenzahl = 69
+| NH = 0
+| Halbwertszeit = 56,4 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 0,906
+| Zerfallstyp1ZP = [[Gallium|<sup>69</sup>Ga]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Zn
+| Massenzahl = 70
+| NH = 0,6
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Zn
+| Massenzahl_1 = 67
+| Kernspin_1 = 5/2
+| Gamma_1 = 1,673 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00285
+| Larmorfrequenz_1 = 12,5
+}}
+}}
