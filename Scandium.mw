@@ -1,1 +1,144 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Calcium
+| Symbol= Ca
+| Ordnungszahl= 20
+| Serie= [[Erdalkalimetalle]]
+| Gruppe = 2
+| Periode = 4
+| Block= s
+| Serienfarbe= DarkOrange
+<!--- Allgemein --->
+| Aussehen= silbrig weiß
+| Massenanteil= 3,39
+<!--- Atomar --->
+| Atommasse= 40,078
+| Atomradius= 180
+| AtomradiusBerechnet= 194
+| KovalenterRadius= 174
+| VanDerWaalsRadius= 
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki>4s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 8, 2
+| Austrittsarbeit= 2,9
+| Ionisierungsenergie_1= 589,8
+| Ionisierungsenergie_2= 1145,4
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= [[Paramagnetismus|paramagnetisch]]
+| Modifikationen= 
+| Kristallstruktur= kubisch flächenzentriert
+| Dichte= 1,55 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 1,75
+| Schmelzpunkt_K= 1115
+| Schmelzpunkt_C= 842
+| Siedepunkt_K= 1757
+| Siedepunkt_C= 1484
+| MolaresVolumen= 26,20 · 10<sup>−6</sup>
+| Verdampfungswärme= 153,6
+| Schmelzwärme= 8,54
+| Dampfdruck= 254
+| RefTempDampfdruck_K= 1112
+| Schallgeschwindigkeit= 3810
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 632
+| ElektrischeLeitfähigkeit= 29,8 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 201
+<!--- Chemisch --->
+| Oxidationszustände= +2
+| Oxide=CaO
+| Basizität= stark [[Basen (Chemie)|basisch]]
+| Normalpotential= −2,87 V (Ca<sup>2+</sup> + 2e<sup>−</sup> → Ca)
+| Elektronegativität= 1,00
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|F}}
+| R                  = {{R-Sätze|15}}
+| S                  = {{S-Sätze|(2)|8|24/25|43}}
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ca
+| OZ = 20
+| Massenzahl = 40
+| NH = '''96,941'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 41
+| Symbol = Ca
+| NH = 0
+| Halbwertszeit = 103.000 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,421
+| Zerfallstyp1ZP = <sup>41</sup>K
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ca
+| OZ = 20
+| Massenzahl = 42
+| NH = 0,647
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ca
+| OZ = 20
+| Massenzahl = 43
+| NH = 0,135
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ca
+| OZ = 20
+| Massenzahl = 44
+| NH = 2,086
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ca
+| Massenzahl = 45
+| NH = 0
+| Halbwertszeit = 162,61 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,257
+| Zerfallstyp1ZP = <sup>45</sup>Sc
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ca
+| OZ = 20
+| Massenzahl = 46
+| NH = 0,004
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ca
+| Massenzahl = 47
+| NH = 0
+| Halbwertszeit = 4,536 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,992
+| Zerfallstyp1ZP = <sup>47</sup>Sc
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ca
+| Massenzahl = 48
+| NH = 0,187
+| Halbwertszeit = > 6 · 10<sup>18</sup> a
+| Zerfallstyp1ZM = [[Doppelter Betazerfall|β-β-]]
+| Zerfallstyp1ZE = 4,272
+| Zerfallstyp1ZP = <sup>48</sup>Ti
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol= Ca
+| Massenzahl_1= 43
+| Kernspin_1= −7/2
+| Gamma_1= 1,8 · 10<sup>7</sup>
+| Empfindlichkeit_1= 0,0064
+| Larmorfrequenz_1= 13,5
+}}
+}}
