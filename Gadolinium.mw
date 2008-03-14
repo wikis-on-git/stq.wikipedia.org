@@ -1,1 +1,191 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name=Gadolinium
+| Symbol= Gd
+| Ordnungszahl= 64
+| Serie= [[Lanthanoide]]
+| Gruppe= La
+| Periode = 6
+| Block= f
+| Serienfarbe= Plum
+<!--- Allgemein --->
+| Aussehen= silbrig weiß
+| Massenanteil= -
+<!--- Atomar --->
+| Atommasse= 157,25
+| Atomradius= 188
+| AtomradiusBerechnet= 233
+| KovalenterRadius= -
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>7</sup>5d<sup>1</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 25, 9, 2
+| Austrittsarbeit= 3,1
+| Ionisierungsenergie_1= 593,4
+| Ionisierungsenergie_2= 1170
+| Ionisierungsenergie_3= 1990
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= -
+| Kristallstruktur= [[Hexagon|hexagonal]]
+| Dichte= 7,901 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 
+| Magnetismus= paramagnetisch
+| Schmelzpunkt_K= 1585
+| Schmelzpunkt_C= 1312
+| Siedepunkt_K= 3523
+| Siedepunkt_C= 3250
+| MolaresVolumen= 19,90 · 10<sup>-6</sup>
+| Verdampfungswärme=359,4
+| Schmelzwärme=10,05
+| Dampfdruck=24400
+| RefTempDampfdruck_K=1585
+| Schallgeschwindigkeit=2680
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität =230 
+| ElektrischeLeitfähigkeit= 0,736 · 10<sup>6</sup> -->
+| RefTempElektrischeLeitfähigkeit_K=
+| Wärmeleitfähigkeit= 10,6
+| RefTempWärmeleitfähigkeit_K=
+<!--- Chemisch --->
+| Oxidationszustände= 3
+| Oxide= 
+| Basizität= leicht [[Base (Chemie)|basisch]]
+| Normalpotential=
+| Elektronegativität= 1,20
+| Gefahrensymbole= {{Vorlage:Gefahrensymbole|F}}
+| R = {{R-Sätze|15}}
+| S = {{S-Sätze|7/8|43}}
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=148
+| Symbol= Gd
+| NH=0
+| Halbwertszeit=74,6 [[Jahr|a]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Alphastrahlung|α]]
+| Zerfallstyp1ZE=3,271
+| Zerfallstyp1ZP=[[Samarium|<sup>144</sup>Sm]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=149
+| Symbol=Gd
+| NH=0
+| Halbwertszeit=9,28 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=1,314
+| Zerfallstyp1ZP=[[Europium|<sup>149</sup>Eu]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=150
+| Symbol=Gd
+| NH=0
+| Halbwertszeit=1.790.000 [[Jahr|a]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Alphastrahlung|α]]
+| Zerfallstyp1ZE=2,809
+| Zerfallstyp1ZP=[[Samarium|<sup>146</sup>Sm]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=151
+| Symbol=Gd
+| NH=0
+| Halbwertszeit=124 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,464
+| Zerfallstyp1ZP=[[Europium|<sup>151</sup>Eu]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=152
+| Symbol=Gd
+| NH=0
+| Halbwertszeit=1,08 · 10<sup>14</sup> [[Jahr|a]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Alphastrahlung|α]]
+| Zerfallstyp1ZE=2,205
+| Zerfallstyp1ZP=[[Samarium|<sup>148</sup>Sm]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=153
+| Symbol=Gd
+| NH=0
+| Halbwertszeit=241,6 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,485
+| Zerfallstyp1ZP=[[Europium|<sup>153</sup>Eu]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 64
+| Massenzahl=154
+| Symbol=Gd
+| NH=2,18
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 64
+| Massenzahl=155
+| Symbol=Gd
+| NH=14,80
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 64
+| Massenzahl=156
+| Symbol=Gd
+| NH=20,47
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 64
+| Massenzahl=157
+| Symbol=Gd
+| NH=15,65
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 64
+| Massenzahl=158
+| Symbol=Gd
+| NH=24,84
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=159
+| Symbol=Gd
+| NH=0
+| Halbwertszeit=18,479 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=0,971
+| Zerfallstyp1ZP=[[Terbium|<sup>159</sup>Tb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=160
+| Symbol=Gd
+| NH= 21,86
+| Halbwertszeit= ≥ 1,3 · 10<sup>21</sup> [[Jahr|a]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Doppelter Betazerfall|β-β-]]
+| Zerfallstyp1ZE=k.A.
+| Zerfallstyp1ZP=[[Dysprosium|<sup>160</sup>Dy]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| AnzahlIsotope=2
+| Symbol=Gd
+| Massenzahl_1=155
+| Kernspin_1=-7/2
+| Gamma_1=1,022 · 10<sup>7</sup>
+| Empfindlichkeit_1=0,000279
+| Larmorfrequenz_1=7,64
+| Massenzahl_2=157
+| Kernspin_2=-3/2
+| Gamma_2=1,277 · 10<sup>7</sup>
+| Empfindlichkeit_2=0,000544
+| Larmorfrequenz_2=9,55
+}}
+}}
