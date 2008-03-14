@@ -1,1 +1,83 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Francium
+| Symbol= Fr
+| Ordnungszahl= 87
+| Serie= [[Alkalimetalle]]
+| Gruppe = 1
+| Periode = 7
+| Block= s
+| Serienfarbe= OrangeRed
+<!--- Allgemein --->
+| Aussehen= unbekannt
+| Massenanteil= 1 · 10<sup>-21</sup>
+<!--- Atomar --->
+| Atommasse= 223,0197
+| Atomradius= -
+| AtomradiusBerechnet= -
+| KovalenterRadius= -
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki>7s<sup>1</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 32, 18, 8, 1
+| Austrittsarbeit= -
+| Ionisierungsenergie_1= 380
+| Ionisierungsenergie_2=
+<!--- Physikalisch --->
+| Aggregatzustand=fest
+| Modifikationen= 1
+| Kristallstruktur= kubisch flächenzentriert
+| Dichte= 1,870 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= -
+| Magnetismus= -
+| Schmelzpunkt_K=300
+| Schmelzpunkt_C=27
+| Siedepunkt_K=950
+| Siedepunkt_C=677
+| MolaresVolumen=-
+| Verdampfungswärme=64
+| Schmelzwärme= -
+| Dampfdruck= -
+| RefTempDampfdruck_K=
+| Schallgeschwindigkeit= -
+| RefTempSchallgeschwindigkeit_K=
+| SpezifischeWärmekapazität= 
+| ElektrischeLeitfähigkeit= 3 · 10<sup>6</sup> 
+| RefTempElektrischeLeitfähigkeit_K=
+| Wärmeleitfähigkeit= 15
+| RefTempWärmeleitfähigkeit_K=
+<!--- Chemisch --->
+| Oxidationszustände= 1
+| Oxide= Fr<sub>2</sub>O
+| Basizität= stark [[Base (Chemie)|basisch]]
+| Normalpotential= 
+| Elektronegativität= 0,7
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Fr
+| Massenzahl = 222
+| NH = 0
+| Halbwertszeit = 14,2 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 2,033
+| Zerfallstyp1ZP = [[Radium|<sup>222</sup>Ra]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Fr
+| Massenzahl = 223
+| NH = [[Radioaktives Spurenelement|in Spuren]]
+| Halbwertszeit = 21,8 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,149
+| Zerfallstyp1ZP = [[Radium|<sup>223</sup>Ra]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,430
+| Zerfallstyp2ZP = [[Astat|<sup>219</sup>At]]
+}}
+| NMREigenschaften= unbekannt
+}}
