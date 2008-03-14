@@ -1,1 +1,177 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Palladium
+| Symbol = Pd
+| Ordnungszahl = 46
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 10
+| Periode = 5
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig, weiß, metallisch
+| Massenanteil = 1 · 10<sup>-6</sup>
+<!--- Atomar --->
+| Atommasse = 106,42
+| Atomradius = 140
+| AtomradiusBerechnet = 169
+| KovalenterRadius = 131
+| VanDerWaalsRadius = 163
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki> 4d<sup>10</sup>5s<sup>0</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 18, 0
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 804,4
+| Ionisierungsenergie_2 = 1870
+| Ionisierungsenergie_3 = 3177
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 12,023 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 1828,05
+| Schmelzpunkt_C = 1554,90
+| Siedepunkt_K = 3236
+| Siedepunkt_C = 3125
+| MolaresVolumen = 8,56 · 10<sup>-6</sup>
+| Verdampfungswärme = 357
+| Schmelzwärme = 17,6
+| Dampfdruck = 1,33
+| RefTempDampfdruck_K = 1825
+| Schallgeschwindigkeit = 3070
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 244
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 9,5 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 71,8
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 0, '''+2''', +4
+| Oxide = PdO
+| Basizität = leicht [[Base (Chemie)|basisch]]
+| Normalpotential = 0,915 [[Volt|V]] (Pd<sup>2+</sup> + 2e<sup>-</sup> → Pd)
+| Elektronegativität = 2,20
+| Gefahrensymbole = {{Gefahrensymbole|F|Xi}}
+| R = {{R-Sätze|11|36/37/38}}
+| S = {{S-Sätze|7/9|16|26|36}}
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pd
+| Massenzahl = 100
+| NH = 0
+| Halbwertszeit = 3,63 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,363
+| Zerfallstyp1ZP = [[Rhodium|<sup>100</sup>Rh]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pd
+| Massenzahl = 101
+| NH = 0
+| Halbwertszeit = 8,47 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,980
+| Zerfallstyp1ZP = [[Rhodium|<sup>101</sup>Rh]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pd
+| Massenzahl = 102
+| NH = 1,02
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pd
+| Massenzahl = 103
+| NH = 0
+| Halbwertszeit = 16,991 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,543
+| Zerfallstyp1ZP = [[Rhodium|<sup>103</sup>Rh]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pd
+| Massenzahl = 104
+| NH = 11,14
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pd
+| Massenzahl = 105
+| NH = 22,33
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pd
+| Massenzahl = 106
+| NH = 27,33
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pd
+| Massenzahl = 107
+| NH = 0
+| Halbwertszeit = 6,5 · 10<sup>6</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,033
+| Zerfallstyp1ZP = [[Silber|<sup>107</sup>Ag]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pd
+| Massenzahl = 108
+| NH = 26,46
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pd
+| Massenzahl = 109
+| NH = 0
+| Halbwertszeit = 13,7012 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,116
+| Zerfallstyp1ZP = [[Silber|<sup>109</sup>Ag]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pd
+| Massenzahl = 110
+| NH = 11,72
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pd
+| Massenzahl = 111
+| NH = 0
+| Halbwertszeit = 23,4 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 2,190
+| Zerfallstyp1ZP = [[Silber|<sup>111</sup>Ag]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pd
+| Massenzahl = 112
+| NH = 0
+| Halbwertszeit = 21,03 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,288
+| Zerfallstyp1ZP = [[Silber|<sup>112</sup>Ag]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Pd
+| Massenzahl_1 = 105
+| Kernspin_1 = -5/2
+| Gamma_1 = 1,224 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00112
+| Larmorfrequenz_1 =9,15
+}}
+}}
