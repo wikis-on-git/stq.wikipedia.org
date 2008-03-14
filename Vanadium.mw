@@ -1,1 +1,154 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Vanadium
+| Symbol = V
+| Ordnungszahl = 23
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 5
+| Periode = 4
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig grau metallisch
+| Massenanteil = 0,01
+<!--- Atomar --->
+| Atommasse = 50,9415
+| Atomradius = 135
+| AtomradiusBerechnet = 171
+| KovalenterRadius = 125
+| VanDerWaalsRadius = 
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki>3d<sup>3</sup>4s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 11, 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 650,9
+| Ionisierungsenergie_2 = 1414
+| Ionisierungsenergie_3 = 2830
+| Ionisierungsenergie_4 = 4507
+| Ionisierungsenergie_5 = 6298,7
+| Ionisierungsenergie_6 = 
+| Ionisierungsenergie_7 = 
+| Ionisierungsenergie_8 = 
+| Ionisierungsenergie_9 = 
+| Ionisierungsenergie_10 = 
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = kubisch raumzentriert
+| Dichte = 6,11 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 7,0
+| Magnetismus = 
+| Schmelzpunkt_K = 2175
+| Schmelzpunkt_C = 1902
+| Siedepunkt_K = 3682
+| Siedepunkt_C = 3409
+| MolaresVolumen = 8,32 · 10<sup>-6</sup>
+| Verdampfungswärme = 452
+| Schmelzwärme = 23,0
+| Dampfdruck = 3,06
+| RefTempDampfdruck_K = 2175
+| Schallgeschwindigkeit = 4560
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 490
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 4,89 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 30,7
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = '''5''', 3
+| Oxide = 
+| Basizität = [[amphoter]]
+| Normalpotential = 
+| Elektronegativität = 1,63
+| RL 67/548/EWG      = 
+| Gefahrensymbole    = '''Pulver'''<br />{{Gefahrensymbole|F|Xi}}<br />
+| R                  = {{R-Sätze|17|36/37/38}} (Pulver)<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/12234_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
+| S                  = {{S-Sätze|7|26|33|37|43|60}} (Pulver)<ref name="alfa-SDB"/>
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = V
+| Massenzahl = 47
+| NH = 0
+| Halbwertszeit = 32,6 [[Minute|min]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 29,28
+| Zerfallstyp1ZP = [[Titan (Element)|<sup>47</sup>Ti]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = V
+| Massenzahl = 48
+| NH = 0
+| Halbwertszeit = 15,9735 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 4,012
+| Zerfallstyp1ZP = [[Titan (Element)|<sup>48</sup>Ti]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = V
+| Massenzahl = 49
+| NH = 0
+| Halbwertszeit = 330 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,602
+| Zerfallstyp1ZP = [[Titan (Element)|<sup>49</sup>Ti]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = V
+| Massenzahl = 50
+| NH = 0,25
+| Halbwertszeit = 1,4 · 10<sup>17</sup> [[Jahr|a]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,208
+| Zerfallstyp1ZP = [[Titan (Element)|<sup>50</sup>Ti]]
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp2ZE = 1,037
+| Zerfallstyp2ZP = [[Chrom|<sup>50</sup>Cr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = V
+| Massenzahl = 51
+| NH = '''99,75'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = V
+| Massenzahl = 52
+| NH = 0
+| Halbwertszeit = 3,743 [[Minute|min]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 3,976
+| Zerfallstyp1ZP = [[Chrom|<sup>52</sup>Cr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = V
+| Massenzahl = 53
+| NH = 0
+| Halbwertszeit = 1,61 [[Minute|min]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 3,436
+| Zerfallstyp1ZP = [[Chrom|<sup>53</sup>Cr]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = V
+| Massenzahl_1 = 50
+| Kernspin_1 = 6
+| Gamma_1 = 2,667 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,0555
+| Larmorfrequenz_1 = 19,9
+| Massenzahl_2 = 51
+| Kernspin_2 = 7/2
+| Gamma_2 = 7,032 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,383
+| Larmorfrequenz_2 = 52,6
+}}
+}}
