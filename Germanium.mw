@@ -1,1 +1,156 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Germanium
+| Symbol= Ge
+| Ordnungszahl= 32
+| Massenzahl= 74
+| Serie= [[Halbmetalle]]
+| Gruppe = 14
+| Periode = 4
+| Block= p
+| Serienfarbe= Peru
+<!--- Allgemein --->
+| Aussehen= gräulich weiß
+| Massenanteil= 6 · 10<sup>-4</sup>
+<!--- Atomar --->
+| Atommasse= 72,61
+| Atomradius= 125
+| AtomradiusBerechnet= 125
+| KovalenterRadius= 122
+| VanDerWaalsRadius=
+| Elektronenkonfiguration= &#x5B;[[Argon|Ar]]&#x5D;3d<sup>10</sup>4s<sup>2</sup>4p<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 4
+| Austrittsarbeit= 4,8
+| Ionisierungsenergie_1= 762
+| Ionisierungsenergie_2= 1537,5
+| Ionisierungsenergie_3= 3302,1
+| Ionisierungsenergie_4= 4411
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen=
+| Kristallstruktur= kubisch flächenzentriert (Diamant-Struktur)
+| Dichte= 5,323 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 6
+| Magnetismus=
+| Schmelzpunkt_K= 1211,4
+| Schmelzpunkt_C= 938,3
+| Siedepunkt_K= 3093
+| Siedepunkt_C= 2820
+| MolaresVolumen= 13,63 · 10<sup>-6</sup>
+| Verdampfungswärme= 330,9
+| Schmelzwärme= 36,94
+| Dampfdruck= 7,46 · 10<sup>-5</sup>
+| RefTempDampfdruck_K= 1210
+| Schallgeschwindigkeit= 5400
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 320
+| ElektrischeLeitfähigkeit= 1,45
+| RefTempElektrischeLeitfähigkeit_K=
+| Wärmeleitfähigkeit= 59,9
+| RefTempWärmeleitfähigkeit_K=
+<!--- Chemisch --->
+| Oxidationszustände= -4, 2, '''4'''
+| Oxide= GeO<sub>2</sub>
+| Basizität= [[amphoter]]
+| Normalpotential= 0,24 [[Volt|V]] (Ge<sup>2+</sup> + 2e<sup>-</sup> → Ge)
+| Elektronegativität= 2,01
+| RL 67/548/EWG = Nein
+| Gefahrensymbole = '''Pulver'''<br /> {{Gefahrensymbole|F}}<ref name="BGIA">[http://www.hvbg.de/d/bia/gestis/stoffdb/index.html BGIA-Gestis Gefahrstoffdatenbank] (in kompakter Form keine R-/S-Sätze)</ref>
+| R = {{R-Sätze|11}}<ref name="BGIA"/>
+| S = {{S-Sätze|9|16|29|33}}<ref name="BGIA"/>
+<!--- Isotope --->
+| Isotope=
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= Ge
+| Massenzahl= 68
+| NH= 0
+| Halbwertszeit= 270,8 [[Tag|d]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 0,106
+| Zerfallstyp1ZP= [[Gallium|<sup>68</sup>Ga]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= Ge
+| Massenzahl= 69
+| NH=0
+| Halbwertszeit= 39,05 [[Stunde|h]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 2,227
+| Zerfallstyp1ZP= [[Gallium|<sup>69</sup>Ga]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Symbol= Ge
+| Massenzahl= 70
+| NH= 21,23
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= Ge
+| Massenzahl= 71
+| NH= 0
+| Halbwertszeit= 11,43 [[Tag|d]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 0,229
+| Zerfallstyp1ZP= [[Gallium|<sup>71</sup>Ga]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Symbol= Ge
+| Massenzahl= 72
+| NH= 27,66
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Symbol= Ge
+| Massenzahl= 73
+| NH= 7,73
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Symbol= Ge
+| Massenzahl= 74
+| NH= 35,94
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= Ge
+| Massenzahl= 75
+| NH= 0
+| Halbwertszeit= 82,78 [[Minute|min]]
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 1,177
+| Zerfallstyp1ZP= [[Arsen|<sup>75</sup>As]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Symbol= Ge
+| Massenzahl= 76
+| NH= 7,44
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= Ge
+| Massenzahl= 77
+| NH= 0
+| Halbwertszeit= 11,30 [[Stunde|h]]
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 2,702
+| Zerfallstyp1ZP= [[Arsen|<sup>77</sup>As]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Symbol= Ge
+| Massenzahl= 78
+| NH = 0
+| Halbwertszeit= 88,0 [[Minute|min]]
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 0,954
+| Zerfallstyp1ZP= [[Arsen|<sup>78</sup>As]]
+}}
+| NMREigenschaften=
+
+}}
