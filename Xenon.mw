@@ -1,1 +1,218 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Xenon
+| Symbol = Xe
+| Ordnungszahl = 54
+| Serie = [[Edelgase]]
+| Gruppe = 18
+| Periode = 5
+| Block = p
+| Serienfarbe = LightskyBlue
+<!--- Allgemein --->
+| Aussehen = farblos
+| Massenanteil = 2 · 10<sup>-9</sup>
+<!--- Atomar --->
+| Atommasse = 131,293
+| Atomradius =
+| AtomradiusBerechnet = 108
+| KovalenterRadius = 130
+| VanDerWaalsRadius = 216
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki> 4d<sup>10</sup> 5s<sup>2</sup>5p<sup>6</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 18, 8
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 1170,4
+| Ionisierungsenergie_2 = 2046,4
+| Ionisierungsenergie_3 = 3099,4
+<!--- Physikalisch --->
+| Aggregatzustand = gasförmig
+| Modifikationen =
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 5,9 kg · m<sup>−3</sup>
+| RefTempDichte_K = 273
+| Mohshärte = -
+| Magnetismus = unmagnetisch
+| Schmelzpunkt_K = 161,4
+| Schmelzpunkt_C = -111,7
+| Siedepunkt_K = 165,1
+| Siedepunkt_C = -108,0
+| MolaresVolumen = 22,25 · 10<sup>-3</sup>
+| Verdampfungswärme = 12,636
+| Schmelzwärme = 2,297
+| Dampfdruck = 58,3
+| RefTempDampfdruck_K = 288,15
+| Schallgeschwindigkeit = 
+| RefTempSchallgeschwindigkeit_K =
+| SpezifischeWärmekapazität =
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 0
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 0,00569
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 0
+| Oxide = 
+| Basizität = schwach [[Säure|sauer]]
+| Normalpotential =
+| Elektronegativität = 2,6
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|-}}
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 122
+| NH = 0
+| Halbwertszeit = 20,1 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,890
+| Zerfallstyp1ZP = [[Iod|<sup>122</sup>I]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 123
+| NH = 0
+| Halbwertszeit = 2,08 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,676
+| Zerfallstyp1ZP = [[Iod|<sup>123</sup>I]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 124
+| NH = 0,1
+| Halbwertszeit = >4,8 · 10<sup>16</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Doppelter Elektroneneinfang|εε]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = [[Tellur|<sup>124</sup>Te]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 125
+| NH = 0
+| Halbwertszeit = 16,9 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,652
+| Zerfallstyp1ZP = [[Iod|<sup>125</sup>I]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Xe
+| Massenzahl = 126
+| NH = 0,09
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 127
+| NH = 0
+| Halbwertszeit = 36,4 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,662
+| Zerfallstyp1ZP = [[Iod|<sup>127</sup>I]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Xe
+| Massenzahl = 128
+| NH = 1,91
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Xe
+| Massenzahl = 129
+| NH = 26,4
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Xe
+| Massenzahl = 130
+| NH = 4,1
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Xe
+| Massenzahl = 131
+| NH = 21,29
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Xe
+| Massenzahl = 132
+| NH = '''26,9'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 133
+| NH = 0
+| Halbwertszeit = 5,253 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 0,427
+| Zerfallstyp1ZP = [[Cäsium|<sup>133</sup>Cs]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Xe
+| Massenzahl = 134
+| NH = 10,4
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 135
+| NH = 0
+| Halbwertszeit = 9,14 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 1,151
+| Zerfallstyp1ZP = [[Cäsium|<sup>135</sup>Cs]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 136
+| NH = 8,9
+| Halbwertszeit = >10 · 10<sup>21</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Doppelter Betazerfall|β<sup>−</sup>β<sup>−</sup>]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = [[Barium|<sup>136</sup>Ba]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 137
+| NH = 0
+| Halbwertszeit = 3,818 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 4,172
+| Zerfallstyp1ZP = [[Cäsium|<sup>137</sup>Cs]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Xe
+| Massenzahl = 138
+| NH = 0
+| Halbwertszeit = 14,08 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 2,770
+| Zerfallstyp1ZP = [[Cäsium|<sup>138</sup>Cs]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Xe
+| Massenzahl_1 = 129
+| Kernspin_1 = 1/2
+| Gamma_1 = 7,399 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,0212
+| Larmorfrequenz_1 = 55,3
+| Massenzahl_2 = 131
+| Kernspin_2 = 3/2
+| Gamma_2 = 2,193 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,00276
+| Larmorfrequenz_2 = 16,4
+}}
+}}
