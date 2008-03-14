@@ -1,1 +1,132 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Iod
+| Symbol = I
+| Ordnungszahl = 53
+| Serie = [[Halogene]]
+| Gruppe = 17
+| Periode = 5
+| Block = p
+| Serienfarbe = Khaki
+| Aussehen = dunkel-violett grau, <br />glänzend
+| Massenanteil = 6 · 10<sup>−6</sup>
+| Atommasse = 126,90447
+| CAS_Nummer = 7553-56-2
+| Atomradius = 140
+| AtomradiusBerechnet = 115
+| KovalenterRadius = 133
+| VanDerWaalsRadius = 198
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki> 4d<sup>10</sup> 5s<sup>2</sup> 5p<sup>5</sup>
+| ElektronenProEnergieNiveau =  2, 8, 18, 18, 7
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 1008,4
+| Ionisierungsenergie_2 = 1845,9
+| Ionisierungsenergie_3 = 3180
+| Aggregatzustand = fest
+| Modifikationen = 1
+| Kristallstruktur = orthorhombisch
+| Dichte = 4,94 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = ?
+| Magnetismus = diamagnetisch
+| Schmelzpunkt_K = 386,85
+| Schmelzpunkt_C = 113,70
+| Siedepunkt_K = 457,4 
+| Siedepunkt_C = 184,20
+| MolaresVolumen =  25,72 · 10<sup>−6</sup>
+| Verdampfungswärme = 20,752
+| Schmelzwärme = 7,824
+| Dampfdruck = 41
+| RefTempDampfdruck_K = 298
+| Schallgeschwindigkeit =  
+| RefTempSchallgeschwindigkeit_K = 
+| SpezifischeWärmekapazität = 214,5
+| RefTempSpezifischeWärmekapazität_K = 298
+| ElektrischeLeitfähigkeit = 8,0 · 10<sup>−8</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,449 
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = ±1, 3, 5, 7
+| Oxide = 
+| Basizität = stark [[Säure|sauer]]
+| Normalpotential = 0,536
+| Elektronegativität = 2,66
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|Xn|N}}
+| R                  = {{R-Sätze|20/21|50}}
+| S                  = {{S-Sätze|(2)|23|25|61}}
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = I
+| Massenzahl = 125
+| NH = 0
+| Halbwertszeit = 59,408 d
+| Zerfallstyp1ZM = [[Elektronen-Einfang|&epsilon;]]
+| Zerfallstyp1ZE = 0,186
+| Zerfallstyp1ZP = [[Tellur|<sup>125</sup>Te]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = I
+| Massenzahl = 126
+| NH = 0
+| Halbwertszeit = 13,11 d
+| Zerfallstyp1ZM = [[Elektronen-Einfang|&epsilon;]]
+| Zerfallstyp1ZE = 2,155
+| Zerfallstyp1ZP = [[Tellur|<sup>126</sup>Te]]
+| Zerfallstyp2ZM = [[Beta-Strahlung|&beta;<sup>-</sup>]]
+| Zerfallstyp2ZE = 1,258
+| Zerfallstyp2ZP = [[Xenon|<sup>126</sup>Xe]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = I
+| Massenzahl = 127
+| NH = '''100'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = I
+| Massenzahl = 128
+| NH = 0
+| Halbwertszeit = 24,99 min
+| Zerfallstyp1ZM = [[Beta-Strahlung|&beta;<sup>-</sup>]]
+| Zerfallstyp1ZE = 2,118
+| Zerfallstyp1ZP = [[Xenon|<sup>128</sup>Xe]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|&epsilon;]]
+| Zerfallstyp2ZE = 1,251
+| Zerfallstyp2ZP = [[Tellur|<sup>128</sup>Te]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = I
+| Massenzahl = 129
+| NH = 0
+| Halbwertszeit = 1,57 · 10<sup>7</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Beta-Strahlung|&beta;<sup>-</sup>]]
+| Zerfallstyp1ZE = 0,194
+| Zerfallstyp1ZP = [[Xenon|<sup>129</sup>Xe]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = I
+| Massenzahl = 130
+| NH = 0
+| Halbwertszeit = 12,365 h
+| Zerfallstyp1ZM = [[Beta-Strahlung|&beta;<sup>-</sup>]]
+| Zerfallstyp1ZE = 2,949
+| Zerfallstyp1ZP = [[Xenon|<sup>130</sup>Xe]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = I
+| Massenzahl = 131
+| NH = 0
+| Halbwertszeit = 8,02070 [[Tag|d]]
+| Zerfallstyp1ZM = [[Beta-Strahlung|&beta;<sup>-</sup>]]
+| Zerfallstyp1ZE = 0,971
+| Zerfallstyp1ZP = [[Xenon|<sup>131</sup>Xe]]
+}}
+| NMREigenschaften = 
+}}
