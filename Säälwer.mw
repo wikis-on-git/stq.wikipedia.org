@@ -1,1 +1,187 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Silber
+| Symbol = Ag
+| Ordnungszahl = 47
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 11
+| Periode = 5
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = weißglänzend, metallisch 
+| Massenanteil = 1 · 10<sup>−5</sup>
+<!--- Atomar --->
+| Atommasse = 107,8682
+| Atomradius = 160
+| AtomradiusBerechnet = 165
+| KovalenterRadius = 153
+| VanDerWaalsRadius = 172
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki>4d<sup>10</sup>5[[S-Orbital|s]]<sup>1</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 18, 1
+| Austrittsarbeit = 4,3
+| Ionisierungsenergie_1 = 731,0
+| Ionisierungsenergie_2 = 2070
+| Ionisierungsenergie_3 = 3361
+| Ionisierungsenergie_4 =
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 10,49 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte = 2,5
+| Magnetismus = diamagnetisch
+| Schmelzpunkt_K = 1234,93
+| Schmelzpunkt_C = 961,78
+| Siedepunkt_K = 2435
+| Siedepunkt_C = 2162
+| MolaresVolumen = 10,27 · 10<sup>−6</sup>
+| Verdampfungswärme = 250,58
+| Schmelzwärme = 11,3
+| Dampfdruck = 0,34
+| RefTempDampfdruck_K = 1234
+| Schallgeschwindigkeit= ~3600 ([[Longitudinalwelle|long.]]), ~1600 ([[Transversalwelle|trans.]])<br/>
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 232
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 62 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 429
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = '''+1''', +2, +3
+| Oxide = Ag<sub>2</sub>O, Ag<sub>2</sub>O<sub>2</sub> (oft falsch AgO), Ag<sub>3</sub>O<sub>4</sub>, Ag<sub>2</sub>O<sub>3</sub>
+| Basizität = [[amphoter]]
+| Normalpotential = 0,7996 [[Volt|V]] (Ag<sup>+</sup> + e<sup>−</sup> → Ag)
+| Elektronegativität = 1,93
+| Gefahrensymbole = (kein Gefahrensymbol)
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|-}}
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ag
+| Massenzahl = 105
+| NH = 0
+| Halbwertszeit = 41,29 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,346
+| Zerfallstyp1ZP = [[Palladium|<sup>105</sup>Pd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ag
+| Massenzahl = 106
+| NH = 0
+| Halbwertszeit = 23,96 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,965
+| Zerfallstyp1ZP = [[Palladium|<sup>106</sup>Pd]]
+| Zerfallstyp2ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp2ZE = 0,195
+| Zerfallstyp2ZP = [[Cadmium|<sup>106</sup>Cd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ag
+| Massenzahl = 106[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 8,28 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,055
+| Zerfallstyp1ZP = [[Palladium|<sup>106</sup>Pd]]
+| Zerfallstyp2ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp2ZE = 0,090
+| Zerfallstyp2ZP = <sup>106</sup>Ag
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ag
+| Massenzahl = 107
+| NH = '''51,839'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ag
+| Massenzahl = 108
+| NH = 0
+| Halbwertszeit = 2,37 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 1,649
+| Zerfallstyp1ZP = [[Cadmium|<sup>108</sup>Cd]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 1,918
+| Zerfallstyp2ZP = [[Palladium|<sup>108</sup>Pd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ag
+| Massenzahl = 108[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 418 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,027
+| Zerfallstyp1ZP = [[Palladium|<sup>108</sup>Pd]]
+| Zerfallstyp2ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp2ZE = 0,109
+| Zerfallstyp2ZP = <sup>108</sup>Ag
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ag
+| Massenzahl = 109
+| NH = 48,161
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ag
+| Massenzahl = 110
+| NH = 0
+| Halbwertszeit = 24,6 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 2,892
+| Zerfallstyp1ZP = [[Cadmium|<sup>110</sup>Cd]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 0,893
+| Zerfallstyp2ZP = [[Palladium|<sup>110</sup>Pd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ag
+| Massenzahl = 110[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 249,79 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 3,010
+| Zerfallstyp1ZP = [[Cadmium|<sup>110</sup>Cd]]
+| Zerfallstyp2ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp2ZE = 0,118
+| Zerfallstyp2ZP = <sup>110</sup>Ag
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ag
+| Massenzahl = 111
+| NH = 0
+| Halbwertszeit = 7,45 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE = 1,037
+| Zerfallstyp1ZP = [[Cadmium|<sup>111</sup>Cd]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Ag
+| Massenzahl_1 = 107
+| Kernspin_1 = −1/2
+| Gamma_1 = 1,082 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 6,62 · 10<sup>−5</sup>
+| Larmorfrequenz_1 = 8,09
+| Massenzahl_2 = 109
+| Kernspin_2 = –1/2
+| Gamma_2 = 1,244 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,000101
+| Larmorfrequenz_2 = 9,3
+}}
+}}
