@@ -1,1 +1,147 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name=Eisen
+| Symbol= Fe
+| Ordnungszahl= 26
+| Serie= [[Übergangsmetalle]]
+| Gruppe = 8
+| Periode = 4
+| Block= d
+| Serienfarbe= LightCoral
+<!--- Allgemein --->
+| Aussehen =metallisch glänzend mit<br/>einem gräulichen Farbton
+| Massenanteil= 4,7
+<!--- Atomar --->
+| Atommasse= 55,845
+| Atomradius= 140
+| AtomradiusBerechnet= 156
+| KovalenterRadius= 125
+| VanDerWaalsRadius= ?
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 3d<sup>6</sup>4s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 14, 2
+| Austrittsarbeit= 4,31 − 4,5
+| Ionisierungsenergie_1= 762,5
+| Ionisierungsenergie_2= 1561,9
+| Ionisierungsenergie_3= 2957
+| Ionisierungsenergie_4= 5290
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= 
+| Kristallstruktur= kubisch raumzentriert
+| Dichte= 7,874 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 4,0
+| Magnetismus= ferromagnetisch
+| Schmelzpunkt_K= 1808
+| Schmelzpunkt_C= 1535
+| Siedepunkt_K= 3023
+| Siedepunkt_C= 2750
+| MolaresVolumen= 7,09 · 10<sup>−6</sup>
+| Verdampfungswärme= 349,6
+| Schmelzwärme= 13,8
+| Dampfdruck= 7,05
+| RefTempDampfdruck_K= 1808
+| Schallgeschwindigkeit= ~5900 ([[Longitudinalwelle|long.]]), ~3200 ([[Transversalwelle|trans.]])<br/>
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 452
+| ElektrischeLeitfähigkeit= 9,93 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K= 
+| Wärmeleitfähigkeit= 80,2
+| RefTempWärmeleitfähigkeit_K= 
+<!--- Chemisch --->
+| Oxidationszustände= 2, '''3''', 4, 6
+| Oxide= 
+| Basizität= amphoter
+| Normalpotential= −0,447 V (Fe<sup>2+</sup> + 2e<sup>−</sup> → Fe)
+| Elektronegativität= 1,83
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|F}} (Pulver)
+| R = {{R-Sätze|11}} (Pulver)<ref name="carl-roth-SDB">[http://www.carl-roth.de/jsp/de-de/sdpdf/3718.PDF Sicherheitsdatenblatt(Carl Roth)] Dies gilt nur für Pulver, kompaktes Eisen ist ohne Gefahrensymbole/R-/S-Sätze</ref>
+| S = {{S-Sätze|53|45|60|61}} (Pulver)<ref name="carl-roth-SDB"/>
+| Radioaktiv = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen=1
+| Symbol= Fe
+| Massenzahl= 52
+| NH= 0
+| Halbwertszeit= 8,275 [[Stunde|h]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 2,372
+| Zerfallstyp1ZP= [[Mangan|<sup>52</sup>Mn]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen=1
+| Symbol=Fe
+| Massenzahl= 53
+| NH= 0
+| Halbwertszeit= 8,51 [[Minute|min]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 3,743
+| Zerfallstyp1ZP= [[Mangan|<sup>53</sup>Mn]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Symbol= Fe
+| OZ = 26
+| Massenzahl= 54
+| NH= 5,8
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Massenzahl= 55
+| Symbol= Fe
+| NH= 0
+| Halbwertszeit= 2,73 [[Jahr|a]]
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 0,231
+| Zerfallstyp1ZP= [[Mangan|<sup>55</sup>Mn]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Symbol= Fe
+| OZ = 26
+| Massenzahl= 56
+| NH= 91,72
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Symbol=Fe
+| OZ = 26
+| Massenzahl=57
+| NH=2,2
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Symbol=Fe
+| OZ = 26
+| Massenzahl=58
+| NH=0,28
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Massenzahl= 59
+| Symbol= Fe
+| NH= 0
+| Halbwertszeit= 44,503 [[Tag|d]]
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE= 1,565
+| Zerfallstyp1ZP= [[Cobalt|<sup>59</sup>Co]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 60
+| Symbol= Fe
+| NH= 0
+| Halbwertszeit= 1,5 · 10<sup>6</sup> [[Jahr|a]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE= 3,978
+| Zerfallstyp1ZP= [[Cobalt|<sup>60</sup>Co]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol= Fe
+| Massenzahl_1= 57
+| Kernspin_1= 1/2
+| Gamma_1= 8,643 · 10<sup>6</sup>
+| Empfindlichkeit_1= 3,37 · 10<sup>−5</sup>
+| Larmorfrequenz_1= 6,46
+}}
+}}
