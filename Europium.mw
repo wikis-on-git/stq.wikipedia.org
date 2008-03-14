@@ -1,1 +1,143 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Europium
+| Symbol= Eu
+| Ordnungszahl= 63
+| Massenzahl= 153
+| Serie=[[Lanthanoide]]
+| Gruppe= La
+| Periode = 6
+| Block= f
+| Serienfarbe= Plum
+<!--- Allgemein --->
+| Aussehen= silbrig weiß
+| Massenanteil= ?
+<!--- Atomar --->
+| Atommasse= 151,964
+| Atomradius= 185
+| AtomradiusBerechnet= 231
+| KovalenterRadius= ?-
+| VanDerWaalsRadius= ?
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4f<sup>7</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 25, 8, 2
+| Austrittsarbeit= 2,5
+| Ionisierungsenergie_1= 547,1
+| Ionisierungsenergie_2= 1085
+| Ionisierungsenergie_3= 2404
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= 
+| Kristallstruktur= kubisch raumzentriert
+| Dichte= 5,244 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= ?
+| Magnetismus= ?
+| Schmelzpunkt_K=1099
+| Schmelzpunkt_C=826
+| Siedepunkt_K=1800
+| Siedepunkt_C=1527
+| MolaresVolumen=28,97 · 10<sup>-6</sup>
+| Verdampfungswärme=143,5
+| Schmelzwärme=9,21
+| Dampfdruck=144
+| RefTempDampfdruck_K=1095
+| Schallgeschwindigkeit=-
+| RefTempSchallgeschwindigkeit_K=
+| SpezifischeWärmekapazität= 180
+| ElektrischeLeitfähigkeit= 1,12 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K= 
+| Wärmeleitfähigkeit= 13,9
+| RefTempWärmeleitfähigkeit_K= 
+<!--- Chemisch --->
+| Oxidationszustände= 2, '''3'''
+| Oxide= 
+| Basizität= leicht [[Base (Chemie)|basisch]]
+| Normalpotential= 
+| Elektronegativität= 1,2
+| Gefahrensymbole= {{Gefahrensymbole|F}}
+| R={{R-Sätze|14/15|17}}
+| S={{S-Sätze|7/8|43}}
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Eu
+| Massenzahl = 149
+| NH = 0
+| Halbwertszeit = 93,1 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,692
+| Zerfallstyp1ZP = [[Samarium|<sup>149</sup>Sm]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Eu
+| Massenzahl = 150
+| NH = 0
+| Halbwertszeit = 36,9 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,261
+| Zerfallstyp1ZP = [[Samarium|<sup>150</sup>Sm]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Eu
+| OZ = 63
+| Massenzahl = 151
+| NH = 47,8
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Eu
+| Massenzahl = 152
+| NH = 0
+| Halbwertszeit = 13,516 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,874
+| Zerfallstyp1ZP = [[Samarium|<sup>152</sup>Sm]]
+| Zerfallstyp2ZM = [[Betastrahlung|β-]]
+| Zerfallstyp2ZE = 1,819
+| Zerfallstyp2ZP = [[Gadolinium|<sup>152</sup>Gd]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Eu
+| OZ = 63
+| Massenzahl = 153
+| NH = 52,2
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Eu
+| Massenzahl = 154
+| NH = 0
+| Halbwertszeit = 8,593 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,969
+| Zerfallstyp1ZP = [[Gadolinium|<sup>154</sup>Gd]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Eu
+| Massenzahl = 155
+| NH = 0
+| Halbwertszeit = 4,7611 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,252
+| Zerfallstyp1ZP = [[Gadolinium|<sup>155</sup>Gd]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| Symbol= Eu
+| Massenzahl_1=151
+| Kernspin_1=5/2
+| Gamma_1=6,634 · 10<sup>7</sup>
+| Empfindlichkeit_1=0,178
+| Larmorfrequenz_1=49,6
+| Massenzahl_2=153
+| Kernspin_2=5/2
+| Gamma_2=2,93 · 10<sup>7</sup>
+| Empfindlichkeit_2=0,0153
+| Larmorfrequenz_2=21,9
+}}
+}}
