@@ -1,1 +1,147 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Terbium
+| Symbol = Tb
+| Ordnungszahl = 65
+| Serie = [[Lanthanoide]]
+| Gruppe = La
+| Periode = 6
+| Block = f
+| Serienfarbe = Plum
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil = ?
+<!--- Atomar --->
+| Atommasse = 158,92534
+| Atomradius = 175
+| AtomradiusBerechnet = 225
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>9</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 27, 8, 2
+| Austrittsarbeit = 3,0
+| Ionisierungsenergie_1 = 565,8
+| Ionisierungsenergie_2 = 1110
+| Ionisierungsenergie_3 = 2114
+| Ionisierungsenergie_4 = 3839
+| Ionisierungsenergie_5 =
+| Ionisierungsenergie_6 =
+| Ionisierungsenergie_7 =
+| Ionisierungsenergie_8 =
+| Ionisierungsenergie_9 =
+| Ionisierungsenergie_10 =
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = [[Hexagon]]al
+| Dichte = 8,219 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 1629
+| Schmelzpunkt_C = 1356
+| Siedepunkt_K = 3503
+| Siedepunkt_C = 3230
+| MolaresVolumen = 19,3 · 10<sup>-6</sup>
+| Verdampfungswärme = 330,9
+| Schmelzwärme = 10,8
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit = 2620
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 180
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 0,889 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 11,1
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 4, '''3'''
+| Oxide =
+| Basizität = schwach [[Base (Chemie)|basisch]]
+| Normalpotential =
+| Elektronegativität = 1,2
+| Gefahrensymbole = <div>{{Gefahrensymbole|Xi}}</div>
+| R= {{R-Sätze|36/37/38}}
+| S= {{S-Sätze|26|36}}
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Tb
+| Massenzahl = 155
+| NH = 0
+| Halbwertszeit = 5,32 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,821
+| Zerfallstyp1ZP = [[Gadolinium|<sup>155</sup>Gd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Tb
+| Massenzahl = 156
+| NH = 0
+| Halbwertszeit = 5,35 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,444
+| Zerfallstyp1ZP = [[Gadolinium|<sup>156</sup>Gd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Tb
+| Massenzahl = 157
+| NH = 0
+| Halbwertszeit = 71 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,060
+| Zerfallstyp1ZP = [[Gadolinium|<sup>157</sup>Gd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Tb
+| Massenzahl = 158
+| NH = 0
+| Halbwertszeit = 180 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,220
+| Zerfallstyp1ZP = [[Gadolinium|<sup>158</sup>Gd]]
+| Zerfallstyp2ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp2ZE = 0,937
+| Zerfallstyp2ZP = [[Dysprosium|<sup>158</sup>Dy]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Tb
+| Massenzahl = 159
+| NH = '''100'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Tb
+| Massenzahl = 160
+| NH = 0
+| Halbwertszeit = 72,3 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 1,835
+| Zerfallstyp1ZP = [[Dysprosium|<sup>160</sup>Dy]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Tb
+| Massenzahl = 161
+| NH = 0
+| Halbwertszeit = 6,88 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,593
+| Zerfallstyp1ZP = [[Dysprosium|<sup>161</sup>Dy]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Tb
+| Massenzahl_1 = 159
+| Kernspin_1 = 3/2
+| Gamma_1 = 6,067 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,0583
+| Larmorfrequenz_1 =45,4
+}}
+}}
