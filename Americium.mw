@@ -1,1 +1,124 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Americium
+| Symbol= Am
+| Ordnungszahl= 95
+| Massenzahl= 243
+| Serie= [[Actinoide]]
+| Gruppe= Ac
+| Periode = 7
+| Block= [[F-Block|f]]
+| Serienfarbe= #CD46CD 
+<!--- Allgemein --->
+| Aussehen= silbrig-weißes Metall
+| Massenanteil= künstliches Element
+<!--- Atomar --->
+| Atommasse= 243
+| Atomradius= 184
+| AtomradiusBerechnet= 
+| KovalenterRadius= k.A.
+| VanDerWaalsRadius= 228,5
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki>5f<sup>7</sup>7s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 32, 25, 8, 2
+| Oxidationszustände= '''+3''', +4, +5, +6
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 578 
+| Ionisierungsenergie_2= 
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= -
+| Kristallstruktur= hexagonal
+| Dichte= 13,67 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= -
+| Magnetismus= k.A.
+| Schmelzpunkt_K= 1449
+| Schmelzpunkt_C= 1176
+| Siedepunkt_K= 2880
+| Siedepunkt_C= 2607
+| MolaresVolumen= 1,778 · 10<sup>-5</sup>
+| Verdampfungswärme= 238,5
+| Schmelzwärme= 14,4
+| Dampfdruck= k.A.
+| RefTempDampfdruck_K= 
+| Schallgeschwindigkeit= k.A.
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= 0,11
+| ElektrischeLeitfähigkeit= 147,1
+| RefTempElektrischeLeitfähigkeit_K= 293,15
+| Wärmeleitfähigkeit= 10
+| RefTempWärmeleitfähigkeit_K= 300
+<!--- Chemisch --->
+| Oxidationszustände= <!-- ±2, '''4''', 6 -->
+| Oxide= 
+| Basizität=
+| Normalpotential=
+| Elektronegativität=
+| Gefahrensymbole= 
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope= 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 1
+| Massenzahl= 241
+| Symbol= Am
+| NH= 0
+| Halbwertszeit= 432,2 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 5,638
+| Zerfallstyp1ZP = [[Neptunium|<sup>237</sup>Np]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Massenzahl= 242
+| Symbol= Am
+| NH= 0
+| Halbwertszeit= 16,02 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;]]
+| Zerfallstyp1ZE = 0,665
+| Zerfallstyp1ZP = [[Curium|<sup>242</sup>Cm]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|&epsilon;]]
+| Zerfallstyp2ZE = 0,751
+| Zerfallstyp2ZP = [[Plutonium|<sup>242</sup>Pu]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Massenzahl= 242m1
+| Symbol= Am
+| NH= 0
+| Halbwertszeit= 141 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp1ZE = 0,049
+| Zerfallstyp1ZP = <sup>242</sup>Am
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 5,637
+| Zerfallstyp2ZP = [[Neptunium|<sup>238</sup>Np]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 242m2
+| Symbol= Am
+| NH= 0
+| Halbwertszeit= 14.0 m[[Sekunde|s]]
+| AnzahlZerfallstypen= 3
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp1ZE = ?
+| Zerfallstyp1ZP = ?
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 7,788
+| Zerfallstyp2ZP = [[Neptunium|<sup>238</sup>Np]]
+| Zerfallstyp3ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp3ZE = 2,2
+| Zerfallstyp3ZP = <sup>242</sup>Am
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 243
+| Symbol= Am
+| NH= 0
+| Halbwertszeit= 7370 [[Jahr|a]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 5,438
+| Zerfallstyp1ZP = [[Neptunium|<sup>239</sup>Np]]
+}}
+| NMREigenschaften= unbekannt
+}}
