@@ -1,1 +1,118 @@
-{{stump}}
+{{Infobox_Chemisk_Element
+<!--- Periodensystem --->
+| Name = Yttrium
+| Symbol = Y
+| Ordnungszahl = 39
+| Massenzahl = 89
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 3
+| Periode = 5
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil = 3 · 10<sup>-3</sup>
+<!--- Atomar --->
+| Atommasse = 88,90585
+| Atomradius = 180
+| AtomradiusBerechnet = 212
+| KovalenterRadius = 162
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki>4d<sup>1</sup>5[[S-Orbital|s]]<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 9, 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 600
+| Ionisierungsenergie_2 = 1180
+| Ionisierungsenergie_3 = 1980
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = -
+| Kristallstruktur = hexagonal
+| Dichte = 4,472 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 2,5
+| Magnetismus = -
+| Schmelzpunkt_K = 1799
+| Schmelzpunkt_C = 1526
+| Siedepunkt_K = 3609
+| Siedepunkt_C = 3336
+| MolaresVolumen = 19,88 · 10<sup>-6</sup>
+| Verdampfungswärme = 363
+| Schmelzwärme = 11,4
+| Dampfdruck = 5,31
+| RefTempDampfdruck_K = 1799
+| Schallgeschwindigkeit = 3300
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 300
+| RefTempSpezifischeWärmekapazität = 
+| ElektrischeLeitfähigkeit = 1,66 · 10<sup>6</sup>
+| Wärmeleitfähigkeit = 17,2
+<!--- Chemisch --->
+| Oxidationszustände = 3
+| Oxide = Y<sub>2</sub>O<sub>3</sub> 
+| Basizität = schwach [[Base (Chemie)|basisch]]
+| Normalpotential = -2,372 [[Volt|V]] (Y<sup>3+</sup> + 3e<sup>-</sup> → Y)
+| Elektronegativität = 1,22
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = '''Pulver''' <br />{{Gefahrensymbole|F}}
+| R                  = {{R-Sätze|11}}<ref name="BGIA">[http://www.hvbg.de/d/bia/gestis/stoffdb/index.html BGIA-Gestis Gefahrstoffdatenbank]</ref>
+| S                  = {{S-Sätze|7/9|16|33}} <ref name="BGIA"/>
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 87
+| Symbol = Y
+| NH = 0
+| Halbwertszeit = 79,8 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,862
+| Zerfallstyp1ZP = [[Strontium|<sup>87</sup>Sr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 88
+| Symbol = Y
+| NH = 0
+| Halbwertszeit = 106,65 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,623
+| Zerfallstyp1ZP = [[Strontium|<sup>88</sup>Sr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Massenzahl = 89
+| Symbol = Y
+| NH = '''100'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 90
+| Symbol = Y
+| NH = 0
+| Halbwertszeit = 64,10 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 2,282
+| Zerfallstyp1ZP = [[Zirconium|<sup>90</sup>Zr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Massenzahl = 91
+| Symbol = Y
+| NH = 0
+| Halbwertszeit = 58,51 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,544
+| Zerfallstyp1ZP = [[Zirconium|<sup>91</sup>Zr]]
+}}
+| NMREigenschaften = 
+{{Infobox Chemisches Element/NMR
+| Symbol = Y
+| Massenzahl_1 = 89
+| Kernspin_1 = -1/2
+| Gamma_1 = 1,311 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,000118
+| Larmorfrequenz_1 = 9,8
+}}
+}}
