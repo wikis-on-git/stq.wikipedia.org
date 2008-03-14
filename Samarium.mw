@@ -1,1 +1,168 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Samarium
+| Symbol = Sm
+| Ordnungszahl = 62
+| Serie = [[Lanthanoide]]
+| Gruppe = La
+| Periode = 6
+| Block = f
+| Serienfarbe = Plum
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil =
+<!--- Atomar --->
+| Atommasse = 150,36
+| Atomradius = 180,2
+| AtomradiusBerechnet =
+| KovalenterRadius = 166
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>6</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 24, 8, 2
+| Austrittsarbeit = 2,7
+| Ionisierungsenergie_1 = 544,5
+| Ionisierungsenergie_2 = 1070
+| Ionisierungsenergie_3 = 2260
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = [[rhomboedrisch]]
+| Dichte = 7,353 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 1345
+| Schmelzpunkt_C = 1072
+| Siedepunkt_K = 2076
+| Siedepunkt_C = 1803
+| MolaresVolumen = 19,98 · 10<sup>-6</sup>
+| Verdampfungswärme = 166,4
+| Schmelzwärme = 8,63
+| Dampfdruck = 563
+| RefTempDampfdruck_K = 1345
+| Schallgeschwindigkeit = 2130
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 200
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 0,956 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 13,3
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 3
+| Oxide =
+| Basizität = leicht [[Base (Chemie)|basisch]]
+| Normalpotential =
+| Elektronegativität = 1,17
+| Gefahrensymbole = <!--- <div>{{Gefahrensymbole|-}}</div> --->
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sm
+| Massenzahl = 144
+| NH = 3,07
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sm
+| Massenzahl = 145
+| NH = 0
+| Halbwertszeit = 340 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,617
+| Zerfallstyp1ZP = [[Promethium|<sup>145</sup>Pm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sm
+| Massenzahl = 146
+| NH = 0
+| Halbwertszeit = 1,03 · 10<sup>8</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 2,529
+| Zerfallstyp1ZP = [[Neodym|<sup>142</sup>Nd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sm
+| Massenzahl = 147
+| NH = 14,99
+| Halbwertszeit = 1,06 · 10<sup>11</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 2,310
+| Zerfallstyp1ZP = [[Neodym|<sup>143</sup>Nd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sm
+| Massenzahl = 148
+| NH = 11,24
+| Halbwertszeit = 7 · 10<sup>15</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 1,986
+| Zerfallstyp1ZP = [[Neodym|<sup>144</sup>Nd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sm
+| Massenzahl = 149
+| NH = 13,82
+| Halbwertszeit = 2 · 10<sup>15</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = [[Neodym|<sup>145</sup>Nd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sm
+| Massenzahl = 150
+| NH = 7,38
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sm
+| Massenzahl = 151
+| NH = 0
+| Halbwertszeit = 90 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,077
+| Zerfallstyp1ZP = [[Europium|<sup>151</sup>Eu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sm
+| Massenzahl = 152
+| NH = '''26,75'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Sm
+| Massenzahl = 153
+| NH = 0
+| Halbwertszeit = 46,27 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,808
+| Zerfallstyp1ZP = [[Europium|<sup>153</sup>Eu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Sm
+| Massenzahl = 154
+| NH = 22,75
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Sm
+| Massenzahl_1 = 147
+| Kernspin_1 = -7/2
+| Gamma_1 = 1,104 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00148
+| Larmorfrequenz_1 =8,26
+| Massenzahl_2 = 149
+| Kernspin_2 = -7/2
+| Gamma_2 = 8,799 · 10<sup>6</sup>
+| Empfindlichkeit_2 = 0,000747
+| Larmorfrequenz_2 = 6,58
+}}
+}}
