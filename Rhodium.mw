@@ -1,1 +1,156 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Rhodium
+| Symbol = Rh
+| Ordnungszahl = 45
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 9
+| Periode = 5
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig weiß metallisch
+| Massenanteil = 
+<!--- Atomar --->
+| Atommasse = 102,90550
+| Atomradius = 135
+| AtomradiusBerechnet = 173
+| KovalenterRadius = 135
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki> 4d<sup>8</sup> 5[[S-Orbital|s]]<sup>1</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 16, 1
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 719,7
+| Ionisierungsenergie_2 = 1740
+| Ionisierungsenergie_3 = 2997
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 12,45 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 6
+| Magnetismus = 
+| Schmelzpunkt_K = 2237
+| Schmelzpunkt_C = 1964
+| Siedepunkt_K = 3968
+| Siedepunkt_C = 3695
+| MolaresVolumen = 8,28 · 10<sup>-6</sup>
+| Verdampfungswärme = 493
+| Schmelzwärme = 21,5
+| Dampfdruck = 0,633
+| RefTempDampfdruck_K = 2239
+| Schallgeschwindigkeit = 4700
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 242,0
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 21,1 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 150
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = 0, '''+1''', +2, '''+3''', +4
+| Oxide = Rh<sub>2</sub>O
+| Basizität = [[amphoter]]
+| Normalpotential = 0,758 [[Volt|V]] (Rh<sup>3+</sup> + 3e<sup>-</sup> → Rh)
+| Elektronegativität = 2,28
+| Gefahrensymbole    = '''Pulver'''</br>{{Gefahrensymbole|F}}<ref name="BGIA">[http://www.hvbg.de/d/bia/gestis/stoffdb/index.html BGIA-Gestis Gefahrstoffdatenbank] (nur Pulver, komp. Metall ohne R/S-Sätze)</ref>
+| R                  = {{R-Sätze|11}}<ref name="BGIA"/>
+| S                  = {{S-Sätze|16|22|24/25}}<ref name="BGIA"/>
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rh
+| Massenzahl = 99
+| NH = 0
+| Halbwertszeit = 16,1 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,103
+| Zerfallstyp1ZP = [[Ruthenium|<sup>99</sup>Ru]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rh
+| Massenzahl = 100
+| NH = 0
+| Halbwertszeit = 20,8 [[Stunde|h]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,630
+| Zerfallstyp1ZP = [[Ruthenium|<sup>100</sup>Ru]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rh
+| Massenzahl = 101
+| NH = 0
+| Halbwertszeit = 3,3 [[Jahr|a]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,542
+| Zerfallstyp1ZP = [[Ruthenium|<sup>101</sup>Ru]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Rh
+| Massenzahl = 102
+| NH = 0
+| Halbwertszeit = 207 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,323
+| Zerfallstyp1ZP = [[Ruthenium|<sup>102</sup>Ru]]
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp2ZE = 1,150
+| Zerfallstyp2ZP = [[Palladium|<sup>102</sup>Pd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Rh
+| Massenzahl = 102[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = ~2,9 [[Jahr|a]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,464
+| Zerfallstyp1ZP = [[Ruthenium|<sup>102</sup>Ru]]
+| Zerfallstyp2ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp2ZE = 0,141
+| Zerfallstyp2ZP = <sup>102</sup>Ru
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Rh
+| Massenzahl = 103
+| NH = '''100'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Rh
+| Massenzahl = 104
+| NH = 0
+| Halbwertszeit = 42,3 [[Sekunde|s]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 2,441
+| Zerfallstyp1ZP = [[Palladium|<sup>104</sup>Pd]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 1,141
+| Zerfallstyp2ZP = [[Ruthenium|<sup>104</sup>Ru]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rh
+| Massenzahl = 105
+| NH = 0
+| Halbwertszeit = 35,36 [[Stunde|h]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,567
+| Zerfallstyp1ZP = [[Palladium|<sup>105</sup>Pd]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Rh
+| Massenzahl_1 = 103
+| Kernspin_1 = -1/2
+| Gamma_1 = 8,419 · 10<sup>6</sup>
+| Empfindlichkeit_1 = 3,11 · 10<sup>-5</sup>
+| Larmorfrequenz_1 = 6,29
+}}
+}}
