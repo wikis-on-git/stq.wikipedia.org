@@ -1,1 +1,178 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Ruthenium
+| Symbol = Ru
+| Ordnungszahl = 44
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 8
+| Periode = 5
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig weiß metallisch
+| Massenanteil = 
+<!--- Atomar --->
+| Atommasse = 101,07
+| Atomradius = 130
+| AtomradiusBerechnet = 178
+| KovalenterRadius = 126
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki>     4d<sup>7</sup>5[[S-Orbital|s]]<sup>1</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 15, 1
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 710,2
+| Ionisierungsenergie_2 = 1620
+| Ionisierungsenergie_3 = 2747
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = hexagonal
+| Dichte = 12,37 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 6,5
+| Magnetismus = 
+| Schmelzpunkt_K = 2607
+| Schmelzpunkt_C = 2334
+| Siedepunkt_K = 4423
+| Siedepunkt_C = 4150
+| MolaresVolumen = 8,17 · 10<sup>-6</sup>
+| Verdampfungswärme = 595
+| Schmelzwärme = 24
+| Dampfdruck = 1,4
+| RefTempDampfdruck_K = 2523
+| Schallgeschwindigkeit = 5970
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 238
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 13,7 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 117
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = 2, 3, '''4''', 6, 8
+| Oxide = 
+| Basizität = leicht [[Säure|sauer]]
+| Normalpotential = 
+| Elektronegativität = 2,2
+| Gefahrensymbole    = {{Gefahrensymbole|F}}
+| R                  = {{R-Sätze|11}}
+| S                  = {{S-Sätze|16|22|24/25}}
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ru
+| Massenzahl = 94
+| NH = 0
+| Halbwertszeit = 51,8 [[Minute|min]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,593
+| Zerfallstyp1ZP = [[Technetium|<sup>94</sup>Te]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ru
+| Massenzahl = 95
+| NH = 0
+| Halbwertszeit = 1,643 [[Stunde|h]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,572
+| Zerfallstyp1ZP = [[Technetium|<sup>95</sup>Te]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ru
+| Massenzahl = 96
+| NH = 5,52
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ru
+| Massenzahl = 97
+| NH = 0
+| Halbwertszeit = 2,9 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,115
+| Zerfallstyp1ZP = [[Technetium|<sup>97</sup>Te]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ru
+| Massenzahl = 98
+| NH = 1,88
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ru
+| Massenzahl = 99
+| NH = 12,7
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ru
+| Massenzahl = 100
+| NH = 12,6
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ru
+| Massenzahl = 101
+| NH = 17,0
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ru
+| Massenzahl = 102
+| NH = '''31,6'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ru
+| Massenzahl = 103
+| NH = 0
+| Halbwertszeit = 39,26 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,763
+| Zerfallstyp1ZP = [[Rhodium|<sup>103</sup>Rh]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ru
+| Massenzahl = 104
+| NH = 18,7
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ru
+| Massenzahl = 105
+| NH = 0
+| Halbwertszeit = 4,44 [[Stunde|h]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,917
+| Zerfallstyp1ZP = [[Rhodium|<sup>105</sup>Rh]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ru
+| Massenzahl = 106
+| NH = 0
+| Halbwertszeit = 373,59 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 3,54
+| Zerfallstyp1ZP = [[Rhodium|<sup>106</sup>Rh]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Ru
+| Massenzahl_1 = 99
+| Kernspin_1 = -3/2
+| Gamma_1 = 9,068 · 10<sup>6</sup>
+| Empfindlichkeit_1 = 0,000195
+| Larmorfrequenz_1 =6,78
+| Massenzahl_2 = 101
+| Kernspin_2 = -5/2
+| Gamma_2 = 1,322 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,00141
+| Larmorfrequenz_2 = 9,88
+}}
+}}
