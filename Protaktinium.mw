@@ -1,0 +1,161 @@
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Protactinium
+| Symbol = Pa
+| Ordnungszahl = 91
+| Serie = [[Actinoide]]
+| Gruppe = Ac
+| Periode = 7
+| Block = f
+| Serienfarbe = Orchid
+<!--- Allgemein --->
+| Aussehen = hell, silbrig, metallisch glänzend
+| Massenanteil = 
+<!--- Atomar --->
+| Atommasse = 231,03588
+| Atomradius = 180
+| AtomradiusBerechnet =
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki>7s²5f²6d¹
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 20, 9, 2
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 568
+| Ionisierungsenergie_2 =
+| Ionisierungsenergie_3 =
+| Ionisierungsenergie_4 =
+| Ionisierungsenergie_5 =
+| Ionisierungsenergie_6 =
+| Ionisierungsenergie_7 =
+| Ionisierungsenergie_8 =
+| Ionisierungsenergie_9 =
+| Ionisierungsenergie_10 =
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = [[orthorhombisch]]
+| Dichte = 15,37 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 2113
+| Schmelzpunkt_C = 1840
+| Siedepunkt_K = 4300
+| Siedepunkt_C = 4027
+| MolaresVolumen = 15,18 · 10<sup>-6</sup>
+| Verdampfungswärme = 470
+| Schmelzwärme = 15
+| Dampfdruck = 5,1 · 10<sup>-5</sup>
+| RefTempDampfdruck_K = 2200
+| Schallgeschwindigkeit =
+| RefTempSchallgeschwindigkeit_K =
+| SpezifischeWärmekapazität = 120
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 5,29 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 47
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 5
+| Oxide =
+| Basizität = schwach [[Base (Chemie)|basisch]]
+| Normalpotential =
+| Elektronegativität = 1,5
+| Gefahrensymbole = {{Gefahrensymbole|T}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pa
+| Massenzahl = 229
+| NH = 0
+| Halbwertszeit = 1,5 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,316
+| Zerfallstyp1ZP = [[Thorium|<sup>229</sup>Th]]
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 5,841
+| Zerfallstyp2ZP = [[Actinium|<sup>225</sup>Ac]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 3
+| Symbol = Pa
+| Massenzahl = 230
+| NH = 0
+| Halbwertszeit = 17,4 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,310
+| Zerfallstyp1ZP = [[Thorium|<sup>230</sup>Th]]
+| Zerfallstyp2ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp2ZE = 0,563
+| Zerfallstyp2ZP = [[Uran|<sup>230</sup>U]]
+| Zerfallstyp3ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp3ZE = 5,439
+| Zerfallstyp3ZP = [[Actinium|<sup>226</sup>Ac]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pa
+| Massenzahl = 231
+| NH = 0
+| Halbwertszeit = 32760 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 5,149
+| Zerfallstyp1ZP = [[Actinium|<sup>227</sup>Ac]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pa
+| Massenzahl = 232
+| NH = 0
+| Halbwertszeit = 1,31 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 1,337
+| Zerfallstyp1ZP = [[Uran|<sup>232</sup>U]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 0,495
+| Zerfallstyp2ZP = [[Thorium|<sup>232</sup>Th]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pa
+| Massenzahl = 233
+| NH = 0
+| Halbwertszeit = 26,967 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,571
+| Zerfallstyp1ZP = [[Uran|<sup>233</sup>U]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pa
+| Massenzahl = 234
+| NH = 0
+| Halbwertszeit = 6,7 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = [[Uran|<sup>234</sup>U]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pa
+| Massenzahl = 234[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 1170 [[Minute|m]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 2,197
+| Zerfallstyp1ZP = [[Uran|<sup>234</sup>U]]
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Pa
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
