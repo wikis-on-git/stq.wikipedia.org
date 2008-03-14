@@ -1,1 +1,166 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Neodym
+| Symbol = Nd
+| Ordnungszahl = 60
+| Serie = [[Lanthanoide]]
+| Gruppe = La
+| Periode = 6
+| Block = f
+| Serienfarbe = Plum
+<!--- Allgemein --->
+| Aussehen = silbrigweiß, gelblicher Farbton
+| Massenanteil =
+<!--- Atomar --->
+| Atommasse = 144,24
+| Atomradius = 185
+| AtomradiusBerechnet = 206
+| KovalenterRadius = 164
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>4</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 22, 8, 2
+| Austrittsarbeit = 3,2
+| Ionisierungsenergie_1 = 533,1
+| Ionisierungsenergie_2 = 1040
+| Ionisierungsenergie_3 = 2130
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = [[Hexagon]]al
+| Dichte = 6,8 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte = 2 - 3
+| Magnetismus =
+| Schmelzpunkt_K = 1297
+| Schmelzpunkt_C = 1024
+| Siedepunkt_K = 3373
+| Siedepunkt_C = 3100
+| MolaresVolumen = 20,59 · 10<sup>-6</sup>
+| Verdampfungswärme = 273
+| Schmelzwärme = 7,14
+| Dampfdruck = 6,03 · 10<sup>-3</sup>
+| RefTempDampfdruck_K = 2890
+| Schallgeschwindigkeit = 2330
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 190
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 1,57 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 16,5
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 3
+| Oxide =
+| Basizität = leicht [[Base (Chemie)|basisch]]
+| Normalpotential = -2,431 [[Volt|V]] (Nd<sup>3+</sup> + 3e<sup>-</sup> → Nd)
+| Elektronegativität = 1,14
+| Gefahrensymbole = {{Gefahrensymbole|F|Xi}}
+| R = {{R-Sätze|11|36/37/38}}
+| S = {{S-Sätze|16|26|33|36/37/39}}
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Nd
+| Massenzahl = 140
+| NH = 0
+| Halbwertszeit = 3,37 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,222
+| Zerfallstyp1ZP = [[Praseodym|<sup>140</sup>Pr]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Nd
+| Massenzahl = 141
+| NH = 0
+| Halbwertszeit = 2,49 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,823
+| Zerfallstyp1ZP = [[Praseodym|<sup>141</sup>Pr]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Nd
+| Massenzahl = 142
+| NH = '''27,13'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Nd
+| Massenzahl = 143
+| NH = 12,18
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Nd
+| Massenzahl = 144
+| NH = 23,8
+| Halbwertszeit = 2,29 · 10<sup>15</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 1,905
+| Zerfallstyp1ZP = [[Cer|<sup>140</sup>Ce]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Nd
+| Massenzahl = 145
+| NH = 8,3
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Nd
+| Massenzahl = 146
+| NH = 17,19
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Nd
+| Massenzahl = 147
+| NH = 0
+| Halbwertszeit = 10,98 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,896
+| Zerfallstyp1ZP = [[Promethium|<sup>147</sup>Pm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Nd
+| Massenzahl = 148
+| NH = 5,76
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Nd
+| Massenzahl = 149
+| NH = 0
+| Halbwertszeit = 1,728 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 1,691
+| Zerfallstyp1ZP = [[Promethium|<sup>149</sup>Pm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Nd
+| Massenzahl = 150
+| NH = 5,64
+| Halbwertszeit = 1,1 · 10<sup>19</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 3,367
+| Zerfallstyp1ZP = [[Samarium|<sup>150</sup>Sm]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Nd
+| Massenzahl_1 = 143
+| Kernspin_1 = -7/2
+| Gamma_1 = 1,455 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00338
+| Larmorfrequenz_1 = 10,9
+| Massenzahl_2 = 145
+| Kernspin_2 = -7/2
+| Gamma_2 = 8,949 · 10<sup>6</sup>
+| Empfindlichkeit_2 = 0,000786
+| Larmorfrequenz_2 = 6,69
+}}
+}}
