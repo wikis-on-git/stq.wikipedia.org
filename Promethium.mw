@@ -1,1 +1,148 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Promethium
+| Symbol = Pm
+| Ordnungszahl = 61
+| Serie = [[Lanthanoide]]
+| Gruppe = La
+| Periode = 6
+| Block = f
+| Serienfarbe = Plum
+<!--- Allgemein --->
+| Aussehen = metallisch
+| Massenanteil =
+<!--- Atomar --->
+| Atommasse = (<sup>147</sup>Pm) 146,9151
+| Atomradius = 185
+| AtomradiusBerechnet = 205
+| KovalenterRadius = 164
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>5</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 23 ,8, 2
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 540
+| Ionisierungsenergie_2 = 1050
+| Ionisierungsenergie_3 = 2150
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = [[Hexagon]]al
+| Dichte = 7,2 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 1373
+| Schmelzpunkt_C = 1100
+| Siedepunkt_K = 3273
+| Siedepunkt_C = 3000
+| MolaresVolumen = 20,23 · 10<sup>-6</sup>
+| Verdampfungswärme =
+| Schmelzwärme = 86,7
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit =
+| RefTempSchallgeschwindigkeit_K =
+| SpezifischeWärmekapazität = 180
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit =
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 17,9
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 3
+| Oxide = 
+| Basizität = leicht [[Base (Chemie)|basisch]]
+| Normalpotential =
+| Elektronegativität = 1,13
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pm
+| Massenzahl = 143
+| NH = 0
+| Halbwertszeit = 265 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,041
+| Zerfallstyp1ZP = [[Neodym|<sup>143</sup>Nd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pm
+| Massenzahl = 144
+| NH = 0
+| Halbwertszeit = 363 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,332
+| Zerfallstyp1ZP = [[Neodym|<sup>144</sup>Nd]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pm
+| Massenzahl = 145
+| NH = 0
+| Halbwertszeit = 17,7 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,322
+| Zerfallstyp1ZP = [[Neodym|<sup>145</sup>Nd]]
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 0,163
+| Zerfallstyp2ZP = [[Praseodym|<sup>141</sup>Pr]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pm
+| Massenzahl = 146
+| NH = 0
+| Halbwertszeit = 5,53 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,472
+| Zerfallstyp1ZP = [[Neodym|<sup>146</sup>Nd]]
+| Zerfallstyp2ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp2ZE = 1,542
+| Zerfallstyp2ZP = [[Samarium|<sup>146</sup>Sm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pm
+| Massenzahl = 147
+| NH = in Spuren
+| Halbwertszeit = 2,6234 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,224
+| Zerfallstyp1ZP = [[Samarium|<sup>147</sup>Sm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pm
+| Massenzahl = 148
+| NH = 0
+| Halbwertszeit = 5,370 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 2,468
+| Zerfallstyp1ZP = [[Samarium|<sup>148</sup>Sm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pm
+| Massenzahl = 149
+| NH = 0
+| Halbwertszeit = 53,08 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 1,071
+| Zerfallstyp1ZP = [[Samarium|<sup>149</sup>Sm]]
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Pm
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
