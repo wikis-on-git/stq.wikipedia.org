@@ -1,126 +1,171 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name = Arsen
-| Symbol = As
-| Ordnungszahl = 33
-| Serie = [[Halbmetalle]]
-| Gruppe = 15
+| Name= Selen
+| Symbol= Se
+| Ordnungszahl= 34
+| Massenzahl= 80
+| Serie= [[Halbmetalle]]
+| Gruppe = 16
 | Periode = 4
-| Block = p
-| Serienfarbe = Peru
+| Block= p
+| Serienfarbe= Peru
 <!--- Allgemein --->
-| Aussehen = metallisch grau, gelb oder schwarz
-| Massenanteil = 6 · 10<sup>−4</sup>
+| Aussehen= grau, glänzend
+| Massenanteil= 8 · 10<sup>−5</sup>
 <!--- Atomar --->
-| Atommasse = 74,92159
-| Atomradius = 124,5
-| AtomradiusBerechnet = 
-| KovalenterRadius = 121
-| VanDerWaalsRadius = 185
-| Elektronenkonfiguration = <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 3d<sup>10</sup>4s<sup>2</sup>4p<sup>3</sup>
-| ElektronenProEnergieNiveau = 2, 8, 18, 5
-| Austrittsarbeit = 
-| Ionisierungsenergie_1 = 947,0
-| Ionisierungsenergie_2 = 1798
-| Ionisierungsenergie_3 = 2735
-| Ionisierungsenergie_4 = 4837
-| Ionisierungsenergie_5 = 6043
-<!--- Physikalisch --->
-| Aggregatzustand = fest
-| Modifikationen = 3
-| Kristallstruktur = trigonal oder orthorhombisch
-| Dichte = graues As: 5,72 g/cm<sup>3</sup><br />gelbes As: 1,97 g/cm<sup>3</sup><br />schwarzes As: 4,7–5,1 g/cm<sup>3</sup>
-| RefTempDichte_K = 
-| Mohshärte = graues As: 3,5<br />gelbes As: –<br />schwarzes As: –
-| Magnetismus = 
-| Schmelzpunkt_K = bei 27,5 [[Bar (Einheit)|bar]]: 1090
-| Schmelzpunkt_C = 817
-| Siedepunkt_K = 889
-| Siedepunkt_C = 616
-| MolaresVolumen = 12,95 · 10<sup>−6</sup>
-| Verdampfungswärme = 34,76
-| Schmelzwärme = 27,7
-| Dampfdruck = 1,3 · 10<sup>−9</sup>
-| RefTempDampfdruck_K = 323
-| Schallgeschwindigkeit = 
-| RefTempSchallgeschwindigkeit_K = 
-| SpezifischeWärmekapazität = 330
-| RefTempSpezifischeWärmekapazität_K = 
-| ElektrischeLeitfähigkeit = (graues Arsen) 3,45 · 10<sup>6</sup>
-| RefTempElektrischeLeitfähigkeit_K = 
-| Wärmeleitfähigkeit = 50
-| RefTempWärmeleitfähigkeit_K = 
+| Atommasse= 78,96
+| Atomradius= 115
+| AtomradiusBerechnet= 103
+| KovalenterRadius= 116
+| VanDerWaalsRadius= 190
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 3d<sup>10</sup>4s<sup>2</sup>4p<sup>4</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 6
+| Austrittsarbeit= 5,11
+| Ionisierungsenergie_1= 941
+| Ionisierungsenergie_2= 2045
+| Ionisierungsenergie_3= 2973,7
+| Ionisierungsenergie_4= 4144
+ <!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= 
+| Kristallstruktur= hexagonal
+| Dichte= 4,79 g/cm<sup>3</sup>
+| RefTempDichte_K= 300
+| Mohshärte= 2
+| Magnetismus= 
+| Schmelzpunkt_K= 494
+| Schmelzpunkt_C= 221
+| Siedepunkt_K= 957,8
+| Siedepunkt_C= 684,6
+| MolaresVolumen= 16,42 · 10<sup>−6</sup>
+| Verdampfungswärme= 26,3
+| Schmelzwärme= 6,694
+| Dampfdruck= 0,695
+| RefTempDampfdruck_K= 494
+| Schallgeschwindigkeit= 3350
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 320
+| ElektrischeLeitfähigkeit= 1,0 · 10<sup>−10</sup>
+| Wärmeleitfähigkeit= 2,04
 <!--- Chemisch --->
-| Oxidationszustände = −3, '''3''', 5
-| Oxide = As<sub>2</sub>O<sub>3</sub>
-| Basizität = [[amphoter]]
-| Normalpotential = 0,234 [[Volt|V]] (½As<sub>2</sub>O<sub>3</sub> + 3H<sup>+</sup> + 3e<sup>−</sup><br />→ As + 1½H<sub>2</sub>O)
-| Elektronegativität = 2,18
-| RL 67/548/EWG = Ja
-| Gefahrensymbole = {{Gefahrensymbole|T|N}}
-| R = {{R-Sätze|23/25|50/53}}
-| S = {{S-Sätze|(1/2)|20/21|28|45|60|61}}
-| Radioaktiv = 
+| Oxidationszustände= ±2, '''4''', 6
+| Oxide= SeO<sub>2</sub>
+| Basizität=stark [[Säure|sauer]]
+| Normalpotential= −0,924 [[Volt|V]] (Se + 2e<sup>−</sup> → Se<sup>2−</sup>)
+| Elektronegativität= 2,48
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|T}}
+| R                  = {{R-Sätze|23/25|33|53}}
+| S                  = {{S-Sätze|(1/2)|20/21|28|45|61}}
+| Radioaktiv         = 
 <!--- Isotope --->
-| Isotope = 
-{{Infobox Chemisches Element/Isotop
-| AnzahlZerfallstypen = 1
-| Symbol = As
-| Massenzahl = 72
-| NH = 0
-| Halbwertszeit = 26 [[Stunde|h]]
-| Zerfallstyp1ZM = [[elektroneneinfang|ε]]
-| Zerfallstyp1ZE = 4,356
-| Zerfallstyp1ZP = [[Germanium|<sup>72</sup>Ge]]
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 72
+| Symbol= Se
+| NH= 0
+| Halbwertszeit=8,40 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,335
+| Zerfallstyp1ZP=[[Arsen|<sup>72</sup>As]]
 }}
-{{Infobox Chemisches Element/Isotop
-| AnzahlZerfallstypen = 1
-| Symbol = As
-| Massenzahl = 73
-| NH = 0
-| Halbwertszeit = 80,3 [[Tag|d]]
-| Zerfallstyp1ZM = [[elektroneneinfang|ε]]
-| Zerfallstyp1ZE = 0,341
-| Zerfallstyp1ZP = [[Germanium|<sup>73</sup>Ge]]
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=73
+| Symbol=Se
+| NH= 0
+| Halbwertszeit=7,15 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=2,740
+| Zerfallstyp1ZP=[[Arsen|<sup>73</sup>As]]
 }}
-{{Infobox Chemisches Element/Isotop
-| AnzahlZerfallstypen = 2
-| Symbol = As
-| Massenzahl = 74
-| NH = 0
-| Halbwertszeit = 17,77 [[Tag|d]]
-| Zerfallstyp1ZM = [[elektroneneinfang|ε]]
-| Zerfallstyp1ZE = 2,562
-| Zerfallstyp1ZP = [[Germanium|<sup>74</sup>Ge]]
-| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>−</sup>
-| Zerfallstyp2ZE = 1,353
-| Zerfallstyp2ZP = [[Selen|<sup>74</sup>Se]]
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 34
+| Massenzahl=74
+| Symbol=Se
+| NH= 0,87
 }}
-{{Infobox Chemisches Element/Isotop
-| AnzahlZerfallstypen = 0
-| Symbol = As
-| Massenzahl = 75
-| NH = '''100'''
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=75
+| Symbol=Se
+| NH= 0
+| Halbwertszeit=119,779 d
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,864
+| Zerfallstyp1ZP=[[Arsen|<sup>75</sup>As]]
 }}
-{{Infobox Chemisches Element/Isotop
-| AnzahlZerfallstypen = 1
-| Symbol = As
-| Massenzahl = 76
-| NH = 0
-| Halbwertszeit = 1,0778 [[Tag|d]]
-| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
-| Zerfallstyp1ZE = 2,962
-| Zerfallstyp1ZP = [[Selen|<sup>76</sup>Se]]
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 34
+| Massenzahl=76
+| Symbol=Se
+| NH= 9,36
 }}
-{{Infobox Chemisches Element/Isotop
-| AnzahlZerfallstypen = 1
-| Symbol = As
-| Massenzahl = 77
-| NH = 0
-| Halbwertszeit = 39 [[Stunde|h]]
-| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
-| Zerfallstyp1ZE = 0,683
-| Zerfallstyp1ZP = [[Selen|<sup>77</sup>Se]]
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 34
+| Massenzahl=77
+| Symbol=Se
+| NH= 7,63
 }}
-| NMREigenschaften = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 34
+| Massenzahl=78
+| Symbol=Se
+| NH= 23,78
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=79
+| Symbol=Se
+| NH=0
+| Halbwertszeit=1,13 · 10<sup>6</sup>[[Jahr|a]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE=0,151
+| Zerfallstyp1ZP=[[Brom|<sup>79</sup>Br]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 34
+| Massenzahl=80
+| Symbol=Se
+| NH= '''49,61'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=81
+| Symbol=Se
+| NH= 0
+| Halbwertszeit=18,45 [[Minute|min]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZE=1,585
+| Zerfallstyp1ZP=[[Brom|<sup>81</sup>Br]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=82
+| Symbol=Se
+| NH= 8,73
+| Halbwertszeit=1,08 · 10<sup>20</sup> a
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Doppelter Betazerfall|β<sup>−</sup>β<sup>−</sup>]]
+| Zerfallstyp1ZE=2,995
+| Zerfallstyp1ZP=[[Krypton|<sup>82</sup>Kr]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Se
+| Massenzahl_1 = 77
+| Kernspin_1 = 1/2
+| Gamma_1 = 5,101
+| Empfindlichkeit_1 = 5,25 · 10<sup>−4</sup>
+| Larmorfrequenz_1 = 19,067 (2,3488 T)
+}}
+<!---
+{{Vorlage:NMREigenschaften
+| Symbol = 
+| Massenzahl_1 = 
+| Kernspin_1 = 
+| Gamma_1 = 
+| Empfindlichkeit_1 = 
+| Larmorfrequenz_1 = 
+}} --->
 }}
