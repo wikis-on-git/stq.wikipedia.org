@@ -1,1 +1,156 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Cer
+| Symbol= Ce
+| Ordnungszahl= 58
+| Serie= [[Lanthanoide]]
+| Gruppe= La
+| Periode = 6
+| Block= d
+| Serienfarbe= Plum
+<!--- Allgemein --->
+| Aussehen=silbrig weiß
+| Massenanteil= 0,0046
+<!--- Atomar --->
+| Atommasse= 140,116
+| Atomradius= 185
+| AtomradiusBerechnet=
+| KovalenterRadius= 165
+| VanDerWaalsRadius= 
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>2</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 19, 9, 2
+| Austrittsarbeit= 2,9
+| Ionisierungsenergie_1= 534,4
+| Ionisierungsenergie_2= 1050
+| Ionisierungsenergie_3= 1949
+| Ionisierungsenergie_4= 3547
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= 
+| Modifikationen= 1
+| Kristallstruktur= kubisch flächenzentriert
+| Dichte= 6,689 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 2,5
+| Schmelzpunkt_K=1071
+| Schmelzpunkt_C=798
+| Siedepunkt_K=3699
+| Siedepunkt_C=3426
+| MolaresVolumen=20,69 · 10<sup>-6</sup>
+| Verdampfungswärme=414
+| Schmelzwärme=5,46
+| Dampfdruck=-
+| RefTempDampfdruck_K=
+| Schallgeschwindigkeit=2100
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität=190
+| ElektrischeLeitfähigkeit=1,15 · 10<sup>6</sup>
+| Wärmeleitfähigkeit=11,4
+<!--- Chemisch --->
+| Oxidationszustände= '''3''', 4
+| Oxide= ?
+| Basizität= leicht basisch
+| Normalpotential=  -2,483 [[Volt|V]] (Ce<sup>3+</sup> + 3e<sup>-</sup> → Ce)
+| Elektronegativität= 1,12
+| Gefahrensymbole    = {{Gefahrensymbole|F}}
+| R                  = {{R-Sätze|11}}
+| S                  = {{S-Sätze|17}}
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=134
+| Symbol=Ce
+| NH=0
+| Halbwertszeit=3,16 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 0,500
+| Zerfallstyp1ZP= [[Lanthan|<sup>134</sup>La]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=135
+| Symbol=Ce
+| NH=0
+| Halbwertszeit=17,7 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 2,026
+| Zerfallstyp1ZP= [[Lanthan|<sup>135</sup>La]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=136
+| Symbol=Ce
+| NH=0,19
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=137
+| Symbol=Ce
+| NH=0
+| Halbwertszeit=9,0 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=1,222
+| Zerfallstyp1ZP=[[Lanthan|<sup>137</sup>La]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=138
+| Symbol=Ce
+| NH=0,25
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=139
+| Symbol=Ce
+| NH=0
+| Halbwertszeit=32,501 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,581
+| Zerfallstyp1ZP=[[Lanthan|<sup>139</sup>La]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=140
+| Symbol=Ce
+| NH=88,48
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=141
+| Symbol=Ce
+| NH=0
+| Halbwertszeit=32,501 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=0,581
+| Zerfallstyp1ZP=[[Praseodym|<sup>141</sup>Pr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=142
+| Symbol=Ce
+| NH=11,08
+| Halbwertszeit=5 · 10<sup>16</sup> [[Jahr|a]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Doppelter Betazerfall|β-β-]]
+| Zerfallstyp1ZE=4,505
+| Zerfallstyp1ZP=[[Neodym|<sup>142</sup>Nd]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=143
+| Symbol=Ce
+| NH=0
+| Halbwertszeit=33,039 h
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 1,462
+| Zerfallstyp1ZP= [[Praseodym|<sup>143</sup>Pr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=144
+| Symbol=Ce
+| NH=0
+| Halbwertszeit=284,893 d
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM= [[Betastrahlung|β-]]
+| Zerfallstyp1ZE= 0,319
+| Zerfallstyp1ZP= [[Praseodym|<sup>144</sup>Pr]]
+}}
+| NMREigenschaften=
+}}
