@@ -1,1 +1,142 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name=Rubidium
+| Symbol= Rb
+| Ordnungszahl= 37
+| Massenzahl= 85
+| Serie= [[Alkalimetalle]]
+| Gruppe = 1
+| Periode = 5
+| Block= s
+| Serienfarbe= OrangeRed
+<!--- Allgemein --->
+| Aussehen= silbrig weiß
+| Massenanteil= 0,03
+<!--- Atomar --->
+| Atommasse= 85,4678
+| Atomradius= 235
+| AtomradiusBerechnet= 265
+| KovalenterRadius= 211
+| VanDerWaalsRadius= 244
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki> 5s<sup>1</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 8, 1
+| Austrittsarbeit=2,13
+| Ionisierungsenergie_1=403,0
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= paramagnetisch
+| Modifikationen=1
+| Kristallstruktur= kubisch raumzentriert
+| Dichte= 1,532 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 0,3
+| Schmelzpunkt_K= 312,46
+| Schmelzpunkt_C= 39,31
+| Siedepunkt_K= 961
+| Siedepunkt_C= 688
+| MolaresVolumen= 55,76 · 10<sup>-6</sup>
+| Verdampfungswärme= 72,216
+| Schmelzwärme= 2,192
+| Dampfdruck= 1,56 · 10<sup>-4</sup>
+| RefTempDampfdruck_K=312,6
+| Schallgeschwindigkeit= 1300
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität= 363
+| ElektrischeLeitfähigkeit= 7,79 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 58,2
+<!--- Chemisch --->
+| Oxidationszustände= +1
+| Oxide= Rb<sub>2</sub>O
+| Basizität= stark [[Base (Chemie)|basisch]]
+| Normalpotential= -2,98 [[Volt|V]] (Rb<sup>+</sup> + e<sup>-</sup> → Rb)
+| Elektronegativität= 0,82
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|F|C}}
+| R                  = {{R-Sätze|14/15|34}}<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/44214_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
+| S                  = {{S-Sätze|7/8|20|26|30|33|36/37/39|43|45}}<ref name="alfa-SDB"/>
+| Radioaktiv         = <!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rb
+| Massenzahl = 83
+| NH = 0
+| Halbwertszeit = 86,2 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,910
+| Zerfallstyp1ZP = [[Krypton|<sup>83</sup>Kr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Rb
+| Massenzahl = 84
+| NH = 0
+| Halbwertszeit = 32,77 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,681
+| Zerfallstyp1ZP = [[Krypton|<sup>84</sup>Kr]]
+| Zerfallstyp2ZM = [[Betastrahlung|β-]]
+| Zerfallstyp2ZE = 0,894
+| Zerfallstyp2ZP = [[Strontium|<sup>84</sup>Sr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Rb
+| Massenzahl = 85
+| NH = '''72,168'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rb
+| Massenzahl = 86
+| NH = 0
+| Halbwertszeit = 18,631 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,775
+| Zerfallstyp1ZP = [[Strontium|<sup>86</sup>Sr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rb
+| Massenzahl = 87
+| NH = 27,835
+| Halbwertszeit = 4,7 · 10<sup>10</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,283
+| Zerfallstyp1ZP = [[Strontium|<sup>87</sup>Sr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rb
+| Massenzahl = 88
+| NH = 0
+| Halbwertszeit = 17,78 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 5,316
+| Zerfallstyp1ZP = [[Strontium|<sup>88</sup>Sr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rb
+| Massenzahl = 89
+| NH = 0
+| Halbwertszeit = 15,15 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 4,501
+| Zerfallstyp1ZP = [[Strontium|<sup>89</sup>Sr]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| Symbol=Rb
+| Massenzahl_1=85
+| Kernspin_1=5/2
+| Gamma_1=2,583 · 10<sup>7</sup>
+| Empfindlichkeit_1=0,0105
+| Larmorfrequenz_1=19,3
+| Massenzahl_2=87
+| Kernspin_2=3/2
+| Gamma_2=8,753 · 10<sup>7</sup>
+| Empfindlichkeit_2=0,175
+| Larmorfrequenz_2=65,4
+}}
+}}
