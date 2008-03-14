@@ -1,1 +1,177 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Barium
+| Symbol= Ba
+| Ordnungszahl= 56
+| Massenzahl= 137
+| Serie= [[Erdalkalimetalle]]
+| Gruppe = 2
+| Periode = 6
+| Block= s
+| Serienfarbe= DarkOrange
+<!--- Allgemein --->
+| Aussehen= weiß-grau metallisch
+| Massenanteil= 0,03
+<!--- Atomar --->
+| Atommasse= 137,327
+| Atomradius= 215
+| AtomradiusBerechnet= 253
+| KovalenterRadius= 198
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>6[[S-Block|s]]<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 18, 8, 2
+| Austrittsarbeit= 2,52
+| Ionisierungsenergie_1= 502,9
+| Ionisierungsenergie_2= 965,2
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= ?
+| Kristallstruktur= kubisch-raumzentriert
+| Dichte= 3,62 g/cm<sup>3</sup>
+| RefTempDichte_K= 293
+| Mohshärte= 1,25
+| Magnetismus= paramagnetisch
+| Schmelzpunkt_K= 1000
+| Schmelzpunkt_C= 727
+| Siedepunkt_K= 1913
+| Siedepunkt_C= 1640
+| MolaresVolumen= 38,16 · 10<sup>-6</sup>
+| Verdampfungswärme= 142
+| Schmelzwärme= 7,75
+| Dampfdruck=98
+| RefTempDampfdruck_K= 371
+| Schallgeschwindigkeit= 1620
+| RefTempSchallgeschwindigkeit_K=
+| SpezifischeWärmekapazität= 204
+| ElektrischeLeitfähigkeit= 3 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 18,4
+<!--- Chemisch --->
+| Oxidationszustände= +2
+| Oxide= BaO 
+| Basizität= basisch
+| Normalpotential= -2,912 [[Volt|V]] </br>(Ba<sup>2+</sup> + 2e<sup>-</sup> → Ba)
+| Elektronegativität= 0,89
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|F|Xi}}<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/44831_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)] für Barium-Stücke (teilweise abweichende R-/S-Sätze für andere Formen)</ref>
+| R                  = {{R-Sätze|11|14|36/37/38}}<ref name="alfa-SDB"/>
+| S                  = {{S-Sätze|7/8|16|26|27|30|33|36/37/39|43|60}}<ref name="alfa-SDB"/>
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 128
+| Symbol= Ba
+| NH=0
+| Halbwertszeit=2,43 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,521
+| Zerfallstyp1ZP=[[Cäsium|<sup>128</sup>Cs]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=129
+| Symbol=Ba
+| NH=0
+| Halbwertszeit=2,23 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=2,433
+| Zerfallstyp1ZP=[[Cäsium|<sup>129</sup>Cs]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 56
+| Massenzahl=130
+| Symbol=Ba
+| NH=0,106
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=131
+| Symbol=Ba
+| NH=0
+| Halbwertszeit=11,50 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=1,370
+| Zerfallstyp1ZP=[[Cäsium|<sup>131</sup>Cs]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 56
+| Massenzahl=132
+| Symbol=Ba
+| NH=0,101
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=133
+| Symbol=Ba
+| NH=0
+| Halbwertszeit=10,51 [[Jahr|y]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,517
+| Zerfallstyp1ZP=[[Cäsium|<sup>133</sup>Cs]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 56
+| Massenzahl=134
+| Symbol=Ba
+| NH=2,417
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 56
+| Massenzahl=135
+| Symbol=Ba
+| NH=6,592
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 56
+| Massenzahl=136
+| Symbol=Ba
+| NH=7,854
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 56
+| Massenzahl=137
+| Symbol=Ba
+| NH=11,23
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| OZ= 56
+| Massenzahl=138
+| Symbol=Ba
+| NH=71,7
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=139
+| Symbol=Ba
+| NH=0
+| Halbwertszeit=83,06 [[Minute|min]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=2,317
+| Zerfallstyp1ZP=[[Lanthan|<sup>139</sup>La]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=140
+| Symbol=Ba
+| NH=0
+| Halbwertszeit=12,752 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=1,047
+| Zerfallstyp1ZP=[[Lanthan|<sup>140</sup>La]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| Symbol=Ba
+| Massenzahl_1=135
+| Kernspin_1=3/2+
+| Gamma_1= 
+| Empfindlichkeit_1= 
+| Larmorfrequenz_1=19,9
+| Massenzahl_2=137
+| Kernspin_2=3/2
+| Gamma_2= 
+| Empfindlichkeit_2= 
+| Larmorfrequenz_2=22,2
+}}
+}}
