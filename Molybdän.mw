@@ -1,1 +1,183 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Molybdän
+| Symbol = Mo
+| Ordnungszahl = 42
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 6
+| Periode = 5
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = grau metallisch
+| Massenanteil = 1 · 10<sup>−3</sup>
+<!--- Atomar --->
+| Atommasse = 95,94
+| Atomradius = 145
+| AtomradiusBerechnet = 
+| KovalenterRadius = 145
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Krypton|Kr]]<nowiki>]</nowiki> 4d<sup>5</sup>5[[S-Orbital|s]]<sup>1</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 13, 1
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 684,3
+| Ionisierungsenergie_2 = 1560
+| Ionisierungsenergie_3 = 2618
+| Ionisierungsenergie_4 = 4480
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = kubisch raumzentriert
+| Dichte = 10,28 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 5,5
+| Magnetismus = -
+| Schmelzpunkt_K = 2896
+| Schmelzpunkt_C = 2623
+| Siedepunkt_K = 4912
+| Siedepunkt_C = 4639
+| MolaresVolumen = 9,38 · 10<sup>-6</sup>
+| Verdampfungswärme = 598
+| Schmelzwärme = 39
+| Dampfdruck = 3,47
+| RefTempDampfdruck_K = 3000
+| Schallgeschwindigkeit = 
+| RefTempSchallgeschwindigkeit_K = 
+| SpezifischeWärmekapazität = 250
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 18,7 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 138
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = 2, 3, 4, 5, '''6'''
+| Oxide = 
+| Basizität = stark [[Säure|sauer]]
+| Normalpotential = -0,200 [[Volt|V]] (Mo<sup>3+</sup> + 3e<sup>-</sup> → Mo)
+| Elektronegativität = 2,16
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|-}}
+<!--- Isotope --->
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mo
+| Massenzahl = 90
+| NH = 0
+| Halbwertszeit = 5,67 [[Stunde|h]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,489
+| Zerfallstyp1ZP = [[Niob|<sup>90</sup>Nb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mo
+| Massenzahl = 91
+| NH = 0
+| Halbwertszeit = 15,49 [[Minute|min]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 4,434
+| Zerfallstyp1ZP = [[Niob|<sup>91</sup>Nb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mo
+| Massenzahl = 92
+| NH = 14,84
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mo
+| Massenzahl = 93
+| NH = 0
+| Halbwertszeit = 4000 [[Jahr|a]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,405
+| Zerfallstyp1ZP = [[Niob|<sup>93</sup>Nb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mo
+| Massenzahl = 94
+| NH = 9,25
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mo
+| Massenzahl = 95
+| NH = 15,92
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mo
+| Massenzahl = 96
+| NH = 16,68
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mo
+| Massenzahl = 97
+| NH = 9,55
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mo
+| Massenzahl = 98
+| NH = 24,13
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mo
+| Massenzahl = 99
+| NH = 0
+| Halbwertszeit = 65,94 [[Stunde|h]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,357
+| Zerfallstyp1ZP = [[Technetium|<sup>99</sup>Tc]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mo
+| Massenzahl = 100
+| NH = 9,63
+| Halbwertszeit = 1,2 · 10<sup>6</sup> [[Jahr|a]] 
+| Zerfallstyp1ZM = [[Doppelter Betazerfall|β<sup>−</sup>β<sup>−</sup>]]
+| Zerfallstyp1ZE = 3,034
+| Zerfallstyp1ZP = [[Ruthenium|<sup>100</sup>Ru]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mo
+| Massenzahl = 101
+| NH = 0
+| Halbwertszeit = 14,61 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 2,824
+| Zerfallstyp1ZP = [[Technetium|<sup>101</sup>Tc]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mo
+| Massenzahl = 102
+| NH = 0
+| Halbwertszeit = 11,3 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,010
+| Zerfallstyp1ZP = [[Technetium|<sup>102</sup>Tc]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Mo
+| Massenzahl_1 = 95
+| Kernspin_1 = 5/2
+| Gamma_1 = 1,743 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00323
+| Larmorfrequenz_1 = 13
+| Massenzahl_2 = 97
+| Kernspin_2 = -5/2
+| Gamma_2 = 1,78 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,00343
+| Larmorfrequenz_2 = 13,3
+}}
+}}
