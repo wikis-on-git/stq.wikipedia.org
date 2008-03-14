@@ -1,0 +1,138 @@
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Cobalt
+| Symbol=Co
+| Ordnungszahl= 27
+| Massenzahl= 59
+| Serie= [[Übergangsmetalle]]
+| Gruppe = 9
+| Periode = 4
+| Block= d
+| Serienfarbe= LightCoral
+<!--- Allgemein --->
+| Aussehen= metallisch mit einem<br />bläulich-gräulichen Farbton
+| Massenanteil= 0,003
+<!--- Atomar --->
+| Atommasse= 58,93320
+| Atomradius= 135
+| AtomradiusBerechnet=152
+| KovalenterRadius=126
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki>3d<sup>7</sup>4s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 15, 2
+| Austrittsarbeit= 5,0
+| Ionisierungsenergie_1= 760,4
+| Ionisierungsenergie_2= 1648
+| Ionisierungsenergie_3= 3232
+| Ionisierungsenergie_4= 4950
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= 2 (α/β-Cobalt) 
+| Kristallstruktur= hexagonal beziehungsweise kubisch <br />(Übergangstemp. hcp->fcc: ~421 °C)
+| Dichte= 8,9 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 5,0
+| Magnetismus= ferromagnetisch
+| Schmelzpunkt_K= 1768
+| Schmelzpunkt_C= 1495
+| Siedepunkt_K= 3200
+| Siedepunkt_C= 2927
+| MolaresVolumen= 6,67 · 10<sup>−6</sup>
+| Verdampfungswärme= 376,5
+| Schmelzwärme= 16,19
+| Dampfdruck= 175
+| RefTempDampfdruck_K= 1768
+| Schallgeschwindigkeit= 4720
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 420
+| ElektrischeLeitfähigkeit= 17,2 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 100
+<!--- Chemisch --->
+| Oxidationszustände= '''2''', 3 
+| Oxide= amphoter
+| Basizität= neutral
+| Normalpotential= −0,277 [[Volt|V]] (Co<sup>2+</sup> + 2e<sup>−</sup> → Co)
+| Elektronegativität= 1,88
+| RL 67/548/EWG = Ja
+| Gefahrensymbole = {{Gefahrensymbole|XN}}
+| R = {{R-Sätze|42/43|53}}
+| S = {{S-Sätze|(2)|22|24|37|61}}
+| Radioaktiv = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 55
+| Symbol= Co
+| NH= 0
+| Halbwertszeit= 17,53 [[Stunde|h]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 3,451
+| Zerfallstyp1ZP= [[Eisen|<sup>55</sup>Fe]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=56
+| Symbol= Co
+| NH= 0
+| Halbwertszeit= 77,27 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 4,566
+| Zerfallstyp1ZP= [[Eisen|<sup>56</sup>Fe]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=57
+| Symbol= Co
+| NH= 0
+| Halbwertszeit= 271,79 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 0,836
+| Zerfallstyp1ZP= [[Eisen|<sup>57</sup>Fe]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 58
+| Symbol= Co
+| NH= 0
+| Halbwertszeit=70,86 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=2,307
+| Zerfallstyp1ZP=[[Eisen|<sup>58</sup>Fe]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=59
+| OZ= 27
+| Symbol= Co
+| NH= 100
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=60
+| Symbol=Co
+| NH=0
+| Halbwertszeit=5,2714 [[Jahr|a]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=2,824
+| Zerfallstyp1ZP=[[Nickel|<sup>60</sup>Ni]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=61
+| Symbol=Co
+| NH=0
+| Halbwertszeit=1,850 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=1,322
+| Zerfallstyp1ZP=[[Nickel|<sup>61</sup>Ni]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol= Co
+| Massenzahl_1= 59
+| Kernspin_1=7/2
+| Gamma_1=6,317 · 10<sup>7</sup>
+| Empfindlichkeit_1=0,277
+| Larmorfrequenz_1=47,2
+}}
+}}
