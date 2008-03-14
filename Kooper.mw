@@ -1,1 +1,142 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Kupfer
+| Symbol = Cu
+| Ordnungszahl = 29
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 11
+| Periode = 4
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = lachsrosa, metallisch
+| Massenanteil = 0,01
+<!--- Atomar --->
+| Atommasse = 63,546
+| Atomradius = 135
+| AtomradiusBerechnet = 145
+| KovalenterRadius = 138
+| VanDerWaalsRadius = 140
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki>3d<sup>10</sup>4s<sup>1</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 1
+| Austrittsarbeit = 4,44
+| Ionisierungsenergie_1 = 745,5
+| Ionisierungsenergie_2 = 1957,9
+| Ionisierungsenergie_3 = 3555
+| Ionisierungsenergie_4 = 5536
+<!-- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 8,92 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 3,0
+| Magnetismus = [[Diamagnetismus|diamagnetisch]]
+| Schmelzpunkt_K = 1357,6
+| Schmelzpunkt_C = 1084,4
+| Siedepunkt_K = 2840
+| Siedepunkt_C = 2567
+| MolaresVolumen = 7,11 · 10<sup>-6</sup>
+| Verdampfungswärme = 300,3
+| Schmelzwärme = 13,05
+| Dampfdruck = 0,0505
+| RefTempDampfdruck_K = 1358
+| Schallgeschwindigkeit = 3570
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 385
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 58 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 401
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = 1, '''2'''
+| Oxide = Cu<sub>2</sub>O ([[Kupfer(I)-oxid]]), CuO ([[Kupfer(II)-oxid]])
+| Basizität = leicht [[Base (Chemie)|basisch]]
+| Normalpotential = 0,342 [[Volt|V]] (Cu<sup>2+</sup> + 2e<sup>-</sup> → Cu)
+| Elektronegativität = 1,9
+| Gefahrensymbole = {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|-}}
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cu
+| Massenzahl = 61
+| NH = 0
+| Halbwertszeit = 3,333 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,237
+| Zerfallstyp1ZP = [[Nickel|<sup>61</sup>Ni]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cu
+| Massenzahl = 62
+| NH = 0
+| Halbwertszeit = 9,74 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,948
+| Zerfallstyp1ZP = [[Nickel|<sup>62</sup>Ni]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cu
+| Massenzahl = 63
+| NH = '''69,17'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Cu
+| Massenzahl = 64
+| NH = 0
+| Halbwertszeit = 12,7 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,675
+| Zerfallstyp1ZP = [[Nickel|<sup>64</sup>Ni]]
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp2ZE = 0,579
+| Zerfallstyp2ZP = [[Zink|<sup>64</sup>Zn]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Cu
+| Massenzahl = 65
+| NH = 30,83
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cu
+| Massenzahl = 66
+| NH = 0
+| Halbwertszeit = 5,088 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 2,642
+| Zerfallstyp1ZP = [[Zink|<sup>66</sup>Zn]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Cu
+| Massenzahl = 67
+| NH = 0
+| Halbwertszeit = 61,83 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 0,577
+| Zerfallstyp1ZP = [[Zink|<sup>67</sup>Zn]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Cu
+| Massenzahl_1 = 63
+| Kernspin_1 = 3/2
+| Gamma_1 = 7,09 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,0931
+| Larmorfrequenz_1 =53
+| Massenzahl_2 = 65
+| Kernspin_2 = 3/2
+| Gamma_2 = 7,596 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,114
+| Larmorfrequenz_2 = 56,8
+}}
+}}
