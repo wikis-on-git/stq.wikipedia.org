@@ -1,1 +1,190 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Krypton
+| Symbol = Kr
+| Ordnungszahl = 36
+| Serie = [[Edelgase]]
+| Gruppe = 18
+| Periode = 4
+| Block = p
+| Serienfarbe = LightskyBlue
+<!--- Allgemein --->
+| Aussehen = farblos
+| Massenanteil = 
+<!--- Atomar --->
+| Atommasse = 83,798
+| Atomradius = 
+| AtomradiusBerechnet = 88
+| KovalenterRadius = 110
+| VanDerWaalsRadius = 202
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 3d<sup>10</sup> 4s<sup>2</sup>4p<sup>6</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 8
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 1350,8
+| Ionisierungsenergie_2 = 2350,4
+| Ionisierungsenergie_3 = 3565
+| Ionisierungsenergie_4 = 5070
+| Ionisierungsenergie_5 = 6240
+| Ionisierungsenergie_6 = 7570
+| Ionisierungsenergie_7 = 10710
+| Ionisierungsenergie_8 = 12138
+| Ionisierungsenergie_9 = 
+| Ionisierungsenergie_10 = 
+<!--- Physikalisch --->
+| Aggregatzustand = gasförmig
+| Modifikationen = 
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 3,749 kg · m<sup>−3</sup>
+| RefTempDichte_K = 273
+| Mohshärte = -
+| Magnetismus = diamagnetisch
+| Schmelzpunkt_K = 115,79
+| Schmelzpunkt_C = -157,36
+| Siedepunkt_K = 119,93
+| Siedepunkt_C = -153,22
+| MolaresVolumen = 22,35 · 10<sup>-3</sup>
+| Verdampfungswärme = 9,029
+| Schmelzwärme = 1,638
+| Dampfdruck = 
+| RefTempDampfdruck_K = 
+| Schallgeschwindigkeit = 212
+| RefTempSchallgeschwindigkeit_K = 
+| SpezifischeWärmekapazität = 248
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 0,00949
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = 0
+| Oxide = -
+| Basizität = -
+| Normalpotential = 
+| Elektronegativität = 3,00
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|9|23}}<ref name="air liquide">[http://gasekatalog.airliquide.de/sdb/077a__krypton.pdf Sicherheitsdatenblatt (air liquide]</ref>
+
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 76
+| NH = 0
+| Halbwertszeit = 14,8 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,311
+| Zerfallstyp1ZP = [[Brom|<sup>76</sup>Br]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 77
+| NH = 0
+| Halbwertszeit = 74,4 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,064
+| Zerfallstyp1ZP = [[Brom|<sup>77</sup>Br]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 78
+| NH = 0,35
+| Halbwertszeit = 2,0 · 10<sup>21</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Doppelter Elektroneneinfang|ε ε]]
+| Zerfallstyp1ZE = 2,868
+| Zerfallstyp1ZP = [[Selen|<sup>78</sup>Se]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 79
+| NH = 0
+| Halbwertszeit = 35,04 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,626
+| Zerfallstyp1ZP = [[Brom|<sup>79</sup>Br]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Kr
+| Massenzahl = 80
+| NH = 2,25
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 81
+| NH = -1
+| Halbwertszeit = 229.000 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,281
+| Zerfallstyp1ZP = [[Brom|<sup>81</sup>Br]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Kr
+| Massenzahl = 82
+| NH = 11,6
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Kr
+| Massenzahl = 83
+| NH = 11,5
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Kr
+| Massenzahl = 84
+| NH = 57
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 85
+| NH = 0
+| Halbwertszeit = 10,756 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 0,687
+| Zerfallstyp1ZP = [[Rubidium|<sup>85</sup>Rb]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Kr
+| Massenzahl = 86
+| NH = 17,3
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 87
+| NH = 0
+| Halbwertszeit = 73,6 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 3,887
+| Zerfallstyp1ZP = [[Rubidium|<sup>87</sup>Rb]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Kr
+| Massenzahl = 88
+| NH = 0
+| Halbwertszeit = 2,84 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 2,914
+| Zerfallstyp1ZP = [[Rubidium|<sup>88</sup>Rb]]
+}}
+| NMREigenschaften = 
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Kr
+| Massenzahl_1 = 83
+| Kernspin_1 = -9/2
+| Gamma_1 = 1,029 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00188
+| Larmorfrequenz_1 =7,7
+}}
+}}
