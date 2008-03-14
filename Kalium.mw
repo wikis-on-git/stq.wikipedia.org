@@ -1,1 +1,133 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name=Kalium
+| Symbol=K
+| Ordnungszahl=19
+| Massenzahl=39
+| Serie=[[Alkalimetalle]]
+| Gruppe = 1
+| Periode = 4
+| Block= s
+| Serienfarbe= OrangeRed
+<!--- Allgemein --->
+| Aussehen=silbrig weiß
+| Massenanteil= 2,4
+<!--- Atomar --->
+| Atommasse= 39,0983
+| Atomradius= 220
+| AtomradiusBerechnet= 243
+| KovalenterRadius= 196
+| VanDerWaalsRadius= 275
+| Elektronenkonfiguration=<nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 4s<sup>1</sup>
+| ElektronenProEnergieNiveau= 2, 8, 8, 1
+| Austrittsarbeit=2,3
+| Ionisierungsenergie_1=418,8
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= 
+| Modifikationen=
+| Kristallstruktur= kubisch raumzentriert
+| Dichte= 0,856 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 0,4
+| Schmelzpunkt_K= 336,53
+| Schmelzpunkt_C= 63,38
+| Siedepunkt_K= 1032
+| Siedepunkt_C= 759
+| MolaresVolumen= 45,94&nbsp;·&nbsp;10<sup>−6</sup>
+| Verdampfungswärme= 79,87
+| Schmelzwärme= 2,334
+| Dampfdruck= 1,06&nbsp;·&nbsp;10<sup>−4</sup>
+| RefTempDampfdruck_K=__
+| Schallgeschwindigkeit= 2000
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität= 757
+| ElektrischeLeitfähigkeit= 13,9&nbsp;·&nbsp;10<sup>6</sup>
+| Wärmeleitfähigkeit= 102,4
+<!--- Chemisch --->
+| Oxidationszustände= 1
+| Oxide= K<sub>2</sub>O
+| Basizität= stark [[Base (Chemie)|basisch]]
+| Normalpotential= −2,92&nbsp;[[Volt|V]] (K<sup>+</sup>+ e<sup>−</sup> → K)
+| Elektronegativität= 0,82
+| RL 67/548/EWG      = Ja
+| Gefahrensymbole    = {{Gefahrensymbole|F|C}}
+| R                  = {{R-Sätze|14/15|34}}
+| S                  = {{S-Sätze|(1/2)|8|45}}
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = K
+| Massenzahl = 38
+| NH = 0
+| Halbwertszeit = 7,636&nbsp;[[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 5,913
+| Zerfallstyp1ZP = [[Argon|<sup>38</sup>Ar]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = K
+| Massenzahl = 39
+| NH = '''93,26'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 3
+| Symbol = K
+| Massenzahl = 40
+| NH = 0,012
+| Halbwertszeit = 1,277&nbsp;·&nbsp;10<sup>9</sup>&nbsp;[[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−<sup>
+| Zerfallstyp1ZE = 1,311
+| Zerfallstyp1ZP = [[Calcium|<sup>40</sup>Ca]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 1,505
+| Zerfallstyp2ZP = [[Argon|<sup>40</sup>Ar]]
+| Zerfallstyp3ZM = [[Betazerfall|β]]<sup>+</sup>
+| Zerfallstyp3ZE = 1,505
+| Zerfallstyp3ZP = [[Argon|<sup>40</sup>Ar]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = K
+| Massenzahl = 41
+| NH = 6,73
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = K
+| Massenzahl = 42
+| NH = 0
+| Halbwertszeit = 12,36&nbsp;[[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−<sup>
+| Zerfallstyp1ZE = 3,525
+| Zerfallstyp1ZP = [[Calcium|<sup>42</sup>Ca]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = K
+| Massenzahl = 43
+| NH = 0
+| Halbwertszeit = 22,3&nbsp;[[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−<sup>
+| Zerfallstyp1ZE = 1,815
+| Zerfallstyp1ZP = [[Calcium|<sup>43</sup>Ca]]
+}}
+| NMREigenschaften=
+{{Infobox_Chemisches_Element/NMR
+| AnzahlIsotope=2
+| Symbol=K
+| Massenzahl_1=39
+| Kernspin_1=3/2
+| Gamma_1=1,248&nbsp;·&nbsp;10<sup>7</sup>
+| Empfindlichkeit_1=0,000508
+| Larmorfrequenz_1=9,33
+| Massenzahl_2=41
+| Kernspin_2=3/2
+| Gamma_2=6,852&nbsp;·&nbsp;10<sup>6</sup>
+| Empfindlichkeit_2=8,4&nbsp;·&nbsp;10<sup>−5</sup>
+| Larmorfrequenz_2=5,12
+}}
+}}
