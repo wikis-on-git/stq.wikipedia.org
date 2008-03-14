@@ -1,1 +1,252 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Curium
+| Symbol= Cm
+| Ordnungszahl= 96
+| Massenzahl= 247
+| Serie= [[Actinide]]
+| Gruppe= Ac
+| Periode = 7
+| Block= [[F-Block|f]]
+| Serienfarbe= #cd46cd
+<!--- Allgemein --->
+| Aussehen= silbrig-weißes Metall
+| Massenanteil= 0
+<!--- Atomar --->
+| Atommasse= 247,0703
+| Atomradius= 174 pm
+| AtomradiusBerechnet= -
+| KovalenterRadius= -
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki>5f<sup>7</sup>6d<sup>1</sup>7s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 32, 25, 9, 2
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 588
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen=
+| Kristallstruktur= hexagonal
+| Dichte= 13,15 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte=
+| Magnetismus=
+| Schmelzpunkt_K= 1613
+| Schmelzpunkt_C= 1340
+| Siedepunkt_K= 3383
+| Siedepunkt_C= 3110
+| MolaresVolumen= 1,857 · 10<sup>-5</sup>
+| Verdampfungswärme= 
+| Schmelzwärme= 13,85
+| Dampfdruck= 
+| RefTempDampfdruck_K= 
+| Schallgeschwindigkeit= 
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= 
+| ElektrischeLeitfähigkeit=  <!-- 1,0 · 10<sup>-10</sup> -->
+| Wärmeleitfähigkeit= 10 (?)
+| RefTempWärmeleitfähigkeit_K= 300
+<!--- Chemisch --->
+| Oxidationszustände= '''+3''', +4, +6
+| Oxide=
+| Basizität= 
+| Normalpotential= -2,06 [[Volt|V]] (Cm<sup>3+</sup> + 3 e<sup>-</sup> → Cm)<br>
+-2,8 V (Cm<sup>4+</sup> + 4 e<sup>-</sup> → Cm)
+| Elektronegativität= 1,2
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope= 
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 238
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 2,4 [[Stunde|h]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,97
+| Zerfallstyp1ZP = [[Americium|<sup>238</sup>Am]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 6,62
+| Zerfallstyp2ZP = [[Plutonium|<sup>234</sup>Pu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 239
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 2,9 [[Stunde|h]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,70
+| Zerfallstyp1ZP = [[Americium|<sup>239</sup>Am]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 6,46
+| Zerfallstyp2ZP = [[Plutonium|<sup>235</sup>Pu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 240
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 27 [[Tag|d]]
+| AnzahlZerfallstypen= 3
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,397
+| Zerfallstyp1ZP = [[Plutonium|<sup>236</sup>Pu]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 0,215
+| Zerfallstyp2ZP = [[Americium|<sup>240</sup>Am]]
+| Zerfallstyp3ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp3ZE = ?
+| Zerfallstyp3ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 241
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 32,8 [[Tag|d]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,767
+| Zerfallstyp1ZP = [[Americium|<sup>241</sup>Am]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 6,185
+| Zerfallstyp2ZP = [[Plutonium|<sup>237</sup>Pu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 242
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 162,8 [[Tag|d]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,216
+| Zerfallstyp1ZP = [[Plutonium|<sup>238</sup>Pu]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 243
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 29,1 [[Jahr|a]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,169
+| Zerfallstyp1ZP = [[Plutonium|<sup>239</sup>Pu]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 0,009
+| Zerfallstyp2ZP = [[Americium|<sup>243</sup>Am]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 244
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 18,1 [[Jahr|a]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,902
+| Zerfallstyp1ZP = [[Plutonium|<sup>240</sup>Pu]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 245
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 8500 [[Jahr|a]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,623
+| Zerfallstyp1ZP = [[Plutonium|<sup>241</sup>Pu]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 246
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 4760 [[Jahr|a]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,475
+| Zerfallstyp1ZP = [[Plutonium|<sup>242</sup>Pu]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 247
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 1,56 · 10<sup>7</sup> [[Jahr|a]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,353
+| Zerfallstyp1ZP = [[Plutonium|<sup>243</sup>Pu]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 248
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 348.000 [[Jahr|a]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,162
+| Zerfallstyp1ZP = [[Plutonium|<sup>244</sup>Pu]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 249
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 64,15 [[Minute|min]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,90
+| Zerfallstyp1ZP = [[Berkelium|<sup>249</sup>Bk]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 250
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 9700 [[Jahr|a]]
+| AnzahlZerfallstypen= 3
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp1ZE = ?
+| Zerfallstyp1ZP = ?
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,169
+| Zerfallstyp2ZP = [[Plutonium|<sup>246</sup>Pu]]
+| Zerfallstyp3ZM = [[Betastrahlung|β-]]
+| Zerfallstyp3ZE = 0,037
+| Zerfallstyp3ZP = [[Berkelium|<sup>250</sup>Bk]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 251
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 16,8 [[Minute|min]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 1,42
+| Zerfallstyp1ZP = [[Berkelium|<sup>251</sup>Bk]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 252
+| Symbol= Cm
+| NH= 0
+| Halbwertszeit= 2 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = ?
+| Zerfallstyp1ZP = [[Berkelium|<sup>252</sup>Bk]]
+}}
+| NMREigenschaften= 
+}}
