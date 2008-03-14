@@ -1,1 +1,126 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Mangan
+| Symbol = Mn
+| Ordnungszahl = 25
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 7
+| Periode = 4
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig metallisch
+| Massenanteil = 0,09 
+<!--- Atomar --->
+| Atommasse = 54,938049
+| Atomradius = 140
+| AtomradiusBerechnet = 161
+| KovalenterRadius = 139
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 3d<sup>5</sup>4s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 13, 2
+| Austrittsarbeit = 4,1
+| Ionisierungsenergie_1 = 717,3
+| Ionisierungsenergie_2 = 1509
+| Ionisierungsenergie_3 = 3248
+| Ionisierungsenergie_4 = 4940
+| Ionisierungsenergie_5 = 6990
+| Ionisierungsenergie_6 = 9220
+| Ionisierungsenergie_7 = 11500
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = α-Mn, β-Mn
+| Kristallstruktur = α-Mn:kubisch raumzentriert<br />β-Mn:kubisch-primitiv
+| Dichte = 7,47 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 6,0
+| Magnetismus = 
+| Schmelzpunkt_K = 1517
+| Schmelzpunkt_C = 1244
+| Siedepunkt_K = 2235
+| Siedepunkt_C = 1962
+| MolaresVolumen = 7,35 · 10<sup>-6</sup>
+| Verdampfungswärme = 226
+| Schmelzwärme = 12,05
+| Dampfdruck = 121
+| RefTempDampfdruck_K = 1517
+| Schallgeschwindigkeit = 5150
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 480
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 0,695 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 7,82
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = 1, '''2''', 4, (5), 6, 7
+| Oxide = 
+| Basizität = stark [[Säure|sauer]]
+| Normalpotential = 
+| Elektronegativität = 1,55
+| RL 67/548/EWG      = 
+| Gefahrensymbole    = '''Pulver'''<br />{{Gefahrensymbole|F}}<ref name="alfa-SDB"/><br />
+| R                  = {{R-Sätze|11}} (Pulver)<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/36315_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
+| S                  = {{S-Sätze|7|33|43|60}}(Pulver)<ref name="alfa-SDB"/>
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mn
+| Massenzahl = 52
+| NH = 0
+| Halbwertszeit = 5,591 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 4,712
+| Zerfallstyp1ZP = [[Chrom|<sup>52</sup>Cr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mn
+| Massenzahl = 53
+| NH = 0
+| Halbwertszeit = 3,74 · 10<sup>6</sup> [[Jahr|a]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,597
+| Zerfallstyp1ZP = [[Chrom|<sup>53</sup>Cr]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Mn
+| Massenzahl = 54
+| NH = 0
+| Halbwertszeit = 312,3 [[Tag|d]] 
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,377
+| Zerfallstyp1ZP = [[Chrom|<sup>54</sup>Cr]]
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp2ZE = 0,697
+| Zerfallstyp2ZP = [[Eisen|<sup>54</sup>Fe]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Mn
+| Massenzahl = 55
+| NH = '''100'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Mn
+| Massenzahl = 56
+| NH = 0
+| Halbwertszeit = 2,5785 [[Stunde|h]] 
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 3,695
+| Zerfallstyp1ZP = [[Eisen|<sup>56</sup>Fe]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Mn
+| Massenzahl_1 = 55
+| Kernspin_1 = 5/2
+| Gamma_1 = 6,598 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,175
+| Larmorfrequenz_1 = 49,3
+}} 
+}}
