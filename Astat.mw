@@ -1,1 +1,124 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Astat
+| Symbol= At
+| Ordnungszahl= 85
+| Massenzahl= 210
+| Serie= [[Halogene]]
+| Gruppe = 17
+| Periode = 6
+| Block=  p
+| Serienfarbe= Khaki
+<!--- Allgemein --->
+| Aussehen= metallisch
+| Massenanteil= 3 · 10<sup>-24</sup>
+<!--- Atomar --->
+| Atommasse= 209,9871
+| Atomradius= -
+| AtomradiusBerechnet= -
+| KovalenterRadius= 145
+| VanDerWaalsRadius= -
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4f<sup>14</sup>5d<sup>10</sup> 6s<sup>2</sup>6p<sup>5</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 32, 18, 7
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 930
+| Ionisierungsenergie_2=
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= -
+| Kristallstruktur= -
+| Dichte= -
+| RefTempDichte_K=
+| Mohshärte= -
+| Magnetismus= -
+| Schmelzpunkt_K= 575
+| Schmelzpunkt_C= 302
+| Siedepunkt_K= 610
+| Siedepunkt_C= 337
+| MolaresVolumen= -
+| Verdampfungswärme= 30
+| Schmelzwärme= 114
+| Dampfdruck= -
+| RefTempDampfdruck_K=
+| Schallgeschwindigkeit= -
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= -
+| ElektrischeLeitfähigkeit= -
+| Wärmeleitfähigkeit=  1,7
+<!--- Chemisch --->
+| Oxidationszustände=±1, 3, 5, 7
+| Oxide=  
+| Basizität=
+| Normalpotential= -
+| Elektronegativität= 2,2
+| Gefahrensymbole = {{Gefahrensymbole|}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = At
+| Massenzahl = 209
+| NH = ?
+| Halbwertszeit = 5,41 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,486
+| Zerfallstyp1ZP = [[Polonium|<sup>209</sup>Po]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,757
+| Zerfallstyp2ZP = [[Bismut|<sup>205</sup>Bi]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = At
+| Massenzahl = 210
+| NH = ?
+| Halbwertszeit = 8,3 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,981
+| Zerfallstyp1ZP = [[Polonium|<sup>210</sup>Po]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,631
+| Zerfallstyp2ZP = [[Bismut|<sup>206</sup>Bi]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = At
+| Massenzahl = 211
+| NH = ?
+| Halbwertszeit = 7,124 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,787
+| Zerfallstyp1ZP = [[Polonium|<sup>211</sup>Po]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,982
+| Zerfallstyp2ZP = [[Bismut|<sup>207</sup>Bi]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= -1 <!-- Leerzeile -->
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = At
+| Massenzahl = 213
+| NH = ?
+| Halbwertszeit = 0,11 µs
+| Zerfallstyp1ZM = ...
+| Zerfallstyp1ZE = ...
+| Zerfallstyp1ZP = ...
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= -1 <!-- Leerzeile -->
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = At
+| Massenzahl = 220
+| NH = ?
+| Halbwertszeit = 3,71 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 9,900
+| Zerfallstyp1ZP = [[Radon|<sup>220</sup>Rn]]
+}}
+| NMREigenschaften=
+}}
