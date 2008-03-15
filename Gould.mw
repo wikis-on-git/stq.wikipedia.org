@@ -1,1 +1,121 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Gold
+| Symbol= Au
+| Ordnungszahl= 79
+| Massenzahl= 197
+| Serie= [[Übergangsmetalle]]
+| Gruppe = 11
+| Periode = 6
+| Block= d
+| Serienfarbe= LightCoral
+<!--- Allgemein --->
+| Aussehen= metallisch gelb
+| Massenanteil= 5 · 10<sup>−7</sup>
+<!--- Atomar --->
+| Atommasse= 196,966569
+| Atomradius= 135
+| AtomradiusBerechnet= 174
+| KovalenterRadius= 144
+| VanDerWaalsRadius= 166
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4[[F-Orbital|f]]<sup>14</sup> 5d<sup>10</sup> 6[[S-Orbital|s]]<sup>1</sup>
+| ElektronenProEnergieNiveau=2, 8, 18, 32, 18, 1
+| Austrittsarbeit=4,3–5,1
+| Ionisierungsenergie_1=890,1
+| Ionisierungsenergie_2=1980
+| Ionisierungsenergie_3=
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= 
+| Kristallstruktur= kubisch flächenzentriert
+| Dichte= 19,32 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 2,5
+| Magnetismus= diamagnetisch
+| Schmelzpunkt_K=1337,33
+| Schmelzpunkt_C=1064,18
+| Siedepunkt_K=3129
+| Siedepunkt_C=2856
+| MolaresVolumen=10,21 · 10<sup>−6</sup>
+| Verdampfungswärme=334,4
+| Schmelzwärme=12,55
+| Dampfdruck=2,37 · 10<sup>−3</sup>
+| RefTempDampfdruck_K=1337
+| Schallgeschwindigkeit=1740
+| RefTempSchallgeschwindigkeit_K=293,15
+| SpezifischeWärmekapazität= 128
+| ElektrischeLeitfähigkeit= 45,2 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K=
+| Wärmeleitfähigkeit= 317
+| RefTempWärmeleitfähigkeit_K=
+<!--- Chemisch --->
+| Oxidationszustände=  −1, 0, +1, +2, '''+3''', +5
+| Oxide= Au<sub>2</sub>O<sub>3</sub>
+| Basizität= [[amphoter]]
+| Normalpotential= 1,498 [[Volt|V]] (Au<sup>3+</sup> + 3e<sup>−</sup> → Au)
+| Elektronegativität= 2,54
+| Gefahrensymbole= {{Gefahrensymbole|-}}
+| R                  = {{R-Sätze|-}}
+| S                  = {{S-Sätze|-}}
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=195
+| Symbol=Au
+| NH= 0
+| Halbwertszeit= 186,10 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 0,227
+| Zerfallstyp1ZP= [[Platin|<sup>195</sup>Pt]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 196
+| Symbol= Au
+| NH= 0
+| Halbwertszeit= 6,1830 [[Tag|d]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM= [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE= 1,506
+| Zerfallstyp1ZP= [[Platin|<sup>196</sup>Pt]]
+| Zerfallstyp2ZM= [[Betastrahlung|β−]]
+| Zerfallstyp2ZE= 0,686
+| Zerfallstyp2ZP= [[Quecksilber|<sup>196</sup>Hg]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 79
+| Massenzahl= 197
+| Symbol= Au
+| NH=100
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=198
+| Symbol=Au
+| NH=0
+| Halbwertszeit= 2,69517 [[Tag|d]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM= [[Betastrahlung|β−]]
+| Zerfallstyp1ZE= 1,372
+| Zerfallstyp1ZP= [[Quecksilber|<sup>198</sup>Hg]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 199
+| Symbol=Au
+| NH=0
+| Halbwertszeit= 3,169 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM= [[Betastrahlung|β−]]
+| Zerfallstyp1ZE= 0,453
+| Zerfallstyp1ZP= [[Quecksilber|<sup>199</sup>Hg]]
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol=Au
+| Massenzahl_1=197
+| Kernspin_1=3/2
+| Gamma_1=4,582 · 10<sup>6</sup>
+| Empfindlichkeit_1=2,51 · 10<sup>−5</sup>
+| Larmorfrequenz_1=3,43
+}}
+}}
