@@ -1,0 +1,130 @@
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Berkelium
+| Symbol= Bk
+| Ordnungszahl= 97
+| Massenzahl= 247
+| Serie= [[Actinoide]]
+| Gruppe= Ac
+| Periode = 7
+| Block= [[F-Block|f]]
+| ElementDavor= Curium
+| ElementDanach= Californium
+| ElementDarüber= Terbium
+| SymbolElementDarüber= Tb
+| ElementDarunter= 
+| SymbolElementDarunter= 
+| Serienfarbe= Orchid
+<!--- Allgemein --->
+| Aussehen= silberweiß
+| Massenanteil= 0
+<!--- Atomar --->
+| Atommasse= 247
+| Atomradius= ?
+| AtomradiusBerechnet= ?
+| KovalenterRadius= ?
+| VanDerWaalsRadius= ?
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki> 5[[F-Block|f]]<sup>8</sup> 6[[D-Block|d]]<sup>1</sup> 7[[S-Block|s]]<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 32, 25, 10, 2
+
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= 
+| Kristallstruktur= 
+| Dichte= 14,78 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= 
+| Magnetismus= 
+| Schmelzpunkt_K= 1295
+| Schmelzpunkt_C= 986
+| Siedepunkt_K= 
+| Siedepunkt_C= 
+| MolaresVolumen= 
+| Verdampfungswärme= 
+| Schmelzwärme= 
+| Dampfdruck= 
+| RefTempDampfdruck_K= 
+| Schallgeschwindigkeit= 
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= 
+| ElektrischeLeitfähigkeit= 
+| Wärmeleitfähigkeit= 
+<!--- Chemisch --->
+| Oxidationszustände= 
+| Oxide= 
+| Basizität= 
+| Normalpotential= 
+| Elektronegativität= 
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope= 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 245
+| Symbol= Bk
+| NH= 0
+| Halbwertszeit= 1,80 [[Tag|d]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Elektronen-Einfang|&beta;]]
+| Zerfallstyp1ZE = 0,810
+| Zerfallstyp1ZP = [[Curium|<sup>245</sup>Cm]]
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 6,455
+| Zerfallstyp2ZP = [[Americium|<sup>241</sup>Am]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 246
+| Symbol= Bk
+| NH= 0
+| Halbwertszeit= 4,94 [[Tag|d]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Elektronen-Einfang|&beta;]]
+| Zerfallstyp1ZE = 1,350
+| Zerfallstyp1ZP = [[Curium|<sup>246</sup>Cm]]
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 6,070
+| Zerfallstyp2ZP = [[Americium|<sup>242</sup>Am]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 247
+| Symbol= Bk
+| NH= 0
+| Halbwertszeit= 1380 [[Jahr|a]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 5,889
+| Zerfallstyp1ZP = [[Americium|<sup>243</sup>Am]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 248
+| Symbol= Bk
+| NH= 0
+| Halbwertszeit= 23,7 [[Stunde|h]]
+| AnzahlZerfallstypen= 3
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;-]]
+| Zerfallstyp1ZE = 0,870
+| Zerfallstyp1ZP = [[Californium|<sup>248</sup>Cf]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|&beta;]]
+| Zerfallstyp2ZE = 0,717
+| Zerfallstyp2ZP = [[Curium|<sup>248</sup>Cm]]
+| Zerfallstyp3ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp3ZE = 5,803
+| Zerfallstyp3ZP = [[Americium|<sup>244</sup>Am]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 249
+| Symbol= Bk
+| NH= 0
+| Halbwertszeit= 320 [[Tag|d]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Betastrahlung|&beta;-]]
+| Zerfallstyp1ZE = 0,125
+| Zerfallstyp1ZP = [[Californium|<sup>249</sup>Cf]]
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 5,526
+| Zerfallstyp2ZP = [[Americium|<sup>245</sup>Am]]
+}}
+| NMREigenschaften=
+}}
