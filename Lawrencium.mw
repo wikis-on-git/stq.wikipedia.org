@@ -1,1 +1,118 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Lawrencium
+| Symbol = Lr
+| Ordnungszahl = 103
+| Serie = [[Actinoide]]
+| Gruppe = Ac
+| Periode = 7
+| Block = f
+| Serienfarbe = Orchid
+<!--- Allgemein --->
+| Aussehen =
+| Massenanteil = 0
+<!--- Atomar --->
+| Atommasse = 260,1053
+| Atomradius =
+| AtomradiusBerechnet =
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki>5f<sup>14</sup>6d<sup>1</sup>7s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 32, 9, 2
+| Austrittsarbeit =
+| Ionisierungsenergie_1 =
+| Ionisierungsenergie_2 =
+| Ionisierungsenergie_3 =
+| Ionisierungsenergie_4 =
+| Ionisierungsenergie_5 =
+| Ionisierungsenergie_6 =
+| Ionisierungsenergie_7 =
+| Ionisierungsenergie_8 =
+| Ionisierungsenergie_9 =
+| Ionisierungsenergie_10 =
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur =
+| Dichte =
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 1900
+| Schmelzpunkt_C = 1627
+| Siedepunkt_K =
+| Siedepunkt_C =
+| MolaresVolumen =
+| Verdampfungswärme =
+| Schmelzwärme =
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit =
+| RefTempSchallgeschwindigkeit_K =
+| SpezifischeWärmekapazität =
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit =
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit =
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 3
+| Oxide =
+| Basizität = schwach [[Base (Chemie)|basisch]]
+| Normalpotential = -2,06 [[Volt|V]] (Lr<sup>3+</sup> + 3e<sup>-</sup> → Lr
+| Elektronegativität =
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 3
+| Symbol = Lr
+| Massenzahl = 260
+| NH = 0
+| Halbwertszeit = 180 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 8,310
+| Zerfallstyp1ZP = [[Mendelevium|<sup>256</sup>Md]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 2,740
+| Zerfallstyp2ZP = [[Nobelium|<sup>260</sup>No]]
+| Zerfallstyp3ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp3ZE =
+| Zerfallstyp3ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Lr
+| Massenzahl = 261
+| NH = 0
+| Halbwertszeit = 39 [[Minute|min]]
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Lr
+| Massenzahl = 262
+| NH = 0
+| Halbwertszeit = 3,6 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,100
+| Zerfallstyp1ZP = [[Nobelium|<sup>262</sup>No]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE =
+| Zerfallstyp2ZP = 
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Lr
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
