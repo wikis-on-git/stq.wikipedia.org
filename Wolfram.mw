@@ -1,1 +1,164 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Wolfram
+| Symbol = W
+| Ordnungszahl = 74
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 6
+| Periode = 6
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = gräulich weiß, glänzend
+| Massenanteil = 6 · 10<sup>−3</sup>
+<!--- Atomar --->
+| Atommasse = 183,84
+| Atomradius = 135
+| AtomradiusBerechnet = 193
+| KovalenterRadius = 146
+| VanDerWaalsRadius = –
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4[[F-Orbital|f]]<sup>14</sup>5d<sup>4</sup>6[[S-Orbital|s]]<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 12, 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 770
+| Ionisierungsenergie_2 = 1700
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = kubisch raumzentriert
+| Dichte = 19,25 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 7,5
+| Magnetismus = –
+| Schmelzpunkt_K = 3695
+| Schmelzpunkt_C = 3422
+| Siedepunkt_K = 5828
+| Siedepunkt_C = 5555
+| MolaresVolumen = 9,47 · 10<sup>−6</sup>
+| Verdampfungswärme = 824
+| Schmelzwärme = 35,4
+| Dampfdruck = 4,27
+| RefTempDampfdruck_K = 3680
+| Schallgeschwindigkeit= 5174 ([[Longitudinalwelle|long.]]), 2900 ([[Transversalwelle|trans.]])<br/>
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität = 130
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 18,9 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 174
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = '''6''', 5, 4, 3, 2
+| Oxide = 
+| Basizität = leicht [[Säure|sauer]]
+| Normalpotential = −0,09 [[Volt|V]] (WO<sub>2</sub> + 4H<sup>+</sup> + 4e<sup>−</sup><br />→ W + 2H<sub>2</sub>O)
+| Elektronegativität = 2,36
+| Gefahrensymbole    = {{Gefahrensymbole|F}} (nur als feinverteiltes Pulver, als kompaktes Metall unbrennbar)<ref name="GESTIS">{{GESTIS|ZVG=7740|Name=Wolfram, Pulver|Datum=22. November 2007}}</ref> 
+| R                  = {{R-Sätze|11}}<ref name="GESTIS"/>
+| S                  = {{S-Sätze|43}}<ref name="GESTIS"/>
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = W
+| Massenzahl = 178
+| NH = 0
+| Halbwertszeit = 21,6 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,091
+| Zerfallstyp1ZP = [[Tantal|<sup>178</sup>Ta]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = W
+| Massenzahl = 179
+| NH = 0
+| Halbwertszeit = 37,05 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,060
+| Zerfallstyp1ZP = [[Tantal|<sup>179</sup>Ta]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = W
+| Massenzahl = 180
+| NH = 0,13
+| Halbwertszeit = 1,8 · 10<sup>18</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 2,516
+| Zerfallstyp1ZP = [[Hafnium|<sup>176</sup>Hf]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = W
+| Massenzahl = 181
+| NH = 0
+| Halbwertszeit = 121,2 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,188
+| Zerfallstyp1ZP = [[Tantal|<sup>181</sup>Ta]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = W
+| Massenzahl = 182
+| NH = 26,3
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = W
+| Massenzahl = 183
+| NH = 14,3
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = W
+| Massenzahl = 184
+| NH = '''30,67'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = W
+| Massenzahl = 185
+| NH = 0
+| Halbwertszeit = 75,1 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,433
+| Zerfallstyp1ZP = [[Rhenium|<sup>185</sup>Re]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = W
+| Massenzahl = 186
+| NH = 28,6
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = W
+| Massenzahl = 187
+| NH = 0
+| Halbwertszeit = 23,72 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,311
+| Zerfallstyp1ZP = [[Rhenium|<sup>187</sup>Re]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = W
+| Massenzahl = 188
+| NH = 0
+| Halbwertszeit = 69,4 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,349
+| Zerfallstyp1ZP = [[Rhenium|<sup>188</sup>Re]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = W
+| Massenzahl_1 = 183
+| Kernspin_1 = 1/2
+| Gamma_1 = 1,113 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 7,2 · 10<sup>−5</sup>
+| Larmorfrequenz_1 = 8,32
+}}
+}}
