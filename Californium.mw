@@ -1,0 +1,157 @@
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Californium
+| Symbol= Cf
+| Ordnungszahl= 98
+| Massenzahl= 250,43 <!-- Massenzahl gewichtet gemittelt -->
+| Serie= [[Actinide]]
+| Gruppe= Ac
+| Periode = 7
+| Block= [[F-Block|f]]
+| Serienfarbe= Orchid 
+<!--- Allgemein --->
+| Aussehen= silbriges Metall
+| Massenanteil= 0
+<!--- Atomar --->
+| Atommasse= 251
+| Atomradius= ?
+| AtomradiusBerechnet= ?
+| KovalenterRadius= 225
+| VanDerWaalsRadius= ?
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki>5f<sup>10</sup>7s<sup>2</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 32, 28, 8, 2
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 
+| Ionisierungsenergie_2= 
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= -
+| Modifikationen= -
+| Kristallstruktur= -
+| Dichte= 15,1 g/cm<sup>3</sup>
+| RefTempDichte_K= 
+| Mohshärte= -
+| Schmelzpunkt_K= 1223
+| Schmelzpunkt_C= 950
+| Siedepunkt_K= -
+| Siedepunkt_C= -
+| MolaresVolumen= -
+| Verdampfungswärme= -
+| Schmelzwärme= -
+| Dampfdruck= -
+| RefTempDampfdruck_K= 
+| Schallgeschwindigkeit= -
+| RefTempSchallgeschwindigkeit_K= 
+| SpezifischeWärmekapazität= 
+| ElektrischeLeitfähigkeit= -
+| Wärmeleitfähigkeit= -
+<!--- Chemisch --->
+| Oxidationszustände= -
+| Oxide= -
+| Basizität= -
+| Normalpotential= -
+| Elektronegativität= -
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope= 
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 247
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 3,11 [[Stunde|h]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,646
+| Zerfallstyp1ZP = [[Berkelium|<sup>247</sup>Bk]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 6,527
+| Zerfallstyp2ZP = [[Curium|<sup>243</sup>Cm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 248
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 333,5 [[Tag|d]]
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,361
+| Zerfallstyp1ZP = [[Curium|<sup>244</sup>Cm]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 249
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 351 [[Jahr|a]]
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,295
+| Zerfallstyp1ZP = [[Curium|<sup>245</sup>Cm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 250
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 13,08 a
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,128
+| Zerfallstyp1ZP = [[Curium|<sup>246</sup>Cm]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 251
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 898 a
+| AnzahlZerfallstypen= 1
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,176
+| Zerfallstyp1ZP = [[Curium|<sup>247</sup>Cm]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 252
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 2,645 a
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,217
+| Zerfallstyp1ZP = [[Curium|<sup>248</sup>Cm]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = ?
+| Zerfallstyp2ZP = ?
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl= 253
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 17,81 d
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Betastrahlung|β-]]
+| Zerfallstyp1ZE = 0,285
+| Zerfallstyp1ZP = [[Einsteinium|<sup>253</sup>Es]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 6,124
+| Zerfallstyp2ZP = [[Curium|<sup>249</sup>Cm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| Massenzahl= 254
+| Symbol= Cf
+| NH= 0
+| Halbwertszeit= 60,5 d
+| AnzahlZerfallstypen= 2
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp1ZE = ?
+| Zerfallstyp1ZP = ?
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,926
+| Zerfallstyp2ZP = [[Curium|<sup>250</sup>Cm]]
+}} 
+| NMREigenschaften= <span align="center">unbekannt</span>
+}}
