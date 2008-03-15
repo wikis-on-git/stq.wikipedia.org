@@ -1,1 +1,176 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name= Bismut
+| Symbol= Bi
+| Ordnungszahl= 83
+| Massenzahl= 209
+| Serie= [[Metalle]]
+| Gruppe = 15
+| Periode = 6
+| Block= p
+| Serienfarbe= DarkGray
+<!--- Allgemein --->
+| Aussehen= glänzend rötlich weiß
+| Massenanteil= 2 · 10<sup>−5</sup>
+<!--- Atomar --->
+| Atommasse= 208,98038
+| Atomradius= 160
+| AtomradiusBerechnet= 143
+| KovalenterRadius= 146
+| VanDerWaalsRadius= 
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup>6p<sup>3</sup>
+| ElektronenProEnergieNiveau= 2, 8, 18, 32, 18, 5
+| Austrittsarbeit=
+| Ionisierungsenergie_1= 703
+| Ionisierungsenergie_2= 1610
+| Ionisierungsenergie_3= 2466
+| Ionisierungsenergie_4= 4370
+| Ionisierungsenergie_5= 5400
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Magnetismus= diamagnetisch
+| Modifikationen= 
+| Kristallstruktur= rhomboedrisch
+| Dichte= 9,78 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte= 2,25
+| Schmelzpunkt_K= 544,4
+| Schmelzpunkt_C= 271,2
+| Siedepunkt_K= 1837
+| Siedepunkt_C= 1564
+| MolaresVolumen= 21,31 · 10<sup>−6</sup>
+| Verdampfungswärme= 104,8
+| Schmelzwärme= 11,3
+| Dampfdruck= 0,627 · 10<sup>−3</sup>
+| RefTempDampfdruck_K= 544
+| Schallgeschwindigkeit= 1790
+| RefTempSchallgeschwindigkeit_K= 293,15
+| SpezifischeWärmekapazität= 122 
+| ElektrischeLeitfähigkeit= 0,867 · 10<sup>6</sup>
+| Wärmeleitfähigkeit= 7,87
+<!--- Chemisch --->
+| Oxidationszustände= (−3) 1, '''3''', 5
+| Oxide= 
+| Basizität= leicht [[Säure|sauer]]
+| Normalpotential=  0,23 [[Volt|V]] (Bi<sup>3+</sup> + 3e<sup>−</sup> → Bi)
+| Elektronegativität= 2,02
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|F}} (Pulver)
+| R                  = {{R-Sätze|11}} (Pulver)<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/10111_-_D.pdf Sicherheitsdatenblatt(alfa-aesar)] Dies gilt nur für Pulver, kompaktes Bismut ist ohne Gefahrensymbole/R-/S-Sätze</ref>
+| S                  = {{S-Sätze|-}} (Pulver)<ref name="alfa-SDB"/>
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Bi
+| Massenzahl = 205
+| NH = 0
+| Halbwertszeit = 15,31 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,708
+| Zerfallstyp1ZP = [[Blei|<sup>205</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Bi
+| Massenzahl = 206
+| NH = 0
+| Halbwertszeit = 6,243 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 3,758
+| Zerfallstyp1ZP = [[Blei|<sup>206</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Bi
+| Massenzahl = 207
+| NH = 0
+| Halbwertszeit = 31,55 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,399
+| Zerfallstyp1ZP = [[Blei|<sup>207</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Bi
+| Massenzahl = 208
+| NH = 0
+| Halbwertszeit = 3.368.000 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,880
+| Zerfallstyp1ZP = [[Blei|<sup>208</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Bi
+| Massenzahl = 209
+| NH = '''100'''
+| Halbwertszeit = 1,9 · 10<sup>19</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 3,137 <ref>''Nature'', Volume 422 Number 6934, 2003, Seite 876–878</ref>
+| Zerfallstyp1ZP = [[Thallium|<sup>205</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Bi
+| Massenzahl = 210
+| NH = 0
+| Halbwertszeit = 5,013 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 1,163
+| Zerfallstyp1ZP = [[Polonium|<sup>210</sup>Po]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,037
+| Zerfallstyp2ZP = [[Thallium|<sup>206</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Bi
+| Massenzahl = 210m1
+| NH = 0
+| Halbwertszeit = 3,04 · 10<sup>6</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 
+| Zerfallstyp1ZP = [[Thallium|<sup>206</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Bi
+| Massenzahl = 211
+| NH = 0
+| Halbwertszeit = 2,14 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 0,579
+| Zerfallstyp1ZP = [[Polonium|<sup>211</sup>Po]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 6,751
+| Zerfallstyp2ZP = [[Thallium|<sup>207</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Bi
+| Massenzahl = 212
+| NH = 0
+| Halbwertszeit = 60,55 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 2,254
+| Zerfallstyp1ZP = [[Polonium|<sup>212</sup>Po]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 6,027
+| Zerfallstyp2ZP = [[Thallium|<sup>208</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Bi
+| Massenzahl = 213
+| NH = 0
+| Halbwertszeit = 49,59 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β−]]
+| Zerfallstyp1ZE = 1,426
+| Zerfallstyp1ZP = [[Polonium|<sup>213</sup>Po]]
+| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZE = 5,932
+| Zerfallstyp2ZP = [[Thallium|<sup>209</sup>Tl]]
+}}
+| NMREigenschaften=
+}}
