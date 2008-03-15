@@ -1,1 +1,120 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Holmium
+| Symbol = Ho
+| Ordnungszahl = 67
+| Serie = [[Lanthanoide]]
+| Gruppe = La
+| Periode = 6
+| Block = f
+| Serienfarbe = Plum
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil = 1 · 10<sup>-4</sup>
+<!--- Atomar --->
+| Atommasse = 164,93032
+| Atomradius = 175
+| AtomradiusBerechnet = 226
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>11</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 29, 8, 2
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 581,0
+| Ionisierungsenergie_2 = 1140
+| Ionisierungsenergie_3 = 2204
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur = [[hexagonal]]
+| Dichte = 8,8 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus = paramagnetisch
+| Schmelzpunkt_K = 1747
+| Schmelzpunkt_C = 1474
+| Siedepunkt_K = 2968
+| Siedepunkt_C = 2695
+| MolaresVolumen = 18,7 · 10<sup>-6</sup>
+| Verdampfungswärme = 241
+| Schmelzwärme = 12,2
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit =
+| RefTempSchallgeschwindigkeit_K =
+| SpezifischeWärmekapazität = 160
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 1,24 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 16,2
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 3
+| Oxide =
+| Basizität = schwach [[Base (Chemie)|basisch]]
+| Normalpotential = -2,33 [[Volt|V]] (Ho<sup>3+</sup> + 3e<sup>-</sup> → Ho)
+| Elektronegativität = 1,23
+| Gefahrensymbole = <!--- <div>{{Gefahrensymbole|-}}</div> --->
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ho
+| Massenzahl = 163
+| NH = 0
+| Halbwertszeit = 4570 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,003
+| Zerfallstyp1ZP = [[Dysprosium|<sup>163</sup>Dy]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ho
+| Massenzahl = 164
+| NH = 0
+| Halbwertszeit = 29 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,987
+| Zerfallstyp1ZP = [[Dysprosium|<sup>164</sup>Dy]]
+| Zerfallstyp2ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp2ZE = 0,962
+| Zerfallstyp2ZP = [[Erbium|<sup>164</sup>Er]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ho
+| Massenzahl = 165
+| NH = '''100'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ho
+| Massenzahl = 166
+| NH = 0
+| Halbwertszeit = 26,763 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 1,855
+| Zerfallstyp1ZP = [[Erbium|<sup>166</sup>Er]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ho
+| Massenzahl = 167
+| NH = 0
+| Halbwertszeit = 3,1 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 1,007
+| Zerfallstyp1ZP = [[Erbium|<sup>167</sup>Er]]
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Ho
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
