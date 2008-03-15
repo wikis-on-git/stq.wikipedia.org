@@ -1,1 +1,151 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Iridium
+| Symbol = Ir
+| Ordnungszahl = 77
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 9
+| Periode = 6
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil = 1 · 10<sup>-7</sup>
+<!--- Atomar --->
+| Atommasse = 192,217
+| Atomradius = 135
+| AtomradiusBerechnet = 180
+| KovalenterRadius = 137
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4[[F-Orbital|f]]<sup>14</sup>5d<sup>7</sup>6[[S-Orbital|s]]<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 15, 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 880
+| Ionisierungsenergie_2 = 1600
+| Ionisierungsenergie_3 = 
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = -
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 22,56 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 6,5
+| Magnetismus = -
+| Schmelzpunkt_K = 2739
+| Schmelzpunkt_C = 2466
+| Siedepunkt_K = 4701
+| Siedepunkt_C = 4428
+| MolaresVolumen = 8,52 · 10<sup>-6</sup>
+| Verdampfungswärme = 604
+| Schmelzwärme = 26,1
+| Dampfdruck = 1,47
+| RefTempDampfdruck_K = 2716
+| Schallgeschwindigkeit = 4825
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 130
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 19,7 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 147
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = -1, 0, '''1''', 2, 3, '''4''', 6
+| Oxide = 
+| Basizität = leicht [[Base (Chemie)|basisch]]
+| Normalpotential = 1,156 [[Volt|V]] (Ir<sup>3+</sup> + 3e<sup>-</sup> → Ir)
+| Elektronegativität = 2,20
+| Gefahrensymbole = {{Gefahrensymbole|F}} (Pulver)
+| R = {{R-Sätze|11}}
+| S = {{S-Sätze|9|16|29|33}}
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ir
+| Massenzahl = 189
+| NH = 0
+| Halbwertszeit = 13,2 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,532
+| Zerfallstyp1ZP = [[Osmium|<sup>189</sup>Os]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ir
+| Massenzahl = 190
+| NH = 0
+| Halbwertszeit = 11,78 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 2,000
+| Zerfallstyp1ZP = [[Osmium|<sup>190</sup>Os]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ir
+| Massenzahl = 191
+| NH = 37,3
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Ir
+| Massenzahl = 192
+| NH = 0
+| Halbwertszeit = 73,830 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,460
+| Zerfallstyp1ZP = [[Platin|<sup>192</sup>Pt]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 1,046
+| Zerfallstyp2ZP = [[Osmium|<sup>192</sup>Os]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ir
+| Massenzahl = 192[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 241 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp1ZE = 0,155
+| Zerfallstyp1ZP = <sup>192</sup>Ir
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ir
+| Massenzahl = 193
+| NH = '''62,7'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ir
+| Massenzahl = 194
+| NH = 0
+| Halbwertszeit = 19,15 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 2,247
+| Zerfallstyp1ZP = [[Platin|<sup>194</sup>Pt]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ir
+| Massenzahl = 195
+| NH = 0
+| Halbwertszeit = 2,5 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 1,120
+| Zerfallstyp1ZP = [[Platin|<sup>195</sup>Pt]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Ir
+| Massenzahl_1 = 191
+| Kernspin_1 = 3/2
+| Gamma_1 = 4,598 · 10<sup>6</sup>
+| Empfindlichkeit_1 = 2,53 · 10<sup>-5</sup>
+| Larmorfrequenz_1 = 3,44
+| Massenzahl_2 = 193
+| Kernspin_2 = 3/2
+| Gamma_2 = 5,006 · 10<sup>6</sup>
+| Empfindlichkeit_2 = 3,27 · 10<sup>-5</sup>
+| Larmorfrequenz_2 = 3,74
+}}
+}}
