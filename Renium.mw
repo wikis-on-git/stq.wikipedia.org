@@ -1,1 +1,129 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Rhenium
+| Symbol = Re
+| Ordnungszahl = 75
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 7
+| Periode = 6
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| Aussehen = gräulich weiß
+| Massenanteil = 1 · 10<sup>−7</sup><ref name="HoWi"/>
+<!--- Atomar --->
+| Atommasse = 186,207
+| Atomradius = 135
+| AtomradiusBerechnet = 188
+| KovalenterRadius = 159
+| VanDerWaalsRadius = 
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4[[F-Orbital|f]]<sup>14</sup>5d<sup>5</sup>6[[S-Orbital|s]]<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 13, 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 760
+| Ionisierungsenergie_2 = 1260
+| Ionisierungsenergie_3 = 2510
+| Ionisierungsenergie_4 = 3640
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = hexagonal
+| Dichte = 21,02 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 
+| Magnetismus = 
+| Schmelzpunkt_K = 3459
+| Schmelzpunkt_C = 3186
+| Siedepunkt_K = 5869
+| Siedepunkt_C = 5596
+| MolaresVolumen = 8,86 · 10<sup>−6</sup>
+| Verdampfungswärme = 705
+| Schmelzwärme = 33
+| Dampfdruck = 
+| RefTempDampfdruck_K = 3453
+| Schallgeschwindigkeit = 4700
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 137
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 5,56 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 48
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = −2, 2, 4, '''6''', 7
+| Oxide = 
+| Basizität = leicht [[Säure|sauer]]
+| Normalpotential = −0,276 [[Volt|V]] (ReO<sub>2</sub> + 4H<sup>+</sup> + 4e<sup>−</sup><br />→ Re + 2H<sub>2</sub>O)
+| Elektronegativität = 1,9
+| Gefahrensymbole = '''Pulver'''<br />{{Gefahrensymbole|F}}<ref name="BGIA GESTIS">{{GESTIS|Name=Rhenium-Pulver|ZVG= |CAS=7440-15-5 |Datum=1.12.2007}} (Dies gilt nur für Pulver, als kompaktes Material ist Rhenium ungefährlich)</ref>
+| R = {{R-Sätze|11}}<ref name="BGIA GESTIS"/> (Pulver)
+| S = {{S-Sätze|16}}<ref name="BGIA GESTIS"/>(Pulver)
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Re
+| Massenzahl = 185
+| NH = 37,4
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Re
+| Massenzahl = 186
+| NH = 0
+| Halbwertszeit = 89,25 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 1,069
+| Zerfallstyp1ZP = [[Osmium|<sup>186</sup>Os]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 0,582
+| Zerfallstyp2ZP = [[Wolfram|<sup>186</sup>W]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Re
+| Massenzahl = 186[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 200.000 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp1ZE = 0,149
+| Zerfallstyp1ZP = <sup>186</sup>Re
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp2ZE = 1,218
+| Zerfallstyp2ZP = [[Osmium|<sup>186</sup>Os]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Re
+| Massenzahl = 187
+| NH = '''62,6'''
+| Halbwertszeit = 4,12 · 10<sup>10</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 0,003
+| Zerfallstyp1ZP = [[Osmium|<sup>187</sup>Os]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Re
+| Massenzahl = 188
+| NH = 0
+| Halbwertszeit = 17,021 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 2,120
+| Zerfallstyp1ZP = [[Osmium|<sup>188</sup>Os]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Re
+| Massenzahl_1 = 185
+| Kernspin_1 = 5/2
+| Gamma_1 = 6.1057 · 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,137
+| Larmorfrequenz_1 =45
+| Massenzahl_2 = 187
+| Kernspin_2 = 5/2
+| Gamma_2 = 6.1682 · 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,133
+| Larmorfrequenz_2 = 45,5
+}}
+}}
