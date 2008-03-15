@@ -1,1 +1,203 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Polonium
+| Symbol = Po
+| Ordnungszahl = 84
+| Serie = [[Metalle]]
+| Gruppe = 16
+| Periode = 6
+| Block = p
+| Serienfarbe = DarkGray
+| Aussehen = silbrig
+| Massenanteil = 2 · 10<sup>-14</sup>
+| Atommasse = 209,98
+| Atomradius = 190
+| AtomradiusBerechnet = 135
+| KovalenterRadius = -
+| VanDerWaalsRadius = -
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4f<sup>14</sup>5d<sup>10</sup>6s<sup>2</sup>6p<sup>4</sup>
+| ElektronenProEnergieNiveau =  2, 8, 18, 32, 18, 6
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 812,1
+| Ionisierungsenergie_2 = 
+| Aggregatzustand = fest
+| Modifikationen =  α-Po, β-Po
+| Kristallstruktur = kubisch-primitiv (α-Po)<br />rhomboedrisch (β-Po)
+| Dichte = 9,196 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 
+| Magnetismus = 
+| Schmelzpunkt_K = 527
+| Schmelzpunkt_C = 254
+| Siedepunkt_K = 1235
+| Siedepunkt_C = 962
+| MolaresVolumen = 22,97 · 10<sup>-6</sup>
+| Verdampfungswärme = 102
+| Schmelzwärme = 60,1
+| Dampfdruck = 0,0176
+| RefTempDampfdruck_K = 527
+| Schallgeschwindigkeit = ?
+| RefTempSchallgeschwindigkeit_K = 
+| SpezifischeWärmekapazität = ?
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit =  2,19 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 20
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = (-2) 2, '''4''', 6
+| Oxide = PoO<sub>2</sub>
+| Basizität = amphoter
+| Normalpotential =  0,9 [[Volt|V]] (Po<sup>2+</sup> + 2e<sup>-</sup> ? Po)
+| Elektronegativität = 2,0
+| Gefahrensymbole ={{Gefahrensymbole|-}}<ref>[http://www.baua.de/nn_12340/sid_1A5AC775824A933632DA5597DF415EA1/nsc_true/de/Themen-von-A-Z/Gefahrstoffe/Rechtstexte/pdf/RL-67-548-EWG-Anhang-I.pdf Anhang I der Richtlinie RL 67/548/EWG der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin]</ref>
+| R                  = {{R-Sätze|-}}<ref>[http://www.baua.de/nn_12340/sid_1A5AC775824A933632DA5597DF415EA1/nsc_true/de/Themen-von-A-Z/Gefahrstoffe/Rechtstexte/pdf/RL-67-548-EWG-Anhang-I.pdf Anhang I der Richtlinie RL 67/548/EWG der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin]</ref>
+| S                  = {{S-Sätze|-}}<ref>[http://www.baua.de/nn_12340/sid_1A5AC775824A933632DA5597DF415EA1/nsc_true/de/Themen-von-A-Z/Gefahrstoffe/Rechtstexte/pdf/RL-67-548-EWG-Anhang-I.pdf Anhang I der Richtlinie RL 67/548/EWG der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin]</ref>
+| Radioaktiv = Ja
+| Isotope = 
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Po
+| Massenzahl = 208
+| NH = 0
+| Halbwertszeit = 2,898 [[Jahr|a]]
+| Zerfallstyp1ZM =  [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,215
+| Zerfallstyp1ZP = [[Blei|<sup>204</sup>Pb]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 1,401
+| Zerfallstyp2ZP = [[Bismut|<sup>208</sup>Bi]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Po
+| Massenzahl = 209
+| NH = 0
+| Halbwertszeit = 103 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 4,979
+| Zerfallstyp1ZP = [[Blei|<sup>205</sup>Pb]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 1,893
+| Zerfallstyp2ZP = [[Bismut|<sup>209</sup>Bi]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 210
+| NH = '''99,998'''
+| Halbwertszeit = 138,376 [[Tag|d]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 5,407
+| Zerfallstyp1ZP = [[Blei|<sup>206</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 211
+| NH = 6 · 10<sup>-12</sup>
+| Halbwertszeit = 0,516 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 7,595
+| Zerfallstyp1ZP = [[Blei|<sup>207</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = <sup>[[metastabiler Zustand|m]]</sup>Po
+| Massenzahl = 211
+| NH = 0
+| Halbwertszeit = 25 s
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 9,057
+| Zerfallstyp1ZP = [[Blei|<sup>207</sup>Pb]]
+| Zerfallstyp2ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp2ZE = 1,462
+| Zerfallstyp2ZP = <sup>211</sup>Po
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 212
+| NH = 2·10<sup>-14</sup>
+| Halbwertszeit = 304 ns
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 8,78 
+| Zerfallstyp1ZP = [[Blei|<sup>208</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = <sup>[[metastabiler Zustand|m]]</sup>Po
+| Massenzahl = 212
+| NH = 0
+| Halbwertszeit = 45,1 s
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 11,8
+| Zerfallstyp1ZP = [[Blei|<sup>208</sup>Pb]]
+| Zerfallstyp2ZM = [[Isomerie-Übergang|IT]]
+| Zerfallstyp2ZE = 2,922
+| Zerfallstyp2ZP = <sup>212</sup>Po
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 213
+| NH = 0
+| Halbwertszeit = 4 µs
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 8,5
+| Zerfallstyp1ZP = [[Blei|<sup>209</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 214
+| NH = 1 · 10<sup>-11</sup> 
+| Halbwertszeit = 164 µs
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 7,69
+| Zerfallstyp1ZP = [[Blei|<sup>210</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Po
+| Massenzahl = 215
+| NH = 7 · 10<sup>-12</sup>
+| Halbwertszeit = 1,781 ms
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 7,526
+| Zerfallstyp1ZP = [[Blei|<sup>211</sup>Pb]]
+| Zerfallstyp2ZM = [[Betastrahlung|β]]
+| Zerfallstyp2ZE = 0,721
+| Zerfallstyp2ZP = [[Astat|<sup>215</sup>At]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 216
+| NH = 1 · 10<sup>-8</sup> 
+| Halbwertszeit = 0,15 s
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,78
+| Zerfallstyp1ZP = [[Blei|<sup>212</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 217
+| NH = 0
+| Halbwertszeit = 2s
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,7
+| Zerfallstyp1ZP = [[Blei|<sup>213</sup>Pb]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Po
+| Massenzahl = 218
+| NH = 1,6 · 10<sup>-5</sup>
+| Halbwertszeit = 3,05 min
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 6,00
+| Zerfallstyp1ZP = [[Blei|<sup>214</sup>Pb]]
+}}
+| NMREigenschaften = '''unbekannt'''
+}}
