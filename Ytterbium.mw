@@ -1,1 +1,173 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Ytterbium
+| Symbol = Yb
+| Ordnungszahl = 70
+| Serie = [[Lanthanoide]]
+| Gruppe = La
+| Periode = 6
+| Block = f
+| Serienfarbe = Plum
+<!--- Allgemein --->
+| Aussehen = silbrig weiß
+| Massenanteil = 3 · 10<sup>-3</sup>
+<!--- Atomar --->
+| Atommasse = 173,04
+| Atomradius = 175
+| AtomradiusBerechnet = 222
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>14</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 8, 2
+| Austrittsarbeit =
+| Ionisierungsenergie_1 = 603,4
+| Ionisierungsenergie_2 = 1174,8
+| Ionisierungsenergie_3 = 2417
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 1
+| Kristallstruktur = [[Kubisches Gitter|Kubisch-flächenzentriert]]
+| Dichte = 6,965 g/cm<sup>3</sup>
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 1097
+| Schmelzpunkt_C = 824
+| Siedepunkt_K = 1467
+| Siedepunkt_C = 1194
+| MolaresVolumen = 24,84 · 10<sup>-6</sup>
+| Verdampfungswärme = 128,9
+| Schmelzwärme = 7,66
+| Dampfdruck = 395
+| RefTempDampfdruck_K = 1097
+| Schallgeschwindigkeit = 1590
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 150
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit = 3,51 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit = 34,9
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände = 2, '''3'''
+| Oxide =
+| Basizität = schwach [[Base (Chemie)|basisch]]
+| Normalpotential = -2,22 [[Volt|V]] (Yb<sup>3+</sup> + 3e<sup>-</sup> → Yb)
+| Elektronegativität = 1,1
+| Gefahrensymbole = <!--- <div>{{Gefahrensymbole|-}}</div> --->
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Yb
+| Massenzahl = 166
+| NH = 0
+| Halbwertszeit = 56,7 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,304
+| Zerfallstyp1ZP = [[Thulium|<sup>166</sup>Tm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Yb
+| Massenzahl = 167
+| NH = 0
+| Halbwertszeit = 17,5 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,954
+| Zerfallstyp1ZP = [[Thulium|<sup>167</sup>Tm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Yb
+| Massenzahl = 168
+| NH = 0,13
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Yb
+| Massenzahl = 169
+| NH = 0
+| Halbwertszeit = 32,026 [[Tag|d]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,909
+| Zerfallstyp1ZP = [[Thulium|<sup>169</sup>Tm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Yb
+| Massenzahl = 170
+| NH = 3,05
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Yb
+| Massenzahl = 171
+| NH = 14,3
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Yb
+| Massenzahl = 172
+| NH = 21,9
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Yb
+| Massenzahl = 173
+| NH = 16,12
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Yb
+| Massenzahl = 174
+| NH = '''31,8'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Yb
+| Massenzahl = 175
+| NH = 0
+| Halbwertszeit = 4,185 [[Tag|d]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,470
+| Zerfallstyp1ZP = [[Lutetium|<sup>175</sup>Lu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Yb
+| Massenzahl = 176
+| NH = 12,7
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Yb
+| Massenzahl = 177
+| NH = 0
+| Halbwertszeit = 1,911 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 1,399
+| Zerfallstyp1ZP = [[Lutetium|<sup>177</sup>Lu]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Yb
+| Massenzahl = 178
+| NH = 0
+| Halbwertszeit = 74 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastrahlung|β<sup>&minus;</sup>]]
+| Zerfallstyp1ZE = 0,645
+| Zerfallstyp1ZP = [[Lutetium|<sup>178</sup>Lu]]
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Yb
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
