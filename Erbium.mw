@@ -1,1 +1,142 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name=Erbium
+| Symbol= Er
+| Ordnungszahl= 68
+| Massenzahl= 166
+| Serie= [[Lanthanoide]]
+| Gruppe = La
+| Periode = 6
+| Block= f
+| Serienfarbe= Plum
+<!--- Allgemein --->
+| Aussehen= silbrig weiß
+| Massenanteil= 2 · 10<sup>-4</sup>
+<!--- Atomar --->
+| Atommasse= 167,26
+| Atomradius= 175,7
+| AtomradiusBerechnet= ?
+| KovalenterRadius= 157
+| VanDerWaalsRadius= ?
+| Elektronenkonfiguration= <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki>4f<sup>12</sup>6s<sup>2</sup>
+| ElektronenProEnergieNiveau=2, 8, 18, 30, 8, 2
+| Austrittsarbeit= 
+| Ionisierungsenergie_1= 589,3
+| Ionisierungsenergie_2= 1150
+| Ionisierungsenergie_3= 2194
+<!--- Physikalisch --->
+| Aggregatzustand= fest
+| Modifikationen= 
+| Kristallstruktur= hexagonal
+| Dichte= 9,066 g/cm<sup>3</sup>
+| RefTempDichte_K=
+| Mohshärte=-
+| Magnetismus=-
+| Schmelzpunkt_K=1795
+| Schmelzpunkt_C=1522
+| Siedepunkt_K=2783
+| Siedepunkt_C=2510
+| MolaresVolumen=18,4 · 10<sup>-6</sup>
+| Verdampfungswärme=292,88
+| Schmelzwärme=17,15
+| Dampfdruck=-
+| RefTempDampfdruck_K=
+| Schallgeschwindigkeit= 
+| RefTempSchallgeschwindigkeit_K=
+| SpezifischeWärmekapazität=168
+| RefTempSpezifischeWärmekapazität= 300
+| ElektrischeLeitfähigkeit= 0
+| RefTempElektrischeLeitfähigkeit_K=
+| Wärmeleitfähigkeit= 14,3
+| RefTempWärmeleitfähigkeit_K= 300
+<!--- Chemisch --->
+| Oxidationszustände= 3
+| Oxide= 
+| Basizität= [[Base (Chemie)|basisch]]
+| Normalpotential=  -2,31 [[Volt|V]] (Er<sup>3+</sup> + 3e<sup>-</sup> → Er)
+| Elektronegativität=  1,24
+| Gefahrensymbole= <!-- {{Vorlage:Gefahrensymbole|-}} -->
+<!--- Isotope --->
+| Isotope=
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 68
+| Massenzahl=162
+| Symbol=Er
+| NH=0,14
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=163
+| Symbol=Er
+| NH=0
+| Halbwertszeit=75 [[Minute|min]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=1,210
+| Zerfallstyp1ZP=[[Holmium|<sup>163</sup>Ho]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 68
+| Massenzahl=164
+| Symbol=Er
+| NH=1,61
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=165
+| Symbol=Er
+| NH=0
+| Halbwertszeit=10,36 [[Stunde|h]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE=0,376
+| Zerfallstyp1ZP=[[Holmium|<sup>165</sup>Ho]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 68
+| Massenzahl=166
+| Symbol=Er
+| NH=33,6
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| Massenzahl=167
+| OZ= 68
+| Symbol=Er
+| NH=22,95
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 68
+| Massenzahl=168
+| Symbol=Er
+| NH=26,8
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| Massenzahl=169
+| Symbol=Er
+| NH=0
+| Halbwertszeit=9,40 [[Tag|d]]
+| AnzahlZerfallstypen=1
+| Zerfallstyp1ZM=[[Betastrahlung|β-]]
+| Zerfallstyp1ZE=0,351
+| Zerfallstyp1ZP=[[Thulium|<sup>169</sup>Tm]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen= 0
+| OZ= 68
+| Massenzahl=170
+| Symbol=Er
+| NH=14,9
+}}
+| NMREigenschaften=
+{{Infobox Chemisches Element/NMR
+| Symbol=Er
+| Massenzahl_1=167
+| Kernspin_1=+7/2
+| Gamma_1=7,752 · 10<sup>6</sup>
+| Empfindlichkeit_1=-
+| Larmorfrequenz_1=-
+}}
+}}
