@@ -1,0 +1,105 @@
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Nobelium
+| Symbol = No
+| Ordnungszahl = 102
+| Serie = [[Actinoide]]
+| Gruppe = Ac
+| Periode = 7
+| Block = f
+| Serienfarbe = Orchid
+<!--- Allgemein --->
+| Aussehen =
+| Massenanteil = 0
+<!--- Atomar --->
+| Atommasse = 259
+| Atomradius =
+| AtomradiusBerechnet =
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = ([[Radon|Rn]]) 5f<sup>14</sup>7s<sup>2</sup>
+| ElektronenProEnergieNiveau =
+| Austrittsarbeit =
+| Ionisierungsenergie_1 =
+| Ionisierungsenergie_2 =
+| Ionisierungsenergie_3 =
+| Ionisierungsenergie_4 =
+| Ionisierungsenergie_5 =
+| Ionisierungsenergie_6 =
+| Ionisierungsenergie_7 =
+| Ionisierungsenergie_8 =
+| Ionisierungsenergie_9 =
+| Ionisierungsenergie_10 =
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen =
+| Kristallstruktur =
+| Dichte =
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K = 1100
+| Schmelzpunkt_C = 1373
+| Siedepunkt_K =
+| Siedepunkt_C =
+| MolaresVolumen =
+| Verdampfungswärme =
+| Schmelzwärme =
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit =
+| RefTempSchallgeschwindigkeit_K =
+| SpezifischeWärmekapazität =
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit =
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit =
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände =
+| Oxide =
+| Basizität =
+| Normalpotential =
+| Elektronegativität =
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja 
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = No
+| Massenzahl = 257
+| NH = 0
+| Halbwertszeit = 25 [[Sekunde|s]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 8,450
+| Zerfallstyp1ZP = [[Fermium|<sup>253</sup>Fm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 3
+| Symbol = No
+| Massenzahl = 259
+| NH = 0
+| Halbwertszeit = 58 [[Minute|min]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 7,910
+| Zerfallstyp1ZP = [[Fermium|<sup>255</sup>Fm]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 0,500
+| Zerfallstyp2ZP = [[Mendelevium|<sup>259</sup>Md]]
+| Zerfallstyp3ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp3ZE =
+| Zerfallstyp3ZP = 
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = No
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
