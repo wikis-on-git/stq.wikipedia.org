@@ -1,1 +1,149 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Blei
+| Symbol = Pb
+| Ordnungszahl = 82
+| Serie = [[Metalle]]
+| Gruppe = 14
+| Periode = 6
+| Block = p
+| Serienfarbe = DarkGray
+| Aussehen = Bläulich weiß
+| Massenanteil = 2 · 10<sup>-3</sup>
+| Atommasse = 207,2
+| Atomradius = 175
+| AtomradiusBerechnet = 154
+| KovalenterRadius = 146
+| VanDerWaalsRadius = 202
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Xenon|Xe]]<nowiki>]</nowiki> 4[[F-Orbital|f]]<sup>14</sup>5[[D-Orbital|d]]<sup>10</sup>6[[S-Orbital|s]]<sup>2</sup>6p<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 18, 4
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 715,6
+| Ionisierungsenergie_2 = 1450,5
+| Ionisierungsenergie_3 = 3081,5
+| Ionisierungsenergie_4 = 4083
+| Ionisierungsenergie_5 = 
+| Aggregatzustand = fest
+| Modifikationen = nur eine Modifikation
+| Kristallstruktur = kubisch flächenzentriert
+| Dichte = 11,34 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 1,5
+| Magnetismus = [[Diamagnetismus|diamagnetisch]]
+| Schmelzpunkt_K = 600,61
+| Schmelzpunkt_C = 327,43
+| Siedepunkt_K = ca. 2023
+| Siedepunkt_C = 1750
+| MolaresVolumen = 18,26 · 10<sup>-6</sup>
+| Verdampfungswärme = 181
+| Schmelzwärme = 4,77
+| Dampfdruck = 4,21 · 10<sup>-7</sup>
+| RefTempDampfdruck_K = 600
+| Schallgeschwindigkeit = 1200
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 129
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 4,84 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 35,3
+| RefTempWärmeleitfähigkeit_K = 
+| Oxidationszustände = '''2''', 4
+| Oxide = Pb<sub>2</sub>O<sub>3</sub>
+| Basizität = amphoter
+| Normalpotential = -0,1262 [[Volt|V]]
+| Elastitätsmodul = 16
+| Poissonzahl = 0,45
+|(Pb<sup>2+</sup> + 2e<sup>-</sup> → Pb)
+| Elektronegativität = 1,9
+| RL 67/548/EWG      = Nein
+| Gefahrensymbole    = {{Gefahrensymbole|T|N}}
+| R                  = {{R-Sätze|61|20/22|33|50/53|62}}<ref name="Merck-SDB">[http://chemdat.merck.de/documents/sds/emd/deu/de/1073/107362.pdf Sicherheitsdatenblatt (Merck)]</ref>
+| S                  = {{S-Sätze|53|45|60|61}}<ref name="Merck-SDB"/>
+| Radioaktiv = 
+| Isotope =
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pb
+| Massenzahl = 202
+| NH = 0
+| Halbwertszeit = 52500 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 2,598
+| Zerfallstyp1ZP = [[Quecksilber|<sup>198</sup>Hg]]
+| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZE = 0,050
+| Zerfallstyp2ZP = [[Thallium|<sup>202</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pb
+| Massenzahl = 203
+| NH = 0
+| Halbwertszeit = 51,873 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,975
+| Zerfallstyp1ZP = [[Thallium|<sup>203</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pb
+| Massenzahl = 204
+| NH = 1,4
+| Halbwertszeit = >1,4 · 10<sup>17</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 2,186
+| Zerfallstyp1ZP = [[Quecksilber|<sup>200</sup>Hg]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pb
+| Massenzahl = 205
+| NH = 0
+| Halbwertszeit = 1,53 · 10<sup>7</sup> [[Jahr|a]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,051
+| Zerfallstyp1ZP = [[Thallium|<sup>205</sup>Tl]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pb
+| Massenzahl = 206
+| NH = 24,1
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pb
+| Massenzahl = 207
+| NH = 22,1
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Pb
+| Massenzahl = 208
+| NH = '''52,4'''
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Pb
+| Massenzahl = 209
+| NH = 0
+| Halbwertszeit = 3,253 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp1ZE = 0,644
+| Zerfallstyp1ZP = [[Bismut|<sup>209</sup>Bi]]
+}}
+{{Vorlage:Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Pb
+| Massenzahl = 210
+| NH = 0
+| Halbwertszeit = 22,3 [[Jahr|a]]
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 3,792
+| Zerfallstyp1ZP = [[Quecksilber|<sup>206</sup>Hg]]
+| Zerfallstyp2ZM = [[Betastrahlung|β]]<sup>−</sup>
+| Zerfallstyp2ZE = 0,064
+| Zerfallstyp2ZP = [[Bismut|<sup>210</sup>Bi]]
+}}
+| NMREigenschaften = 
+}}
