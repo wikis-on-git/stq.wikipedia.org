@@ -1,0 +1,147 @@
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Mendelevium
+| Symbol = Md
+| Ordnungszahl = 101
+| Serie = [[Actinoide]]
+| Gruppe = Ac
+| Periode = 7
+| Block = f
+| Serienfarbe = Orchid
+<!--- Allgemein --->
+| Aussehen =
+| Massenanteil = 0
+<!--- Atomar --->
+| Atommasse = 258
+| Atomradius =
+| AtomradiusBerechnet =
+| KovalenterRadius =
+| VanDerWaalsRadius =
+| Elektronenkonfiguration = ([[Radon|Rn]]) 5f<sup>13</sup>7s<sup>2</sup>
+| ElektronenProEnergieNiveau =
+| Austrittsarbeit =
+| Ionisierungsenergie_1 =
+| Ionisierungsenergie_2 =
+| Ionisierungsenergie_3 =
+| Ionisierungsenergie_4 =
+| Ionisierungsenergie_5 =
+| Ionisierungsenergie_6 =
+| Ionisierungsenergie_7 =
+| Ionisierungsenergie_8 =
+| Ionisierungsenergie_9 =
+| Ionisierungsenergie_10 =
+<!--- Physikalisch --->
+| Aggregatzustand =
+| Modifikationen =
+| Kristallstruktur =
+| Dichte =
+| RefTempDichte_K =
+| Mohshärte =
+| Magnetismus =
+| Schmelzpunkt_K =
+| Schmelzpunkt_C =
+| Siedepunkt_K =
+| Siedepunkt_C =
+| MolaresVolumen =
+| Verdampfungswärme =
+| Schmelzwärme =
+| Dampfdruck =
+| RefTempDampfdruck_K =
+| Schallgeschwindigkeit =
+| RefTempSchallgeschwindigkeit_K =
+| SpezifischeWärmekapazität =
+| RefTempSpezifischeWärmekapazität_K =
+| ElektrischeLeitfähigkeit =
+| RefTempElektrischeLeitfähigkeit_K =
+| Wärmeleitfähigkeit =
+| RefTempWärmeleitfähigkeit_K =
+<!--- Chemisch --->
+| Oxidationszustände =
+| Oxide =
+| Basizität =
+| Normalpotential =
+| Elektronegativität =
+| Gefahrensymbole = {{Gefahrensymbole|?}}
+| Radioaktiv = Ja
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Md
+| Massenzahl = 257
+| NH = 0
+| Halbwertszeit = 5,52 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 0,409
+| Zerfallstyp1ZP = [[Fermium|<sup>257</sup>Fm]]
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 7,558
+| Zerfallstyp2ZP = [[Einsteinium|<sup>253</sup>Es]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Md
+| Massenzahl = 258
+| NH = 0
+| Halbwertszeit = 51,5 [[Tag|d]]
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 7,241
+| Zerfallstyp1ZP = [[Einsteinium|<sup>254</sup>Es]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE =
+| Zerfallstyp2ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Md
+| Massenzahl = 258[[Metastabiler Zustand|m]]
+| NH = 0
+| Halbwertszeit = 60 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZE = 1,230
+| Zerfallstyp1ZP = [[Fermium|<sup>258</sup>Fm]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Md
+| Massenzahl = 259
+| NH = 0
+| Halbwertszeit = 1,60 [[Stunde|h]]
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp1ZE =
+| Zerfallstyp1ZP = 
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 7,100
+| Zerfallstyp2ZP = [[Einsteinium|<sup>255</sup>Es]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 4
+| Symbol = Md
+| Massenzahl = 260
+| NH = 0
+| Halbwertszeit = 27,8 [[Tag|d]]
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp1ZE = 
+| Zerfallstyp1ZP = 
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 7,000
+| Zerfallstyp2ZP = [[Einsteinium|<sup>256</sup>Es]]
+| Zerfallstyp3ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp3ZE =
+| Zerfallstyp3ZP = [[Fermium|<sup>260</sup>Fm]]
+| Zerfallstyp4ZM = [[Betastrahlung|&beta;<sup>&minus;</sup>]]
+| Zerfallstyp4ZE = 1,000
+| Zerfallstyp4ZP = [[Nobelium|<sup>260</sup>No]]
+}}
+| NMREigenschaften =
+<!----
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Md
+| Massenzahl_1 =
+| Kernspin_1 =
+| Gamma_1 =
+| Empfindlichkeit_1 =
+| Larmorfrequenz_1 =
+}}
+---->
+}}
