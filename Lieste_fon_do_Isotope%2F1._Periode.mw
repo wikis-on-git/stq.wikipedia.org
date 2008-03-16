@@ -1,0 +1,108 @@
+Dieser Artikel ist eine '''Liste der [[Isotop]]e''' aller bekannten [[Chemisches Element|Elemente]] der '''ersten [[Periode des Periodensystems|Periode]]'''.
+
+Eine Übersicht über alle weiteren Isotope sowie eine Legende ist im Hauptartikel ''[[Liste der Isotope]]'' zu finden.
+
+==1 [[Wasserstoff]]==
+{| class="prettytable" width="95%" 
+|- class="hintergrundfarbe6" align="left"
+! Isotop !! Halbwertszeit !! Zerfallsenergie in MeV !! Spinparität !! Zerfallsart(en) oder Häufigkeit in %
+|-
+|[[Protium|<sup>1</sup>H (Protium)]]
+|stabil
+|
+|1/2+ 
+| Häufigkeit=99,985 
+|-
+|[[Deuterium|<sup>2</sup>H (Deuterium)]]
+|stabil
+|
+|1+ 
+| Häufigkeit=0,015 
+|-
+|[[Tritium|<sup>3</sup>H (Tritium)]]
+|12,33 a
+|0,019
+|1/2+ 
+| β<sup>−</sup>=100
+|-
+|<sup>4</sup>H
+|9,93696·10<sup>−23</sup> s
+|4,6(9)
+|2− 
+| n=100
+|-
+|<sup>5</sup>H
+|8,01930·10<sup>−23</sup> s
+|
+|(1/2+) 
+| n=100
+|-
+|<sup>6</sup>H
+|3,265·10<sup>−22</sup> s
+|1,6(4)
+|(2−) 
+| n=100
+|-
+|<sup>7</sup>H
+|2,3(6)·10<sup>−23</sup> s
+|20,(5)
+|(1/2+) 
+| n=100
+|}
+
+
+==2 [[Helium]]==
+{| class="prettytable" width="95%"
+|- class="hintergrundfarbe6" align="left"
+! Isotop !! Halbwertszeit !! Zerfallsenergie in MeV !! Spinparität !! Zerfallsart(en) oder Häufigkeit in %
+|-
+|<sup>3</sup>He
+|stabil
+|
+|1/2+
+| Häufigkeit=0,000137
+|-
+|<sup>4</sup>He
+|stabil
+|
+|0+
+| Häufigkeit=99,999863
+|-
+|<sup>5</sup>He
+|7,618 · 10<sup>-22</sup> s
+|0,890
+|3/2-
+| n=100
+|-
+|<sup>6</sup>He
+|806,7 ms
+|3,508
+|0+
+| β<sup>-</sup>=100
+|-
+|<sup>7</sup>He
+|2,857 · 10<sup>-21</sup> s
+|0,440
+|(3/2)-
+| n=100
+|-
+|<sup>8</sup>He
+|119,0 ms
+|10,658 (β<sup>-</sup>) 8,619(β<sup>-</sup>n)
+|0+
+| β<sup>-</sup>=100, β<sup>-</sup>n=16
+|-
+|<sup>9</sup>He
+|1,5 · 10<sup>-21</sup> s
+|1,150
+|(1/2-)
+| n=100
+|-
+|<sup>10</sup>He
+|2,7 · 10<sup>-21</sup> s
+|0,30
+|0+
+| n=100
+|}
+
+[[Kategorie:Liste (Chemie)|Isotope/1. Periode]]
