@@ -1,0 +1,273 @@
+Dieser Artikel ist eine '''Liste der [[Isotop]]e''' aller bekannten [[Chemisches Element|chemischen Elemente]] sortiert nach der [[Ordnungszahl]]. Für jedes Isotop sind seine Häufigkeit im natürlichen Vorkommen, die Spinparität, radioaktive [[Radioaktivität#Zerfallsarten|Zerfallsart]] und [[Halbwertszeit]] angegeben.
+
+== Übersicht ==
+
+{| id="closedNavBar" class="noprint" width="100%"
+|-
+|
+<div class="NavFrame" style="clear: both; padding: 2px; border: 1px solid #aaaaaa; text-align: center; border-collapse: collapse; font-size: 95%;">
+<div style="height: 1.6em; font-weight: bold; font-size: 100%; background-color: #efefef;"><font color="green">Inhalt</font></div>
+<div class="NavContent" style="font-size: 100%;">
+{| align="center" style="font-size:small" id="toc"
+|-
+|style="text-align:center;background-color:#a0ffa0;color:red;border:1px solid black;"|[[Liste_der_Isotope/1._Periode#1_Wasserstoff|H]]
+|colspan="17"|<br />
+|style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|[[Liste_der_Isotope/1._Periode#2_Helium|He]]
+|-
+|style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#3_Lithium|Li]]
+|style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#4_Beryllium|Be]]
+|colspan="11"|<br />
+|style="text-align:center;background-color:#cccc99;color:black;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#5_Bor|B]]
+|style="text-align:center;background-color:#a0ffa0;color:black;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#6_Kohlenstoff|C]]
+|style="text-align:center;background-color:#a0ffa0;color:red;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#7_Stickstoff|N]]
+|style="text-align:center;background-color:#a0ffa0;color:red;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#8_Sauerstoff|O]]
+|style="text-align:center;background-color:#ffff99;color:red;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#9_Fluor|F]]
+|style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|[[Liste_der_Isotope/2._Periode#10_Neon|Ne]]
+|-
+|style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#11_Natrium|Na]]
+|style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#12_Magnesium|Mg]]
+|colspan="11"|<br />
+|style="text-align:center;background-color:#cccccc;color:black;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#13_Aluminium|Al]]
+|style="text-align:center;background-color:#cccc99;color:black;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#14_Silicium|Si]]
+|style="text-align:center;background-color:#a0ffa0;color:black;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#15_Phosphor|P]]
+|style="text-align:center;background-color:#a0ffa0;color:black;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#16_Schwefel|S]]
+|style="text-align:center;background-color:#ffff99;color:red;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#17_Chlor|Cl]]
+|style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|[[Liste_der_Isotope/3._Periode#18_Argon|Ar]]
+|-
+|style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#19_Kalium|K]]
+|style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#20_Calcium|Ca]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#21_Scandium|Sc]]
+|<br />
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#22_Titan|Ti]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#23_Vanadium|V]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#24_Chrom|Cr]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#25_Mangan|Mn]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#26_Eisen|Fe]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#27_Cobalt|Co]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#28_Nickel|Ni]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#29_Kupfer|Cu]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#30_Zink|Zn]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#31_Gallium|Ga]]
+|style="text-align:center;background-color:#cccc99;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#32_Germanium|Ge]]
+|style="text-align:center;background-color:#cccc99;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#33_Arsen|As]]
+|style="text-align:center;background-color:#a0ffa0;color:black;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#34_Selen|Se]]
+|style="text-align:center;background-color:#ffff99;color:green;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#35_Brom|Br]]
+|style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|[[Liste_der_Isotope/4._Periode#36_Krypton|Kr]]
+|-
+|style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#37_Rubidium|Rb]]
+|style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#38_Strontium|Sr]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#39_Yttrium|Y]]
+|<br />
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#40_Zirconium|Zr]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#41_Niob|Nb]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#42_Molybdän|Mo]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dashed black;"|[[Liste_der_Isotope/5._Periode#43_Technetium|Tc]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#44_Ruthenium|Ru]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#45_Rhodium|Rh]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#46_Palladium|Pd]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#47_Silber|Ag]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#48_Cadmium|Cd]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#49_Indium|In]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#50_Zinn|Sn]]
+|style="text-align:center;background-color:#cccc99;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#51_Antimon|Sb]]
+|style="text-align:center;background-color:#cccc99;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#52_Tellur|Te]]
+|style="text-align:center;background-color:#ffff99;color:black;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#53_Iod|I]]
+|style="text-align:center;background-color:#c0ffff;color:red;border:1px solid black;"|[[Liste_der_Isotope/5._Periode#54_Xenon|Xe]]
+|-
+|style="text-align:center;background-color:#ff6666;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#55_Cäsium|Cs]]
+|style="text-align:center;background-color:#ffdead;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#56_Barium|Ba]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#57_Lanthan|La]]
+|style="vertical-align: top; text-align:center;background-color:#ffbfff;"|*
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#72_Hafnium|Hf]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#73_Tantal|Ta]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#74_Wolfram|W]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#75_Rhenium|Re]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#76_Osmium|Os]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#77_Iridium|Ir]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#78_Platin|Pt]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#79_Gold|Au]]
+|style="text-align:center;background-color:#ffc0c0;color:green;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#80_Quecksilber|Hg]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#81_Thallium|Tl]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#82_Blei|Pb]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#83_Bismut|Bi]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px dashed black;"|[[Liste_der_Isotope/6._Periode#84_Polonium|Po]]
+|style="text-align:center;background-color:#ffff99;color:black;border:1px dashed black;"|[[Liste_der_Isotope/6._Periode#85_Astat|At]]
+|style="text-align:center;background-color:#c0ffff;color:red;border:1px dashed black;"|[[Liste_der_Isotope/6._Periode#86_Radon|Rn]]
+|-
+|style="text-align:center;background-color:#ff6666;color:black;border:1px dashed black;"|[[Liste_der_Isotope/7._Periode#87_Francium|Fr]]
+|style="text-align:center;background-color:#ffdead;color:black;border:1px dashed black;"|[[Liste_der_Isotope/7._Periode#88_Radium|Ra]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#89_Actinium|Ac]]
+|style="vertical-align: top; text-align:center;background-color:#ff99cc;"|**<br />
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#104_Rutherfordium|Rf]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#105_Dubnium|Db]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#106_Seaborgium|Sg]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#107_Bohrium|Bh]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#108_Hassium|Hs]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#109_Meitnerium|Mt]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#110_Darmstadtium|Ds]]
+|style="text-align:center;background-color:#ffc0c0;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#111_Roentgenium|Rg]]
+|style="text-align:center;background-color:#ffc0c0;color:green;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#112_Ununbium|Uub]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#113_Ununtrium|Uut]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#114_Ununquadium|Uuq]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#115_Ununpentium|Uup]]
+|style="text-align:center;background-color:#cccccc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#116_Ununhexium|Uuh]]
+|style="text-align:center;background-color:#fcfecc;color:#cccccc;"|[[Liste_der_Isotope/7._Periode#117_Ununseptium|Uus]]
+|style="text-align:center;background-color:#c0ffff;color:red;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#118_Ununoctium|Uuo]]
+|-
+|colspan="21"|<br />
+|-
+|colspan="4" style="text-align:right"|* 
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#58_Cer|Ce]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#59_Praseodym|Pr]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#60_Neodym|Nd]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px dashed black;"|[[Liste_der_Isotope/6._Periode#61_Promethium|Pm]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#62_Samarium|Sm]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#63_Europium|Eu]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#64_Gadolinium|Gd]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#65_Terbium|Tb]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#66_Dysprosium|Dy]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#67_Holmium|Ho]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#68_Erbium|Er]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#69_Thulium|Tm]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#70_Ytterbium|Yb]]
+|style="text-align:center;background-color:#ffbfff;color:black;border:1px solid black;"|[[Liste_der_Isotope/6._Periode#71_Lutetium|Lu]]
+|-
+|colspan="4" style="text-align:right"|**
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px solid black;"|[[Liste_der_Isotope/7._Periode#90_Thorium|Th]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dashed black;"|[[Liste_der_Isotope/7._Periode#91_Protactinium|Pa]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px solid black;"|[[Liste_der_Isotope/7._Periode#92_Uran|U]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dashed black;"|[[Liste_der_Isotope/7._Periode#93_Neptunium|Np]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px solid black;"|[[Liste_der_Isotope/7._Periode#94_Plutonium|Pu]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#95_Americium|Am]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#96_Curium|Cm]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#97_Berkelium|Bk]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#98_Californium|Cf]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#99_Einsteinium|Es]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#100_Fermium|Fm]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#101_Mendelevium|Md]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#102_Nobelium|No]]
+|style="text-align:center;background-color:#ff99cc;color:black;border:1px dotted black;"|[[Liste_der_Isotope/7._Periode#103_Lawrencium|Lr]]
+|}
+</div>
+</div>
+<div style="clear: both;"><!--/--></div>
+|}
+* [[#Weblinks|Weblinks]]
+
+==Legende==
+
+{| class="prettytable" 
+|- class="hintergrundfarbe6"
+! colspan="2" | Zerfallsarten
+|-
+|α
+| [[Alpha-Zerfall]] (Emission eines Heliumatomkerns)
+|-
+|β<sup>−</sup>
+|[[Beta-Zerfall|Beta−-Zerfall]] (Emission eines Elektrons)
+|-
+|β<sup>+</sup>
+|[[Beta-Zerfall|Beta+-Zerfall]] (Emission eines Positrons)
+|-
+|ββ
+|[[Doppelter Betazerfall]] (gleichzeitige Emission zweier Elektronen)
+|-
+|K
+|[[Elektroneneinfang|Einfang eines Elektrons der inneren Elektronenhülle]]
+|-
+|KEC
+|[[Doppelter Elektroneneinfang]]
+|-
+|IT
+|[[Kernisomer|Isomerer Übergang]]
+|-
+|SF
+|[[Spontanspaltung]]
+|-
+|p
+|[[Radioaktivität|Zerfall unter Emission eines Protons]]
+|-
+|n
+|[[Radioaktivität|Zerfall unter Emission eines Neutrons]]
+|-
+|Xy
+|[[Radioaktivität|Cluster-Zerfall unter Emission eines Kerns Xy]]
+|-
+|- class="hintergrundfarbe8"
+! colspan="2" | Verwendete [[Maßeinheit]]en
+|-
+|s
+|Sekunden
+|-
+|m
+|Minuten
+|-
+|h
+|Stunden (vom lat. hora)
+|-
+|d
+|Tage (vom lat. dies)
+|-
+|a
+|Jahre (vom lat. annus)
+|-
+|eV
+|[[Elektronenvolt]]
+|-
+| colspan="2" align="left" | [[Vorsätze für Maßeinheiten]]
+|}
+
+In der Spalte ''Isotop'' gibt die Zahl vor dem Element (z.&nbsp;B. bei <sup>1</sup>H die 1) die [[Massenzahl]] an. Tritt in der Bezeichnung noch ein <sup>m</sup> auf (z.&nbsp;B. <sup>16m1</sup>N), so ist damit ein [[Kernisomer]] gemeint. Die Zahl hinter dem <sup>m</sup> ist dabei eine Nummerierung falls mehrere Kernisomere auftreten.
+
+==Freies [[Neutron]]==
+{| class="prettytable" width="95%" 
+|- class="hintergrundfarbe6" align="left"
+! Isotop !! Halbwertszeit !! Zerfallsenergie in MeV !! [[Spinparität]] !! Zerfallsart(en) oder Häufigkeit in %
+|-
+|<sup>1</sup>n|| 614,6s ||0,78233||1/2+|| β<sup>−</sup>=100 
+|}
+
+
+==Isotope der Elemente==
+
+Die Liste der Isotope ist untergliedert in die jeweiligen [[Periode_des_Periodensystems|Perioden]]:
+
+* [[Liste_der_Isotope/1._Periode|'''Liste der Isotope der 1. Periode''']]
+* [[Liste_der_Isotope/2._Periode|'''Liste der Isotope der 2. Periode''']]
+* [[Liste_der_Isotope/3._Periode|'''Liste der Isotope der 3. Periode''']]
+* [[Liste_der_Isotope/4._Periode|'''Liste der Isotope der 4. Periode''']]
+* [[Liste_der_Isotope/5._Periode|'''Liste der Isotope der 5. Periode''']]
+* [[Liste_der_Isotope/6._Periode|'''Liste der Isotope der 6. Periode''']]
+* [[Liste_der_Isotope/7._Periode|'''Liste der Isotope der 7. Periode''']]
+
+==Weblinks==
+*[http://education.jlab.org/itselemental/index.html It’s Elemental - Daten zu Elementen und Isotopen (englisch)]
+
+== Siehe auch ==
+* [[Isotopenuntersuchung]]
+* [[Radioaktivität]]
+* [[Halbwertszeit]]
+* [[Radionuklid]]
+* [[Fajans-soddysche Verschiebungssätze|Fajans-Soddysche Verschiebungssätze]] (1913 [[Kasimir Fajans]] und Frederick Soddy)
+* [[Mischelement|PSE mit Anzahl der Isotope]]
+* [[Isotopentabelle]] 
+* [[Insel der Stabilität]]
+
+[[Kategorie:Nukleartechnik|Isotope]]
+[[Kategorie:Nuklid|Isotope]]
+[[Kategorie:Liste (Chemie)|Isotope]]
+
+
+[[br:Taolenn an izotopoù (rannet)]]
+[[de:Liste der Isotope]]
+[[en:Table of nuclides]]
+[[eu:Isotopo taula (zatikatua)]]
+[[fr:Table divisée des isotopes]]
+[[id:Tabel nuklida]]
+[[nl:Isotopentabel (in delen)]]
+[[sk:Zoznam izotopov]]
+[[sr:Табела изотопа (подељена)]]
+[[sv:Isotoptabell]]
+[[th:ตารางไอโซโทป (แบ่งส่วน)]]
+[[tr:İzotoplar tablosu]]
+[[zh:核素列表]]
