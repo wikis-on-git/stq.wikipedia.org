@@ -1,14 +1,14 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name = Sauerstoff
+| Name = Suurstof
 | Symbol = O
 | Ordnungszahl = 8
-| Serie = [[Nichtmetalle]]
+| Serie = [[Nichtmetalle|Nitmetal]]
 | Gruppe = 16
 | Periode = 2
 | Block = p
 | Serienfarbe = LimeGreen
-| Aussehen = Farbloses Gas
+| Aussehen = Faaweloos Gas
 | Massenanteil = 49,4
 | Atommasse = 15,9994
 | Atomradius = 60
@@ -24,11 +24,11 @@
 | Ionisierungsenergie_4 = 7469,2
 | Aggregatzustand = gasförmig
 | Modifikationen = 2 (O<sub>2</sub>, Ozon O<sub>3</sub>)
-| Kristallstruktur = kubisch
+| Kristallstruktur = kubisk
 | Dichte = 1,429&nbsp;kg&nbsp;·&nbsp;m<sup>−3</sup>
 | RefTempDichte_K = 273,15<ref name="BGIA"/>
-| Mohshärte = keine (Gas)
-| Magnetismus = paramagnetisch
+| Mohshärte = neen (Gas)
+| Magnetismus = paramagnetisk
 | Schmelzpunkt_K = 54,40
 | Schmelzpunkt_C = −218,79 <ref name="BGIA">[http://biade.itrust.de/biade/lpext.dll?f=id&id=biadb%3Ar%3A007080&t=main-h.htm BGIA Gestis Stoffdatenbank]</ref>
 | Siedepunkt_K = 90,18
@@ -47,7 +47,7 @@
 | Wärmeleitfähigkeit = 0,02674
 | RefTempWärmeleitfähigkeit_K = 
 | Oxidationszustände = '''−2''', −1, 0, +1, +2
-| Oxide = entfällt
+| Oxide = äntfaalt
 | Basizität = 
 | Normalpotential = 1,23
 | Elektronegativität = 3,44
