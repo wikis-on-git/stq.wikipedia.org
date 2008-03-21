@@ -10,7 +10,7 @@
 | Block= s
 | Serienfarbe= OrangeRed
 <!--- Allgemein --->
-| Aussehen=silberweiß glänzend
+| Aussehen=säälwerwiet glansjend
 | Massenanteil= 6 · 10<sup>-4</sup>
 <!--- Atomar --->
 | Atommasse= 132,9054
@@ -23,10 +23,10 @@
 | Austrittsarbeit=2,1
 | Ionisierungsenergie_1= 382
 <!--- Physikalisch --->
-| Aggregatzustand= fest
+| Aggregatzustand= fääst
 | Magnetismus= 
 | Modifikationen= 1
-| Kristallstruktur= kubisch-raumzentriert
+| Kristallstruktur= kubisk-ruumzentrierd
 | Dichte= 1,879 g/cm<sup>3</sup>
 | RefTempDichte_K=
 | Mohshärte= 0,2
@@ -47,17 +47,17 @@
 <!--- Chemisch --->
 | Oxidationszustände= +1
 | Oxide= Cs<sub>2</sub>O
-| Basizität= als CsOH stark [[Basen (Chemie)|basisch]]
+| Basizität= als CsOH stäärk [[Basen (Chemie)|basisk]]
 | Normalpotential= -2,92 [[Volt|V]] (Cs<sup>+</sup> + e<sup>-</sup> → Cs)
 | Elektronegativität= 0,7
-| RL 67/548/EWG      = Nein
+| RL 67/548/EWG      = Noa
 | Gefahrensymbole    = {{Gefahrensymbole|F|C}} <ref name=GESTIS>{{GESTIS|ZVG=7550 |CAS=7440-46-2 |Datum=14. Dezember 2007}}</ref>
 | R                  = {{R-Sätze|11|14/15|34}} <ref name=GESTIS/><ref name="acros-SDB">[http://search.be.acros.com/msds?for=acros&sup=acros&lang=DE&search=21919&button=Show Sicherheitsdatenblatt (acros)]</ref>
 | S                  = {{S-Sätze|8|16|26|36/37/39|43|45}} <ref name=GESTIS/><ref name="acros-SDB"/>
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cs
 | Massenzahl = 129
@@ -67,7 +67,7 @@
 | Zerfallstyp1ZE = 1,195
 | Zerfallstyp1ZP = [[Xenon|<sup>129</sup>Xe]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Cs
 | Massenzahl = 130
@@ -80,7 +80,7 @@
 | Zerfallstyp2ZE = 0,373
 | Zerfallstyp2ZP = [[Barium|<sup>130</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cs
 | Massenzahl = 131
@@ -90,7 +90,7 @@
 | Zerfallstyp1ZE = 0,352
 | Zerfallstyp1ZP = [[Xenon|<sup>131</sup>Xe]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Cs
 | Massenzahl = 132
@@ -103,14 +103,14 @@
 | Zerfallstyp2ZE = 1,280
 | Zerfallstyp2ZP = [[Barium|<sup>132</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cs
 | OZ = 55
 | Massenzahl = 133
 | NH = '''100'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cs
 | Massenzahl = 134
@@ -120,7 +120,7 @@
 | Zerfallstyp1ZE = 2,059
 | Zerfallstyp1ZP = [[Barium|<sup>134</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cs
 | Massenzahl = 135
@@ -130,7 +130,7 @@
 | Zerfallstyp1ZE = 0,2
 | Zerfallstyp1ZP = [[Barium|<sup>135</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cs
 | Massenzahl = 136
@@ -140,7 +140,7 @@
 | Zerfallstyp1ZE = 2,548
 | Zerfallstyp1ZP = [[Barium|<sup>136</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cs
 | Massenzahl = 137
@@ -152,7 +152,7 @@
 }}
 | NMREigenschaften=
 <!---
-{{Vorlage:NMREigenschaften2
+{{NMREigenschaften2
 | Symbol=Cd
 | Massenzahl_1=111
 | Kernspin_1=-1/2
