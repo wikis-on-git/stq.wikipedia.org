@@ -3,13 +3,13 @@
 | Name = Mangan
 | Symbol = Mn
 | Ordnungszahl = 25
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 7
 | Periode = 4
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = silbrig metallisch
+| Aussehen = säälwersk metallisk
 | Massenanteil = 0,09 
 <!--- Atomar --->
 | Atommasse = 54,938049
@@ -28,9 +28,9 @@
 | Ionisierungsenergie_6 = 9220
 | Ionisierungsenergie_7 = 11500
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen = α-Mn, β-Mn
-| Kristallstruktur = α-Mn:kubisch raumzentriert<br />β-Mn:kubisch-primitiv
+| Kristallstruktur = α-Mn:kubisk ruumzentrierd<br />β-Mn:kubisk-primitiv
 | Dichte = 7,47 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 6,0
@@ -55,7 +55,7 @@
 <!--- Chemisch --->
 | Oxidationszustände = 1, '''2''', 4, (5), 6, 7
 | Oxide = 
-| Basizität = stark [[Säure|sauer]]
+| Basizität = stäärk [[Süüre|suur]]
 | Normalpotential = 
 | Elektronegativität = 1,55
 | RL 67/548/EWG      = 
@@ -65,7 +65,7 @@
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mn
 | Massenzahl = 52
@@ -75,7 +75,7 @@
 | Zerfallstyp1ZE = 4,712
 | Zerfallstyp1ZP = [[Chrom|<sup>52</sup>Cr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mn
 | Massenzahl = 53
@@ -85,7 +85,7 @@
 | Zerfallstyp1ZE = 0,597
 | Zerfallstyp1ZP = [[Chrom|<sup>53</sup>Cr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Mn
 | Massenzahl = 54
@@ -98,13 +98,13 @@
 | Zerfallstyp2ZE = 0,697
 | Zerfallstyp2ZP = [[Eisen|<sup>54</sup>Fe]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mn
 | Massenzahl = 55
 | NH = '''100'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mn
 | Massenzahl = 56
