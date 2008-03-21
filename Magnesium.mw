@@ -4,13 +4,13 @@
 | Symbol= Mg
 | Ordnungszahl= 12
 | Massenzahl= 24
-| Serie= [[Erdalkalimetalle]]
+| Serie= [[Äidalkalimetalle]]
 | Gruppe = 2
 | Periode = 3
 | Block= s
 | Serienfarbe= DarkOrange
 <!--- Allgemein --->
-| Aussehen= silbrig weiß
+| Aussehen= säälwersk wiet
 | Massenanteil= 1,94
 <!--- Atomar --->
 | Atommasse= 24,305
@@ -25,9 +25,9 @@
 | Ionisierungsenergie_2= 1450,7
 <!--- Physikalisch --->
 | Aggregatzustand= fest
-| Magnetismus= [[Paramagnetismus|paramagnetisch]]
+| Magnetismus= [[Paramagnetismus|paramagnetisk]
 | Modifikationen= -
-| Kristallstruktur= [[Hexagonales Kristallsystem|hexagonal]]
+| Kristallstruktur= [[Hexagonales Kristallsystem|hexagonoal]]
 | Dichte= 1,738 g/cm<sup>3</sup>
 | RefTempDichte_K= 
 | Mohshärte= 2,5
@@ -59,7 +59,7 @@ R: {{R-Sätze|11|15}} ([[phlegmatisiert]], Späne)
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mg
 | Massenzahl = 23
@@ -69,19 +69,19 @@ R: {{R-Sätze|11|15}} ([[phlegmatisiert]], Späne)
 | Zerfallstyp1ZE = 4,057
 | Zerfallstyp1ZP = [[Natrium|<sup>23</sup>Na]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mg
 | Massenzahl = 24
 | NH = '''78,99'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mg
 | Massenzahl = 25
 | NH = 10,00
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mg
 | Massenzahl = 26
@@ -97,7 +97,7 @@ R: {{R-Sätze|11|15}} ([[phlegmatisiert]], Späne)
 | Zerfallstyp1ZE = 2,610
 | Zerfallstyp1ZP = [[Aluminium|<sup>27</sup>Al]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mg
 | Massenzahl = 28
