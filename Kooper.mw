@@ -1,15 +1,15 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name = Kupfer
+| Name = Kooper
 | Symbol = Cu
 | Ordnungszahl = 29
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 11
 | Periode = 4
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = lachsrosa, metallisch
+| Aussehen = lachsrosa, metallisk
 | Massenanteil = 0,01
 <!--- Atomar --->
 | Atommasse = 63,546
@@ -25,13 +25,13 @@
 | Ionisierungsenergie_3 = 3555
 | Ionisierungsenergie_4 = 5536
 <!-- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen = 
-| Kristallstruktur = kubisch flächenzentriert
+| Kristallstruktur = kubisk flächenzentrierd
 | Dichte = 8,92 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 3,0
-| Magnetismus = [[Diamagnetismus|diamagnetisch]]
+| Magnetismus = [[Diamagnetismus|diamagnetisk]]
 | Schmelzpunkt_K = 1357,6
 | Schmelzpunkt_C = 1084,4
 | Siedepunkt_K = 2840
@@ -52,7 +52,7 @@
 <!--- Chemisch --->
 | Oxidationszustände = 1, '''2'''
 | Oxide = Cu<sub>2</sub>O ([[Kupfer(I)-oxid]]), CuO ([[Kupfer(II)-oxid]])
-| Basizität = leicht [[Base (Chemie)|basisch]]
+| Basizität = licht [[Base (Chemie)|basisk]]
 | Normalpotential = 0,342 [[Volt|V]] (Cu<sup>2+</sup> + 2e<sup>-</sup> → Cu)
 | Elektronegativität = 1,9
 | Gefahrensymbole = {{Gefahrensymbole|-}}
