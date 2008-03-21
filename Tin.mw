@@ -1,15 +1,15 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name = Zinn
+| Name = Tin
 | Symbol = Sn
 | Ordnungszahl = 50
-| Serie = [[Metalle]] ([[Kohlenstoffgruppe]])
+| Serie = [[Metalle]] ([[Koolestofgruppe]])
 | Gruppe = 14
 | Periode = 5
 | Block = p
 | Serienfarbe = DarkGray
 <!--- Allgemein --->
-| Aussehen = silbrig glänzend grau
+| Aussehen = säälwersk glansjend gries
 | Massenanteil = 3 · 10<sup>-3</sup>
 <!--- Atomar --->
 | Atommasse = 118,710
@@ -25,9 +25,9 @@
 | Ionisierungsenergie_3 = 2943,0
 | Ionisierungsenergie_4 = 3930,3
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen =
-| Kristallstruktur = tetragonal
+| Kristallstruktur = tetragonoal
 | Dichte = 7,31 g/cm<sup>3</sup>
 | RefTempDichte_K =
 | Mohshärte = 1,5
@@ -56,9 +56,9 @@
 | Normalpotential = -0,138 [[Volt|V]] (Sn<sup>2+</sup> + 2e<sup>-</sup> → Sn)
 | Elektronegativität = 1,96
 | RL 67/548/EWG      = Nein
-| Gefahrensymbole    = '''Pulver'''<br />{{Gefahrensymbole|Xn}}<br />
-| R                  = {{R-Sätze|40}} (Pulver)<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/11013_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)] (in kompakter Form: keine R/S-Sätze)</ref>
-| S                  = {{S-Sätze|36/37}}(Pulver)<ref name="alfa-SDB"/>
+| Gefahrensymbole    = '''Pulwer'''<br />{{Gefahrensymbole|Xn}}<br />
+| R                  = {{R-Sätze|40}} (Pulwer)<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/11013_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)] (in kompakter Form: keine R/S-Sätze)</ref>
+| S                  = {{S-Sätze|36/37}}(Pulwer)<ref name="alfa-SDB"/>
 <!--- Isotope --->
 | Isotope =
 {{Infobox Chemisches Element/Isotop
@@ -129,7 +129,7 @@
 | Zerfallstyp1ZE = 0,388
 | Zerfallstyp1ZP = [[Antimon|<sup>121</sup>Sb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Sn
 | Massenzahl = 121[[Metastabiler Zustand|meta]]
