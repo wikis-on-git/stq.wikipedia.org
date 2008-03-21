@@ -3,13 +3,13 @@
 | Name = Tellur
 | Symbol = Te
 | Ordnungszahl = 52
-| Serie = [[Halbmetalle]]
+| Serie = [[Hoolichmetalle]]
 | Gruppe = 16
 | Periode = 5
 | Block = p
 | Serienfarbe = Peru
 <!--- Allgemein --->
-| Aussehen = silberweiß, metallisch glänzend
+| Aussehen = säälwerwiet, metallisk glansjend
 | Massenanteil = 1 · 10<sup>−6</sup>
 <!--- Atomar --->
 | Atommasse = 127,60
@@ -27,13 +27,13 @@
 | Ionisierungsenergie_5 = 5668
 | Ionisierungsenergie_6 = 6820
 <!--- Physikalisch --->
-| Aggregatzustand = [[Festkörper|fest]]
-| Modifikationen = [[Kristall|kristallin]] und [[Amorphes Material|amorph]]<br />Hochdruckmodifikationen (kristallin)
-| Kristallstruktur = [[Trigonales Kristallsystem|trigonal]]
+| Aggregatzustand = [[Festkörper|fääst]]
+| Modifikationen = [[Kristall|kristallin]] un [[Amorphes Material|amorph]]<br />Hoochdrukmodifikatione (kristallin)
+| Kristallstruktur = [[Trigonales Kristallsystem|trigonoal]]
 | Dichte = 6,24 g/cm<sup>3</sup>
 | RefTempDichte_K =
 | Mohshärte = 2,25
-| Magnetismus = unmagnetisch
+| Magnetismus = unmagnetisk
 | Schmelzpunkt_K = 722,66
 | Schmelzpunkt_C = 449,51
 | Siedepunkt_K = 1263
@@ -54,7 +54,7 @@
 <!--- Chemisch --->
 | Oxidationszustände = '''−2''', (±1), 2, '''4''', 6
 | Oxide = [[Tellurdioxid|TeO<sub>2</sub>]], TeO<sub>3</sub>
-| Basizität = leicht [[Säure|sauer]]
+| Basizität = licht [[Süüre|suur]]
 | Normalpotential = −1,143 [[Volt|V]] (Te + 2e<sup>−</sup> → Te<sup>2−</sup>)
 | Elektronegativität = 2,1
 | RL 67/548/EWG = Nein
@@ -73,7 +73,7 @@
 | Zerfallstyp1ZE = 1,701
 | Zerfallstyp1ZP = [[Zinn|<sup>120</sup>Sn]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Te
 | Massenzahl = 121
@@ -83,7 +83,7 @@
 | Zerfallstyp1ZE = 1,040
 | Zerfallstyp1ZP = [[Antimon|<sup>121</sup>Sb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Te
 | Massenzahl = 121[[Metastabiler Zustand|meta]]
@@ -140,7 +140,7 @@
 | Zerfallstyp1ZE = 0,698
 | Zerfallstyp1ZP = [[Iod|<sup>127</sup>I]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Te
 | Massenzahl = 127[[Metastabiler Zustand|meta]]
@@ -173,7 +173,7 @@
 | Zerfallstyp1ZE = 1,498
 | Zerfallstyp1ZP = [[Iod|<sup>129</sup>I]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Te
 | Massenzahl = 129[[Metastabiler Zustand|meta]]
