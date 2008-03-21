@@ -3,13 +3,13 @@
 | Name = Molybdän
 | Symbol = Mo
 | Ordnungszahl = 42
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 6
 | Periode = 5
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = grau metallisch
+| Aussehen = gries metallisk
 | Massenanteil = 1 · 10<sup>−3</sup>
 <!--- Atomar --->
 | Atommasse = 95,94
@@ -25,9 +25,9 @@
 | Ionisierungsenergie_3 = 2618
 | Ionisierungsenergie_4 = 4480
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen = 
-| Kristallstruktur = kubisch raumzentriert
+| Kristallstruktur = kubisk ruumzentrierd
 | Dichte = 10,28 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 5,5
@@ -52,7 +52,7 @@
 <!--- Chemisch --->
 | Oxidationszustände = 2, 3, 4, 5, '''6'''
 | Oxide = 
-| Basizität = stark [[Säure|sauer]]
+| Basizität = stäärk [[Süüre|suur]]
 | Normalpotential = -0,200 [[Volt|V]] (Mo<sup>3+</sup> + 3e<sup>-</sup> → Mo)
 | Elektronegativität = 2,16
 | Gefahrensymbole    = {{Gefahrensymbole|-}}
@@ -60,7 +60,7 @@
 | S                  = {{S-Sätze|-}}
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mo
 | Massenzahl = 90
@@ -70,7 +70,7 @@
 | Zerfallstyp1ZE = 2,489
 | Zerfallstyp1ZP = [[Niob|<sup>90</sup>Nb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mo
 | Massenzahl = 91
@@ -80,13 +80,13 @@
 | Zerfallstyp1ZE = 4,434
 | Zerfallstyp1ZP = [[Niob|<sup>91</sup>Nb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mo
 | Massenzahl = 92
 | NH = 14,84
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mo
 | Massenzahl = 93
@@ -96,37 +96,37 @@
 | Zerfallstyp1ZE = 0,405
 | Zerfallstyp1ZP = [[Niob|<sup>93</sup>Nb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mo
 | Massenzahl = 94
 | NH = 9,25
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mo
 | Massenzahl = 95
 | NH = 15,92
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mo
 | Massenzahl = 96
 | NH = 16,68
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mo
 | Massenzahl = 97
 | NH = 9,55
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Mo
 | Massenzahl = 98
 | NH = 24,13
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mo
 | Massenzahl = 99
@@ -136,7 +136,7 @@
 | Zerfallstyp1ZE = 1,357
 | Zerfallstyp1ZP = [[Technetium|<sup>99</sup>Tc]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mo
 | Massenzahl = 100
@@ -146,7 +146,7 @@
 | Zerfallstyp1ZE = 3,034
 | Zerfallstyp1ZP = [[Ruthenium|<sup>100</sup>Ru]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mo
 | Massenzahl = 101
@@ -156,7 +156,7 @@
 | Zerfallstyp1ZE = 2,824
 | Zerfallstyp1ZP = [[Technetium|<sup>101</sup>Tc]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Mo
 | Massenzahl = 102
