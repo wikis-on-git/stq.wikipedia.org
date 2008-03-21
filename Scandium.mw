@@ -60,7 +60,7 @@
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 43
 | Symbol = Sc
@@ -70,7 +70,7 @@
 | Zerfallstyp1ZE = 2,221
 | Zerfallstyp1ZP = [[Calcium|<sup>43</sup>Ca]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 44
 | Symbol = Sc
@@ -80,13 +80,13 @@
 | Zerfallstyp1ZE = 3,653
 | Zerfallstyp1ZP = [[Calcium|<sup>44</sup>Ca]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Massenzahl = 45
 | Symbol = Sc
 | NH = '''100'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 46
 | Symbol = Sc
@@ -96,7 +96,7 @@
 | Zerfallstyp1ZE = 2,367
 | Zerfallstyp1ZP = [[Titan (Element)|<sup>46</sup>Ti]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 47
 | Symbol = Sc
@@ -106,7 +106,7 @@
 | Zerfallstyp1ZE = 0,600
 | Zerfallstyp1ZP = [[Titan (Element)|<sup>47</sup>Ti]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 48
 | Symbol = Sc
@@ -116,7 +116,7 @@
 | Zerfallstyp1ZE = 3,994
 | Zerfallstyp1ZP = [[Titan (Element)|<sup>48</sup>Ti]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 49
 | Symbol = Sc
