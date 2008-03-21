@@ -9,7 +9,7 @@
 | Block = p
 | Serienfarbe = LightskyBlue
 <!--- Allgemein --->
-| Aussehen = farblos
+| Aussehen = faaweloos
 | Massenanteil = 
 <!--- Atomar --->
 | Atommasse = 83,798
@@ -31,13 +31,13 @@
 | Ionisierungsenergie_9 = 
 | Ionisierungsenergie_10 = 
 <!--- Physikalisch --->
-| Aggregatzustand = gasförmig
+| Aggregatzustand = gasfoarmich
 | Modifikationen = 
-| Kristallstruktur = kubisch flächenzentriert
+| Kristallstruktur = kubisk flächenzentrierd
 | Dichte = 3,749 kg · m<sup>−3</sup>
 | RefTempDichte_K = 273
 | Mohshärte = -
-| Magnetismus = diamagnetisch
+| Magnetismus = diamagnetisk
 | Schmelzpunkt_K = 115,79
 | Schmelzpunkt_C = -157,36
 | Siedepunkt_K = 119,93
@@ -61,7 +61,7 @@
 | Basizität = -
 | Normalpotential = 
 | Elektronegativität = 3,00
-| RL 67/548/EWG      = Nein
+| RL 67/548/EWG      = Noa
 | Gefahrensymbole    = {{Gefahrensymbole|-}}
 | R                  = {{R-Sätze|-}}
 | S                  = {{S-Sätze|9|23}}<ref name="air liquide">[http://gasekatalog.airliquide.de/sdb/077a__krypton.pdf Sicherheitsdatenblatt (air liquide]</ref>
