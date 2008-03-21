@@ -3,13 +3,13 @@
 | Name = Zink
 | Symbol = Zn
 | Ordnungszahl = 30
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 12
 | Periode = 4
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = bläulich blassgrau
+| Aussehen = blausk bleekgries
 | Massenanteil = 0,01
 <!--- Atomar --->
 | Atommasse = 65,409
@@ -26,13 +26,13 @@
 | Ionisierungsenergie_4 = 
 | Ionisierungsenergie_5 = 
 <!--- Physikalisch --->
-| Aggregatzustand = fest
-| Modifikationen = eine
-| Kristallstruktur = hexagonal
+| Aggregatzustand = fääst
+| Modifikationen = een
+| Kristallstruktur = hexagonoal
 | Dichte = 7,14 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 2,5
-| Magnetismus = diamagnetisch
+| Magnetismus = diamagnetisk
 | Schmelzpunkt_K = 692,68
 | Schmelzpunkt_C = 419,5
 | Siedepunkt_K = 1180
@@ -57,11 +57,11 @@
 | Normalpotential = −0,762 [[Volt|V]] (Zn<sup>2+</sup> + 2e<sup>−</sup> → Zn)
 | Elektronegativität = 1,65
 | RL 67/548/EWG      = Ja
-| Gefahrensymbole    = '''Pulver''' <br />{{Gefahrensymbole|F|N}} (F gilt nur für die nicht stabilisierte Form)
-| R                  = {{R-Sätze|15|17|50/53}} (nicht stabilisiert) <br />
+| Gefahrensymbole    = '''Pulver''' <br />{{Gefahrensymbole|F|N}} (F jält bloot foar ju nit stabilisierde Foarm)
+| R                  = {{R-Sätze|15|17|50/53}} (nit stabilisierd) <br />
 R: {{R-Sätze|50/53}} ([[phlegmatisiert]])
-| S                  = {{S-Sätze|(2)|43|46|60|61}} (nicht stabilisiert)<br />
-S: {{S-Sätze|60|61}} (phlegmatisiert)
+| S                  = {{S-Sätze|(2)|43|46|60|61}} (nit stabilisierd)<br />
+S: {{S-Sätze|60|61}} (phlegmatisierd)
 <!--- Isotope --->
 | Isotope = 
 {{Infobox Chemisches Element/Isotop
