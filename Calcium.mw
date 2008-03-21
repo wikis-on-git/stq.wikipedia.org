@@ -3,13 +3,13 @@
 | Name= Calcium
 | Symbol= Ca
 | Ordnungszahl= 20
-| Serie= [[Erdalkalimetalle]]
+| Serie= [[Äidalkalimetalle]]
 | Gruppe = 2
 | Periode = 4
 | Block= s
 | Serienfarbe= DarkOrange
 <!--- Allgemein --->
-| Aussehen= silbrig weiß
+| Aussehen= säälwersk wiet
 | Massenanteil= 3,39
 <!--- Atomar --->
 | Atommasse= 40,078
@@ -24,9 +24,9 @@
 | Ionisierungsenergie_2= 1145,4
 <!--- Physikalisch --->
 | Aggregatzustand= fest
-| Magnetismus= [[Paramagnetismus|paramagnetisch]]
+| Magnetismus= [[Paramagnetismus|paramagnetisk]]
 | Modifikationen= 
-| Kristallstruktur= kubisch flächenzentriert
+| Kristallstruktur= kubisk flächenzentrierd
 | Dichte= 1,55 g/cm<sup>3</sup>
 | RefTempDichte_K= 
 | Mohshärte= 1,75
@@ -47,7 +47,7 @@
 <!--- Chemisch --->
 | Oxidationszustände= +2
 | Oxide=CaO
-| Basizität= stark [[Basen (Chemie)|basisch]]
+| Basizität= stäärk [[Basen (Chemie)|basisk]]
 | Normalpotential= −2,87 V (Ca<sup>2+</sup> + 2e<sup>−</sup> → Ca)
 | Elektronegativität= 1,00
 | RL 67/548/EWG      = Ja
@@ -57,14 +57,14 @@
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ca
 | OZ = 20
 | Massenzahl = 40
 | NH = '''96,941'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 41
 | Symbol = Ca
@@ -74,28 +74,28 @@
 | Zerfallstyp1ZE = 0,421
 | Zerfallstyp1ZP = <sup>41</sup>K
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ca
 | OZ = 20
 | Massenzahl = 42
 | NH = 0,647
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ca
 | OZ = 20
 | Massenzahl = 43
 | NH = 0,135
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ca
 | OZ = 20
 | Massenzahl = 44
 | NH = 2,086
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ca
 | Massenzahl = 45
@@ -105,14 +105,14 @@
 | Zerfallstyp1ZE = 0,257
 | Zerfallstyp1ZP = <sup>45</sup>Sc
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ca
 | OZ = 20
 | Massenzahl = 46
 | NH = 0,004
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ca
 | Massenzahl = 47
@@ -122,7 +122,7 @@
 | Zerfallstyp1ZE = 1,992
 | Zerfallstyp1ZP = <sup>47</sup>Sc
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Foarloage:Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ca
 | Massenzahl = 48
