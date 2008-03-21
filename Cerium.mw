@@ -1,6 +1,6 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name= Cer
+| Name= Cerium
 | Symbol= Ce
 | Ordnungszahl= 58
 | Serie= [[Lanthanoide]]
@@ -9,7 +9,7 @@
 | Block= d
 | Serienfarbe= Plum
 <!--- Allgemein --->
-| Aussehen=silbrig weiß
+| Aussehen=säälwersk wiet
 | Massenanteil= 0,0046
 <!--- Atomar --->
 | Atommasse= 140,116
@@ -25,10 +25,10 @@
 | Ionisierungsenergie_3= 1949
 | Ionisierungsenergie_4= 3547
 <!--- Physikalisch --->
-| Aggregatzustand= fest
+| Aggregatzustand= fääst
 | Magnetismus= 
 | Modifikationen= 1
-| Kristallstruktur= kubisch flächenzentriert
+| Kristallstruktur= kubiskh flächenzentrierd
 | Dichte= 6,689 g/cm<sup>3</sup>
 | RefTempDichte_K=
 | Mohshärte= 2,5
@@ -49,7 +49,7 @@
 <!--- Chemisch --->
 | Oxidationszustände= '''3''', 4
 | Oxide= ?
-| Basizität= leicht basisch
+| Basizität= licht basisk
 | Normalpotential=  -2,483 [[Volt|V]] (Ce<sup>3+</sup> + 3e<sup>-</sup> → Ce)
 | Elektronegativität= 1,12
 | Gefahrensymbole    = {{Gefahrensymbole|F}}
@@ -57,7 +57,7 @@
 | S                  = {{S-Sätze|17}}
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=134
 | Symbol=Ce
 | NH=0
@@ -67,7 +67,7 @@
 | Zerfallstyp1ZE= 0,500
 | Zerfallstyp1ZP= [[Lanthan|<sup>134</sup>La]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=135
 | Symbol=Ce
 | NH=0
@@ -77,12 +77,12 @@
 | Zerfallstyp1ZE= 2,026
 | Zerfallstyp1ZP= [[Lanthan|<sup>135</sup>La]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=136
 | Symbol=Ce
 | NH=0,19
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=137
 | Symbol=Ce
 | NH=0
@@ -92,12 +92,12 @@
 | Zerfallstyp1ZE=1,222
 | Zerfallstyp1ZP=[[Lanthan|<sup>137</sup>La]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=138
 | Symbol=Ce
 | NH=0,25
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=139
 | Symbol=Ce
 | NH=0
@@ -107,12 +107,12 @@
 | Zerfallstyp1ZE=0,581
 | Zerfallstyp1ZP=[[Lanthan|<sup>139</sup>La]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=140
 | Symbol=Ce
 | NH=88,48
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=141
 | Symbol=Ce
 | NH=0
@@ -122,7 +122,7 @@
 | Zerfallstyp1ZE=0,581
 | Zerfallstyp1ZP=[[Praseodym|<sup>141</sup>Pr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=142
 | Symbol=Ce
 | NH=11,08
@@ -132,7 +132,7 @@
 | Zerfallstyp1ZE=4,505
 | Zerfallstyp1ZP=[[Neodym|<sup>142</sup>Nd]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=143
 | Symbol=Ce
 | NH=0
@@ -142,7 +142,7 @@
 | Zerfallstyp1ZE= 1,462
 | Zerfallstyp1ZP= [[Praseodym|<sup>143</sup>Pr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=144
 | Symbol=Ce
 | NH=0
