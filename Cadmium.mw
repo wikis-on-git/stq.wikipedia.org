@@ -4,13 +4,13 @@
 | Symbol= Cd
 | Ordnungszahl= 48
 | Massenzahl= 64
-| Serie= [[Übergangsmetalle]]
+| Serie= [[Uurgongsmetalle]]
 | Gruppe = 12
 | Periode = 5
 | Block= d
 | Serienfarbe= LightCoral
 <!--- Allgemein --->
-| Aussehen=silbrig grau metallisch
+| Aussehen=säälwersk gries metallisk
 | Massenanteil=3 · 10<sup>-5</sup>
 <!--- Atomar --->
 | Atommasse= 112,411
@@ -24,10 +24,10 @@
 | Ionisierungsenergie_1=867,8
 | Ionisierungsenergie_2=1631,4
 <!--- Physikalisch --->
-| Aggregatzustand=fest
+| Aggregatzustand=fääst
 | Magnetismus=-
 | Modifikationen=-
-| Kristallstruktur=hexagonal
+| Kristallstruktur=hexagonoal
 | Dichte=8,65 g/cm<sup>3</sup>
 | RefTempDichte_K=
 | Mohshärte=2
@@ -48,18 +48,18 @@
 <!--- Chemisch --->
 | Oxidationszustände= 2
 | Oxide= CdO
-| Basizität=leicht [[Basen (Chemie)|basisch]]
+| Basizität=licht [[Basen (Chemie)|basisk]]
 | Normalpotential=  -0,403 [[Volt|V]] (Cd<sup>2+</sup> + 2e<sup>-</sup> → Cd)
 | Elektronegativität= 1,69
 | RL 67/548/EWG      = Ja
-| Gefahrensymbole    = <br />{{Gefahrensymbole|T+|F|N}} (F gilt nur für die nicht stabilisierte Form)
-| R                  = {{R-Sätze|45|E26|E48/23/25|17|50/53|62|63|68}} (nicht stabilisiert) <br />
-R: {{R-Sätze|45|E26|E48/23/25|50/53|62|63|68}} ([[phlegmatisiert]])
-| S                  = {{S-Sätze|7/8|43|45|53|60|61}} (nicht stabilisiert)<br />
-S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
+| Gefahrensymbole    = <br />{{Gefahrensymbole|T+|F|N}} (F jält bloot foar ju nit stabilisierde Foarm)
+| R                  = {{R-Sätze|45|E26|E48/23/25|17|50/53|62|63|68}} (nit stabilisierd) <br />
+R: {{R-Sätze|45|E26|E48/23/25|50/53|62|63|68}} ([[phlegmatisierd]])
+| S                  = {{S-Sätze|7/8|43|45|53|60|61}} (nit stabilisierd)<br />
+S: {{S-Sätze|45|53|60|61}} (phlegmatisierd)
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 104
@@ -69,7 +69,7 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 1,137
 | Zerfallstyp1ZP = [[Silber|<sup>104</sup>Ag]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 105
@@ -79,14 +79,14 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 2,739
 | Zerfallstyp1ZP = [[Silber|<sup>105</sup>Ag]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cd
 | OZ = 48
 | Massenzahl = 106
 | NH = 1,25
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 107
@@ -96,14 +96,14 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 1,417
 | Zerfallstyp1ZP = [[Silber|<sup>107</sup>Ag]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cd
 | OZ = 48
 | Massenzahl = 108
 | NH = 0,89
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 109
@@ -113,28 +113,28 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 0,214
 | Zerfallstyp1ZP = [[Silber|<sup>109</sup>Ag]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cd
 | OZ = 48
 | Massenzahl = 110
 | NH = 12,49
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cd
 | OZ = 48
 | Massenzahl = 111
 | NH = 12,8
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cd
 | OZ = 48
 | Massenzahl = 112
 | NH = 24,13
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 113
@@ -144,7 +144,7 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 0,316
 | Zerfallstyp1ZP = [[Indium|<sup>113</sup>In]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 113
@@ -154,14 +154,14 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 0,580
 | Zerfallstyp1ZP = [[Indium|<sup>113</sup>In]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cd
 | OZ = 48
 | Massenzahl = 114
 | NH = '''28,73'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 115
@@ -171,14 +171,14 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 1,446
 | Zerfallstyp1ZP = [[Indium|<sup>115</sup>In]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cd
 | OZ = 48
 | Massenzahl = 116
 | NH = 7,49
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 117
@@ -188,7 +188,7 @@ S: {{S-Sätze|45|53|60|61}} (phlegmatisiert)
 | Zerfallstyp1ZE = 2,516
 | Zerfallstyp1ZP = [[Indium|<sup>117</sup>In]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Cd
 | Massenzahl = 118
