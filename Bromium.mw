@@ -1,6 +1,6 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name = Brom
+| Name = Bromium
 | Symbol= Br
 | Ordnungszahl = 35
 | Massenzahl 79
@@ -10,7 +10,7 @@
 | Block= p
 | Serienfarbe= Khaki
 <!--- Allgemein --->
-| Aussehen= Gas: rot-braun <br />fest: metallisch glänzend
+| Aussehen= Gas: rood-bruun <br />fääst: metallisk glansjend
 | Massenanteil= 6 · 10<sup>−4</sup>
 <!--- Atomar --->
 | Atommasse= 79,904
@@ -29,10 +29,10 @@
 | Ionisierungsenergie_6=8550
 | Ionisierungsenergie_7=9940
 <!--- Physikalisch --->
-| Aggregatzustand= flüssig
-| Magnetismus= diamagnetisch
+| Aggregatzustand= flüssich
+| Magnetismus= diamagnetisk
 | Modifikationen= 
-| Kristallstruktur= orthorombisch
+| Kristallstruktur= orthorombisk
 | Dichte= 3,119 g · cm<sup>−3</sup>
 | RefTempDichte_K=300
 | Mohshärte= 
@@ -53,17 +53,17 @@
 <!--- Chemisch --->
 | Oxidationszustände= ±1, 3, 5, 7
 | Oxide=
-| Basizität= stark [[Säure|sauer]]
+| Basizität= stäärk [[Süüre|suur]]
 | Normalpotential= 1,066 [[Volt|V]] (Br + e<sup>−</sup> → Br<sup>−</sup>)
 | Elektronegativität= 2,96
-| RL 67/548/EWG      = Ja
+| RL 67/548/EWG      = Jee
 | Gefahrensymbole    = {{Gefahrensymbole|T+|C|N}}
 | R                  = {{R-Sätze|26|35|50}}
 | S                  = {{S-Sätze|(1/2)|7/9|26|45|61}}
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 77
 | Symbol= Br
 | NH=0
@@ -73,7 +73,7 @@
 | Zerfallstyp1ZE=1,365
 | Zerfallstyp1ZP=[[Selen|<sup>77</sup>Se]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=78
 | Symbol=Br
 | NH=0
@@ -83,13 +83,13 @@
 | Zerfallstyp1ZE=3,574
 | Zerfallstyp1ZP=[[Selen|<sup>78</sup>Se]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 35
 | Massenzahl=79
 | Symbol=Br
 | NH='''50,69'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=80
 | Symbol=Br
 | NH=0
@@ -102,13 +102,13 @@
 | Zerfallstyp2ZE=1,871
 | Zerfallstyp2ZP=[[Selen|<sup>80</sup>Se]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 35
 | Massenzahl=81
 | Symbol=Br
 | NH=49,31
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=82
 | Symbol=Br
 | NH= 0
@@ -118,7 +118,7 @@
 | Zerfallstyp1ZE=3,093
 | Zerfallstyp1ZP=[[Krypton|<sup>82</sup>Kr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=83
 | Symbol= Br
 | NH= 0
