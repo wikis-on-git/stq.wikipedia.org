@@ -10,7 +10,7 @@
 | Block= s
 | Serienfarbe= OrangeRed
 <!--- Allgemein --->
-| Aussehen= silbrig weiß
+| Aussehen= säälwersk wiet
 | Massenanteil= 0,03
 <!--- Atomar --->
 | Atommasse= 85,4678
@@ -23,10 +23,10 @@
 | Austrittsarbeit=2,13
 | Ionisierungsenergie_1=403,0
 <!--- Physikalisch --->
-| Aggregatzustand= fest
-| Magnetismus= paramagnetisch
+| Aggregatzustand= fääst
+| Magnetismus= paramagnetisk
 | Modifikationen=1
-| Kristallstruktur= kubisch raumzentriert
+| Kristallstruktur= kubisk ruumzentrierd
 | Dichte= 1,532 g/cm<sup>3</sup>
 | RefTempDichte_K=
 | Mohshärte= 0,3
@@ -47,7 +47,7 @@
 <!--- Chemisch --->
 | Oxidationszustände= +1
 | Oxide= Rb<sub>2</sub>O
-| Basizität= stark [[Base (Chemie)|basisch]]
+| Basizität= stäärk [[Base (Chemie)|basisk]]
 | Normalpotential= -2,98 [[Volt|V]] (Rb<sup>+</sup> + e<sup>-</sup> → Rb)
 | Elektronegativität= 0,82
 | RL 67/548/EWG      = Nein
@@ -56,7 +56,7 @@
 | S                  = {{S-Sätze|7/8|20|26|30|33|36/37/39|43|45}}<ref name="alfa-SDB"/>
 | Radioaktiv         = <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Rb
 | Massenzahl = 83
@@ -66,7 +66,7 @@
 | Zerfallstyp1ZE = 0,910
 | Zerfallstyp1ZP = [[Krypton|<sup>83</sup>Kr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Rb
 | Massenzahl = 84
@@ -79,13 +79,13 @@
 | Zerfallstyp2ZE = 0,894
 | Zerfallstyp2ZP = [[Strontium|<sup>84</sup>Sr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Rb
 | Massenzahl = 85
 | NH = '''72,168'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Rb
 | Massenzahl = 86
@@ -95,7 +95,7 @@
 | Zerfallstyp1ZE = 1,775
 | Zerfallstyp1ZP = [[Strontium|<sup>86</sup>Sr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Rb
 | Massenzahl = 87
@@ -105,7 +105,7 @@
 | Zerfallstyp1ZE = 0,283
 | Zerfallstyp1ZP = [[Strontium|<sup>87</sup>Sr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Rb
 | Massenzahl = 88
@@ -115,7 +115,7 @@
 | Zerfallstyp1ZE = 5,316
 | Zerfallstyp1ZP = [[Strontium|<sup>88</sup>Sr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Rb
 | Massenzahl = 89
