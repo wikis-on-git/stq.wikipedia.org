@@ -10,7 +10,7 @@
 | Block= p
 | Serienfarbe= DarkGray
 <!--- Allgemein --->
-| Aussehen=silbrig weiß
+| Aussehen=säälwersk wiet
 | Massenanteil=1 · 10<sup>-3</sup>
 <!--- Atomar --->
 | Atommasse= 69,723
@@ -25,10 +25,10 @@
 | Ionisierungsenergie_2= 1979,3
 | Ionisierungsenergie_3= 2963
 <!--- Physikalisch --->
-| Aggregatzustand= fest
+| Aggregatzustand= fääst
 | Magnetismus= 
 | Modifikationen= 
-| Kristallstruktur= orthorhombisch (Ga-I)
+| Kristallstruktur= orthorhombisk (Ga-I)
 | Dichte= 5,904 g/cm<sup>3</sup>
 | RefTempDichte_K= 
 | Mohshärte= 1,5
@@ -52,14 +52,14 @@
 | Basizität= [[amphoter]]
 | Normalpotential= -0,56 [[Volt|V]] (Ga<sup>3+</sup> + 3e<sup>-</sup> → Ga)
 | Elektronegativität= 1,81
-| RL 67/548/EWG      = Nein
+| RL 67/548/EWG      = Noa
 | Gefahrensymbole    = {{Gefahrensymbole|C}}<ref name="alfa">[http://www.alfa-chemcat.com/daten_msds/D/10186_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
 | R                  = {{R-Sätze|34}}<ref name="alfa"/>
 | S                  = {{S-Sätze|20|26|36/37/39|45|60}}<ref name="alfa"/>
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 67
 | Symbol= Ga
 | NH=0
@@ -69,7 +69,7 @@
 | Zerfallstyp1ZE= 1,00
 | Zerfallstyp1ZP= [[Zink|<sup>67</sup>Zn]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=68
 | Symbol=Ga
 | NH=0
@@ -79,13 +79,13 @@
 | Zerfallstyp1ZE= 2,921
 | Zerfallstyp1ZP= [[Zink|<sup>68</sup>Zn]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 69
 | OZ= 31
 | Symbol= Ga
 | NH= 60,1
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=70
 | Symbol=Ga
 | NH=0
@@ -95,13 +95,13 @@
 | Zerfallstyp1ZE=1,656
 | Zerfallstyp1ZP=[[Germanium|<sup>70</sup>Ge]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=71
 | OZ= 31
 | Symbol=Ga
 | NH= 39,9
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=72
 | Symbol=Ga
 | NH= 0
@@ -111,7 +111,7 @@
 | Zerfallstyp1ZE=4,001
 | Zerfallstyp1ZP=[[Germanium|<sup>72</sup>Ge]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=73
 | Symbol=Ga
 | NH=0
