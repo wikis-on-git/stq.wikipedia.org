@@ -4,13 +4,13 @@
 | Symbol= Ba
 | Ordnungszahl= 56
 | Massenzahl= 137
-| Serie= [[Erdalkalimetalle]]
+| Serie= [[Äidalkalimetalle]]
 | Gruppe = 2
 | Periode = 6
 | Block= s
 | Serienfarbe= DarkOrange
 <!--- Allgemein --->
-| Aussehen= weiß-grau metallisch
+| Aussehen= wiet-gries metallisk
 | Massenanteil= 0,03
 <!--- Atomar --->
 | Atommasse= 137,327
@@ -26,11 +26,11 @@
 <!--- Physikalisch --->
 | Aggregatzustand= fest
 | Modifikationen= ?
-| Kristallstruktur= kubisch-raumzentriert
+| Kristallstruktur= kubisk-ruumzentrierd
 | Dichte= 3,62 g/cm<sup>3</sup>
 | RefTempDichte_K= 293
 | Mohshärte= 1,25
-| Magnetismus= paramagnetisch
+| Magnetismus= paramagnetisk
 | Schmelzpunkt_K= 1000
 | Schmelzpunkt_C= 727
 | Siedepunkt_K= 1913
@@ -48,17 +48,17 @@
 <!--- Chemisch --->
 | Oxidationszustände= +2
 | Oxide= BaO 
-| Basizität= basisch
+| Basizität= basisk
 | Normalpotential= -2,912 [[Volt|V]] </br>(Ba<sup>2+</sup> + 2e<sup>-</sup> → Ba)
 | Elektronegativität= 0,89
-| RL 67/548/EWG      = Nein
+| RL 67/548/EWG      = Noa
 | Gefahrensymbole    = {{Gefahrensymbole|F|Xi}}<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/44831_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)] für Barium-Stücke (teilweise abweichende R-/S-Sätze für andere Formen)</ref>
 | R                  = {{R-Sätze|11|14|36/37/38}}<ref name="alfa-SDB"/>
 | S                  = {{S-Sätze|7/8|16|26|27|30|33|36/37/39|43|60}}<ref name="alfa-SDB"/>
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 128
 | Symbol= Ba
 | NH=0
@@ -68,7 +68,7 @@
 | Zerfallstyp1ZE=0,521
 | Zerfallstyp1ZP=[[Cäsium|<sup>128</sup>Cs]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=129
 | Symbol=Ba
 | NH=0
@@ -78,13 +78,13 @@
 | Zerfallstyp1ZE=2,433
 | Zerfallstyp1ZP=[[Cäsium|<sup>129</sup>Cs]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 56
 | Massenzahl=130
 | Symbol=Ba
 | NH=0,106
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=131
 | Symbol=Ba
 | NH=0
@@ -94,13 +94,13 @@
 | Zerfallstyp1ZE=1,370
 | Zerfallstyp1ZP=[[Cäsium|<sup>131</sup>Cs]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 56
 | Massenzahl=132
 | Symbol=Ba
 | NH=0,101
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=133
 | Symbol=Ba
 | NH=0
@@ -110,37 +110,37 @@
 | Zerfallstyp1ZE=0,517
 | Zerfallstyp1ZP=[[Cäsium|<sup>133</sup>Cs]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 56
 | Massenzahl=134
 | Symbol=Ba
 | NH=2,417
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 56
 | Massenzahl=135
 | Symbol=Ba
 | NH=6,592
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 56
 | Massenzahl=136
 | Symbol=Ba
 | NH=7,854
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 56
 | Massenzahl=137
 | Symbol=Ba
 | NH=11,23
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | OZ= 56
 | Massenzahl=138
 | Symbol=Ba
 | NH=71,7
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=139
 | Symbol=Ba
 | NH=0
@@ -150,7 +150,7 @@
 | Zerfallstyp1ZE=2,317
 | Zerfallstyp1ZP=[[Lanthan|<sup>139</sup>La]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=140
 | Symbol=Ba
 | NH=0
