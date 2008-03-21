@@ -1,15 +1,15 @@
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
-| Name = Niob
+| Name = Niobium
 | Symbol = Nb
 | Ordnungszahl = 41
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 5
 | Periode = 5
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = grau metallisch
+| Aussehen = gries metallisk
 | Massenanteil = 1,8 · 10<sup>-3</sup>
 <!--- Atomar --->
 | Atommasse = 92,90638
@@ -26,9 +26,9 @@
 | Ionisierungsenergie_4 = 3700
 | Ionisierungsenergie_5 = 4877
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen = 
-| Kristallstruktur = kubisch raumzentriert
+| Kristallstruktur = kubisk ruumzentrierd
 | Dichte = 8,57 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 6
@@ -53,7 +53,7 @@
 <!--- Chemisch --->
 | Oxidationszustände = 3, '''5'''
 | Oxide = 
-| Basizität = leicht [[Säure|sauer]]
+| Basizität = licht [[Süüre|suur]]
 | Normalpotential = -1,099 [[Volt|V]] (Nb<sup>3+</sup> + 3e<sup>-</sup> → Nb)
 | Elektronegativität = 1,6
 | Gefahrensymbole    = {{Gefahrensymbole|F}}
@@ -61,7 +61,7 @@
 | S                  = {{S-Sätze|43}}<ref name="BGIA"/>
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Nb
 | Massenzahl = 91
@@ -71,7 +71,7 @@
 | Zerfallstyp1ZE = 1,253
 | Zerfallstyp1ZP = [[Zirconium|<sup>91</sup>Zr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Nb
 | Massenzahl = 92
@@ -84,13 +84,13 @@
 | Zerfallstyp2ZE = 0,356
 | Zerfallstyp2ZP = [[Molybdän|<sup>92</sup>Mo]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Nb
 | Massenzahl = 93
 | NH = '''100'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Nb
 | Massenzahl = 93[[Metastabiler Zustand|meta]]
@@ -100,7 +100,7 @@
 | Zerfallstyp1ZE = 0,031
 | Zerfallstyp1ZP = <sup>93</sup>Nb
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Nb
 | Massenzahl = 94
@@ -110,7 +110,7 @@
 | Zerfallstyp1ZE = 2,045
 | Zerfallstyp1ZP = [[Molybdän|<sup>94</sup>Mo]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Nb
 | Massenzahl = 95
