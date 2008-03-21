@@ -4,13 +4,13 @@
 | Symbol = La
 | Ordnungszahl = 57
 | Massenzahl = 139
-| Serie=[[Übergangsmetalle]]
+| Serie=[[Uurgongsmetalle]]
 | Gruppe = 3 
 | Periode = 6
 | Block= d
 | Serienfarbe= LightCoral
 <!--- Allgemein --->
-| Aussehen = silbrig weiß
+| Aussehen = säälwersk wiet
 | Massenanteil = 2 · 10<sup>−3</sup>
 <!--- Atomar --->
 | Atommasse = 138,9055
@@ -25,9 +25,9 @@
 | Ionisierungsenergie_2 = 1067
 | Ionisierungsenergie_3 = 1850,3
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen = 3
-| Kristallstruktur = hexagonal
+| Kristallstruktur = hexagonoal
 | Dichte = 6,146 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 2,5
@@ -53,12 +53,12 @@
 | Basizität = 
 | Normalpotential = −2,522 [[Volt|V]] (La<sup>3+</sup> + 3e<sup>−</sup> → La)
 | Elektronegativität = 1,1
-| Gefahrensymbole    = pulverförmiges Lanthan:{{Gefahrensymbole|F}}&nbsp;<ref name="BGIA GESTIS">{{GESTIS|ZVG=7570|CAS=7439-91-0|Datum=29. Aug. 2007}}</ref>
+| Gefahrensymbole    = pulwerfoarmich Lanthan:{{Gefahrensymbole|F}}&nbsp;<ref name="BGIA GESTIS">{{GESTIS|ZVG=7570|CAS=7439-91-0|Datum=29. Aug. 2007}}</ref>
 | R                  = {{R-Sätze|11}}&nbsp;<ref name="BGIA GESTIS"/>
 | S                  = {{S-Sätze|16|33|36/37/39}}&nbsp;<ref name="BGIA GESTIS"/>
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 135
 | Symbol = La
@@ -68,7 +68,7 @@
 | Zerfallstyp1ZE = 1,200
 | Zerfallstyp1ZP = [[Barium|<sup>135</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 136
 | Symbol = La
@@ -78,7 +78,7 @@
 | Zerfallstyp1ZE = 2,870
 | Zerfallstyp1ZP = [[Barium|<sup>136</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 137
 | Symbol = La
@@ -88,7 +88,7 @@
 | Zerfallstyp1ZE = 0,600
 | Zerfallstyp1ZP = [[Barium|<sup>137</sup>Ba]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Massenzahl = 138
 | Symbol = La
@@ -101,13 +101,13 @@
 | Zerfallstyp2ZE = 1,044
 | Zerfallstyp2ZP = [[Cer|<sup>138</sup>Ce]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Massenzahl = 139
 | Symbol = La
 | NH = '''99,91'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 140
 | Symbol = La
@@ -117,7 +117,7 @@
 | Zerfallstyp1ZE = 3,762
 | Zerfallstyp1ZP = [[Cer|<sup>140</sup>Ce]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Massenzahl = 141
 | Symbol = La
