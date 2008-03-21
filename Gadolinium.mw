@@ -9,7 +9,7 @@
 | Block= f
 | Serienfarbe= Plum
 <!--- Allgemein --->
-| Aussehen= silbrig weiß
+| Aussehen= säälwersk wiet
 | Massenanteil= -
 <!--- Atomar --->
 | Atommasse= 157,25
@@ -24,13 +24,13 @@
 | Ionisierungsenergie_2= 1170
 | Ionisierungsenergie_3= 1990
 <!--- Physikalisch --->
-| Aggregatzustand= fest
+| Aggregatzustand= fääst
 | Modifikationen= -
-| Kristallstruktur= [[Hexagon|hexagonal]]
+| Kristallstruktur= [[Hexagon|hexagonoal]]
 | Dichte= 7,901 g/cm<sup>3</sup>
 | RefTempDichte_K=
 | Mohshärte= 
-| Magnetismus= paramagnetisch
+| Magnetismus= paramagnetisk
 | Schmelzpunkt_K= 1585
 | Schmelzpunkt_C= 1312
 | Siedepunkt_K= 3523
@@ -50,7 +50,7 @@
 <!--- Chemisch --->
 | Oxidationszustände= 3
 | Oxide= 
-| Basizität= leicht [[Base (Chemie)|basisch]]
+| Basizität= licht [[Base (Chemie)|basisk]]
 | Normalpotential=
 | Elektronegativität= 1,20
 | Gefahrensymbole= {{Vorlage:Gefahrensymbole|F}}
@@ -58,7 +58,7 @@
 | S = {{S-Sätze|7/8|43}}
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=148
 | Symbol= Gd
 | NH=0
@@ -68,7 +68,7 @@
 | Zerfallstyp1ZE=3,271
 | Zerfallstyp1ZP=[[Samarium|<sup>144</sup>Sm]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=149
 | Symbol=Gd
 | NH=0
@@ -78,7 +78,7 @@
 | Zerfallstyp1ZE=1,314
 | Zerfallstyp1ZP=[[Europium|<sup>149</sup>Eu]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=150
 | Symbol=Gd
 | NH=0
@@ -88,7 +88,7 @@
 | Zerfallstyp1ZE=2,809
 | Zerfallstyp1ZP=[[Samarium|<sup>146</sup>Sm]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=151
 | Symbol=Gd
 | NH=0
@@ -98,7 +98,7 @@
 | Zerfallstyp1ZE=0,464
 | Zerfallstyp1ZP=[[Europium|<sup>151</sup>Eu]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=152
 | Symbol=Gd
 | NH=0
@@ -108,7 +108,7 @@
 | Zerfallstyp1ZE=2,205
 | Zerfallstyp1ZP=[[Samarium|<sup>148</sup>Sm]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=153
 | Symbol=Gd
 | NH=0
@@ -118,42 +118,42 @@
 | Zerfallstyp1ZE=0,485
 | Zerfallstyp1ZP=[[Europium|<sup>153</sup>Eu]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= 0
 | OZ= 64
 | Massenzahl=154
 | Symbol=Gd
 | NH=2,18
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= 0
 | OZ= 64
 | Massenzahl=155
 | Symbol=Gd
 | NH=14,80
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= 0
 | OZ= 64
 | Massenzahl=156
 | Symbol=Gd
 | NH=20,47
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= 0
 | OZ= 64
 | Massenzahl=157
 | Symbol=Gd
 | NH=15,65
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= 0
 | OZ= 64
 | Massenzahl=158
 | Symbol=Gd
 | NH=24,84
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=159
 | Symbol=Gd
 | NH=0
@@ -163,7 +163,7 @@
 | Zerfallstyp1ZE=0,971
 | Zerfallstyp1ZP=[[Terbium|<sup>159</sup>Tb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=160
 | Symbol=Gd
 | NH= 21,86
