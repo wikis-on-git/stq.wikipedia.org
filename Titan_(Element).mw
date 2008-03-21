@@ -3,13 +3,13 @@
 | Name = Titan
 | Symbol = Ti
 | Ordnungszahl = 22
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 4
 | Periode = 4
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = silbrig metallisch
+| Aussehen = säälwersk metallisk
 | Massenanteil = 0,41
 <!--- Atomar --->
 | Atommasse = 47,867
@@ -25,13 +25,13 @@
 | Ionisierungsenergie_3 = 2652,5
 | Ionisierungsenergie_4 = 4174,6
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen = 
 | Kristallstruktur = hexagonal (bis 882 °C, darüber krz)
 | Dichte = 4,507 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 6
-| Magnetismus = [[Paramagnetismus|paramagnetisch]]
+| Magnetismus = [[Paramagnetismus|paramagnetisk]]
 | Schmelzpunkt_K = 1941
 | Schmelzpunkt_C = 1668
 | Siedepunkt_K = 3560
@@ -62,7 +62,7 @@
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ti
 | Massenzahl = 44
@@ -72,7 +72,7 @@
 | Zerfallstyp1ZE = 0,268
 | Zerfallstyp1ZP = [[Scandium|<sup>44</sup>Sc]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ti
 | Massenzahl = 45
@@ -82,37 +82,37 @@
 | Zerfallstyp1ZE = 2,062
 | Zerfallstyp1ZP = [[Scandium|<sup>45</sup>Sc]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ti
 | Massenzahl = 46
 | NH = 8,0
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ti
 | Massenzahl = 47
 | NH = 7,3
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ti
 | Massenzahl = 48
 | NH = '''73,8'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ti
 | Massenzahl = 49
 | NH = 5,5
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Ti
 | Massenzahl = 50
 | NH = 5,4
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ti
 | Massenzahl = 51
@@ -122,7 +122,7 @@
 | Zerfallstyp1ZE = 2,471
 | Zerfallstyp1ZP = [[Vanadium|<sup>51</sup>V]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ti
 | Massenzahl = 52
