@@ -3,13 +3,13 @@
 | Name = Vanadium
 | Symbol = V
 | Ordnungszahl = 23
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 5
 | Periode = 4
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = silbrig grau metallisch
+| Aussehen = säälwersk gries metallisk
 | Massenanteil = 0,01
 <!--- Atomar --->
 | Atommasse = 50,9415
@@ -31,9 +31,9 @@
 | Ionisierungsenergie_9 = 
 | Ionisierungsenergie_10 = 
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen = 
-| Kristallstruktur = kubisch raumzentriert
+| Kristallstruktur = kubisk ruumzentrierd
 | Dichte = 6,11 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 7,0
@@ -68,7 +68,7 @@
 | Radioaktiv         = 
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = V
 | Massenzahl = 47
@@ -78,7 +78,7 @@
 | Zerfallstyp1ZE = 29,28
 | Zerfallstyp1ZP = [[Titan (Element)|<sup>47</sup>Ti]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = V
 | Massenzahl = 48
@@ -88,7 +88,7 @@
 | Zerfallstyp1ZE = 4,012
 | Zerfallstyp1ZP = [[Titan (Element)|<sup>48</sup>Ti]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = V
 | Massenzahl = 49
@@ -98,7 +98,7 @@
 | Zerfallstyp1ZE = 0,602
 | Zerfallstyp1ZP = [[Titan (Element)|<sup>49</sup>Ti]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = V
 | Massenzahl = 50
@@ -111,13 +111,13 @@
 | Zerfallstyp2ZE = 1,037
 | Zerfallstyp2ZP = [[Chrom|<sup>50</sup>Cr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = V
 | Massenzahl = 51
 | NH = '''99,75'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = V
 | Massenzahl = 52
@@ -127,7 +127,7 @@
 | Zerfallstyp1ZE = 3,976
 | Zerfallstyp1ZP = [[Chrom|<sup>52</sup>Cr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = V
 | Massenzahl = 53
