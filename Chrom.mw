@@ -4,13 +4,13 @@
 | Symbol= Cr
 | Ordnungszahl= 24
 | Massenzahl= 52
-| Serie= [[Übergangsmetalle]]
+| Serie= [[Uurgongsmetalle]]
 | Gruppe = 6
 | Periode = 4
 | Block= d
 | Serienfarbe= LightCoral
 <!--- Allgemein --->
-| Aussehen= silbrig metallisch
+| Aussehen= säälwersk metallisk
 | Massenanteil= 1,9 · 10<sup>−2</sup>
 <!--- Atomar --->
 | Atommasse= 51,9961 
@@ -28,10 +28,10 @@
 | Ionisierungsenergie_5= 6702
 | Ionisierungsenergie_6= 8744,9
 <!--- Physikalisch --->
-| Aggregatzustand= fest
+| Aggregatzustand= fääst
 | Magnetismus= [[Antiferromagnetismus|antiferromagnetisch]] ([[Neel-Temperatur|Neél-Temp]].: 475 K<ref name="HoWi"/>)
 | Modifikationen= 
-| Kristallstruktur= kubisch raumzentriert
+| Kristallstruktur= kubisk ruumzentrierd
 | Dichte= 7,14 g/cm<sup>3</sup><ref name="HoWi">Holleman-Wiberg: ''Lehrbuch der Anorganischen Chemie''</ref>
 | RefTempDichte_K= 
 | Mohshärte= 8,5
@@ -52,7 +52,7 @@
 <!--- Chemisch --->
 | Oxidationszustände= 6, 3, 2
 | Oxide= -
-| Basizität= stark sauer
+| Basizität= stäärk suur
 | Normalpotential= -
 | Elektronegativität= 1,66
 | RL 67/548/EWG = 
@@ -62,7 +62,7 @@
 | Radioaktiv = 
 <!--- Isotope --->
 | Isotope= 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 48
 | Symbol= Cr
 | NH= 0
@@ -72,7 +72,7 @@
 | Zerfallstyp1ZE = 1,659
 | Zerfallstyp1ZP = [[Vanadium|<sup>48</sup>V]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 49
 | Symbol= Cr
 | NH= [[Synthetisches Radioisotop|{syn.}]]
@@ -82,7 +82,7 @@
 | Zerfallstyp1ZE = 2,631
 | Zerfallstyp1ZP = [[Vanadium|<sup>49</sup>V]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 50
 | Symbol= Cr
 | NH= 4,345
@@ -92,7 +92,7 @@
 | Zerfallstyp1ZE = 1,037
 | Zerfallstyp1ZP = [[Titan (Element)|<sup>50</sup>Ti]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 51
 | Symbol= Cr
 | NH= 0
@@ -102,28 +102,28 @@
 | Zerfallstyp1ZE = 0,753
 | Zerfallstyp1ZP = [[Vanadium|<sup>51</sup>V]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cr
 | OZ = 24
 | Massenzahl = 52
 | NH = '''83,789'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cr
 | OZ = 24
 | Massenzahl = 53
 | NH = 9,501
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Cr
 | OZ = 24
 | Massenzahl = 54
 | NH = 2,365
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 55
 | Symbol= Cr
 | NH= 0
@@ -133,7 +133,7 @@
 | Zerfallstyp1ZE = 2,603
 | Zerfallstyp1ZP = [[Mangan|<sup>55</sup>Mn]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 56
 | Symbol= Cr
 | NH= 0
