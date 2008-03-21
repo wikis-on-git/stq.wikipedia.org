@@ -4,13 +4,13 @@
 | Symbol= Sr
 | Ordnungszahl= 38
 | Massenzahl= 88
-| Serie= [[Erdalkalimetalle]]
+| Serie= [[Äidalkalimetalle]]
 | Gruppe = 2
 | Periode = 5
 | Block= s
 | Serienfarbe= DarkOrange
 <!--- Allgemein --->
-| Aussehen= silbrig weiß metallisch
+| Aussehen= säälwersk wiet metallisk
 | Massenanteil= 0,01
 <!--- Atomar --->
 | Atommasse= 87,62
@@ -25,9 +25,9 @@
 | Ionisierungsenergie_2= 1064,2
 <!--- Physikalisch --->
 | Aggregatzustand= fest
-| Magnetismus= [[Paramagnetismus|paramagnetisch]]
+| Magnetismus= [[Paramagnetismus|paramagnetisk]]
 | Modifikationen= -
-| Kristallstruktur= kubisch flächenzentriert
+| Kristallstruktur= kubisk flächenzentrierd
 | Dichte= 2,63 g/cm<sup>3</sup>
 | RefTempDichte_K= 
 | Mohshärte= 1,5
@@ -48,10 +48,10 @@
 <!--- Chemisch --->
 | Oxidationszustände= 2
 | Oxide= SrO
-| Basizität= stark [[Base (Chemie)|basisch]]
+| Basizität= stäärk [[Base (Chemie)|basisk]]
 | Normalpotential= -2,89 [[Volt|V]] (Sr<sup>2+</sup> + 2e<sup>-</sup> → Sr)
 | Elektronegativität= 0,95
-| RL 67/548/EWG      = Nein
+| RL 67/548/EWG      = Noa
 | Gefahrensymbole    = {{Gefahrensymbole|F}}
 | R                  = {{R-Sätze|15}}<ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/35789_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
 | S                  = {{S-Sätze|8|24/25|43}}<ref name="alfa-SDB"/>
@@ -59,7 +59,7 @@
  
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Sr
 | Massenzahl = 82
@@ -69,7 +69,7 @@
 | Zerfallstyp1ZE = 0,180
 | Zerfallstyp1ZP = [[Rubidium|<sup>82</sup>Rb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Sr
 | Massenzahl = 83
@@ -79,13 +79,13 @@
 | Zerfallstyp1ZE = 2,276
 | Zerfallstyp1ZP = [[Rubidium|<sup>83</sup>Rb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Sr
 | Massenzahl = 84
 | NH = 0,56
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Sr
 | Massenzahl = 85
@@ -95,25 +95,25 @@
 | Zerfallstyp1ZE = 1,065
 | Zerfallstyp1ZP = [[Rubidium|<sup>85</sup>Rb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Sr
 | Massenzahl = 86
 | NH = 9,86
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Sr
 | Massenzahl = 87
 | NH = 7,00
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Sr
 | Massenzahl = 88
 | NH = '''82,58'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Sr
 | Massenzahl = 89
@@ -123,7 +123,7 @@
 | Zerfallstyp1ZE = 1,497
 | Zerfallstyp1ZP = [[Yttrium|<sup>89</sup>Y]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Sr
 | Massenzahl = 90
