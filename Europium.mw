@@ -59,7 +59,7 @@
 | S={{S-Sätze|7/8|43}}
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Eu
 | Massenzahl = 149
@@ -69,7 +69,7 @@
 | Zerfallstyp1ZE = 0,692
 | Zerfallstyp1ZP = [[Samarium|<sup>149</sup>Sm]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Eu
 | Massenzahl = 150
@@ -79,14 +79,14 @@
 | Zerfallstyp1ZE = 2,261
 | Zerfallstyp1ZP = [[Samarium|<sup>150</sup>Sm]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Eu
 | OZ = 63
 | Massenzahl = 151
 | NH = 47,8
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Eu
 | Massenzahl = 152
@@ -99,14 +99,14 @@
 | Zerfallstyp2ZE = 1,819
 | Zerfallstyp2ZP = [[Gadolinium|<sup>152</sup>Gd]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Eu
 | OZ = 63
 | Massenzahl = 153
 | NH = 52,2
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Eu
 | Massenzahl = 154
@@ -116,7 +116,7 @@
 | Zerfallstyp1ZE = 1,969
 | Zerfallstyp1ZP = [[Gadolinium|<sup>154</sup>Gd]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Eu
 | Massenzahl = 155
