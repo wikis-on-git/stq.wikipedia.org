@@ -37,7 +37,7 @@
 | Dichte = 13,31 g/cm<sup>3</sup>
 | RefTempDichte_K = 
 | Mohshärte = 5,5
-| Magnetismus = [[Paramagnetismus|paramagnetisch]]<ref>Magnetic Susceptibility of Hafnium and Manganese in: ''Physical Review'', 1955, 98, 4, 936–937</ref>
+| Magnetismus = [[Paramagnetismus|paramagnetisk]]<ref>Magnetic Susceptibility of Hafnium and Manganese in: ''Physical Review'', 1955, 98, 4, 936–937</ref>
 | Schmelzpunkt_K = 2506
 | Schmelzpunkt_C = 2233
 | Siedepunkt_K = 4876
@@ -66,7 +66,7 @@
 | S                  = {{S-Sätze|-}}<ref name="BGIA GESTIS"/>
 <!--- Isotope --->
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Hf
 | Massenzahl = 174
@@ -76,7 +76,7 @@
 | Zerfallstyp1ZE = 2,495
 | Zerfallstyp1ZP = [[Ytterbium|<sup>170</sup>Yb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Hf
 | Massenzahl = 175
@@ -86,31 +86,31 @@
 | Zerfallstyp1ZE = 0,686
 | Zerfallstyp1ZP = [[Lutetium|<sup>175</sup>Lu]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Hf
 | Massenzahl = 176
 | NH = 5,206
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Hf
 | Massenzahl = 177
 | NH = 18,606
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Hf
 | Massenzahl = 178
 | NH = 27,297
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Hf
 | Massenzahl = 179
 | NH = 13,629
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Hf
 | Massenzahl = 180
