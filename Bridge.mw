@@ -160,46 +160,46 @@ Ju Paatäi kricht foar älke fon dän 7. ou moakeden Stich Stichpunkte. Ju Höö
  |
 
   {| cellpadding="3" cellspacing="0" border="1" style="border-collapse:collapse;"
-   | class="hintergrundfarbe9" width="20%" align="center" | 1?
-   | class="hintergrundfarbe9" width="20%" align="center" | 1{{?}}
-   | class="hintergrundfarbe9" width="20%" align="center" | 1{{?}}
-   | class="hintergrundfarbe9" width="20%" align="center" | 1?
+   | class="hintergrundfarbe9" width="20%" align="center" | 1♣
+   | class="hintergrundfarbe9" width="20%" align="center" | 1{{♦}}
+   | class="hintergrundfarbe9" width="20%" align="center" | 1{{♥}}
+   | class="hintergrundfarbe9" width="20%" align="center" | 1♠
    | class="hintergrundfarbe9" width="20%" align="center" | 1NT
    |-
-   | class="hintergrundfarbe9" align="center" | 2?
-   | class="hintergrundfarbe9" align="center" | 2{{?}}
-   | class="hintergrundfarbe9" align="center" | 2{{?}}
-   | class="hintergrundfarbe9" align="center" | 2?
+   | class="hintergrundfarbe9" align="center" | 2♣
+   | class="hintergrundfarbe9" align="center" | 2{{♦}}
+   | class="hintergrundfarbe9" align="center" | 2{{♥}}
+   | class="hintergrundfarbe9" align="center" | 2♠
    | class="hintergrundfarbe9" align="center" | 2NT
    |-
-   | class="hintergrundfarbe9" align="center" | 3?
-   | class="hintergrundfarbe9" align="center" | 3{{?}}
-   | class="hintergrundfarbe9" align="center" | 3{{?}}
-   | class="hintergrundfarbe9" align="center" | 3?
+   | class="hintergrundfarbe9" align="center" | 3♣
+   | class="hintergrundfarbe9" align="center" | 3{{♦}}
+   | class="hintergrundfarbe9" align="center" | 3{{♥}}
+   | class="hintergrundfarbe9" align="center" | 3♠
    | class="hintergrundfarbe6" align="center" | 3NT
    |-
-   | class="hintergrundfarbe9" align="center" | 4?
-   | class="hintergrundfarbe9" align="center" | 4{{?}}
-   | class="hintergrundfarbe6" align="center" | 4{{?}}
-   | class="hintergrundfarbe6" align="center" | 4?
+   | class="hintergrundfarbe9" align="center" | 4♣
+   | class="hintergrundfarbe9" align="center" | 4{{♦}}
+   | class="hintergrundfarbe6" align="center" | 4{{♥}}
+   | class="hintergrundfarbe6" align="center" | 4♠
    | class="hintergrundfarbe6" align="center" | 4NT
    |-
-   | class="hintergrundfarbe6" align="center" | 5?
-   | class="hintergrundfarbe6" align="center" | 5{{?}}
-   | class="hintergrundfarbe6" align="center" | 5{{?}}
-   | class="hintergrundfarbe6" align="center" | 5?
+   | class="hintergrundfarbe6" align="center" | 5♣
+   | class="hintergrundfarbe6" align="center" | 5{{♦}}
+   | class="hintergrundfarbe6" align="center" | 5{{♥}}
+   | class="hintergrundfarbe6" align="center" | 5♠
    | class="hintergrundfarbe6" align="center" | 5NT
    |-
-   | class="hintergrundfarbe8" align="center" | 6?
-   | class="hintergrundfarbe8" align="center" | 6{{?}}
-   | class="hintergrundfarbe8" align="center" | 6{{?}}
-   | class="hintergrundfarbe8" align="center" | 6?
+   | class="hintergrundfarbe8" align="center" | 6♣
+   | class="hintergrundfarbe8" align="center" | 6{{♦}}
+   | class="hintergrundfarbe8" align="center" | 6{{♥}}
+   | class="hintergrundfarbe8" align="center" | 6♠
    | class="hintergrundfarbe8" align="center" | 6NT
    |-
-   | class="hintergrundfarbe7" align="center" | 7?
-   | class="hintergrundfarbe7" align="center" | 7{{?}}
-   | class="hintergrundfarbe7" align="center" | 7{{?}}
-   | class="hintergrundfarbe7" align="center" | 7?
+   | class="hintergrundfarbe7" align="center" | 7♣
+   | class="hintergrundfarbe7" align="center" | 7{{♦}}
+   | class="hintergrundfarbe7" align="center" | 7{{♥}}
+   | class="hintergrundfarbe7" align="center" | 7♠
    | class="hintergrundfarbe7" align="center" | 7NT
    |-
    |}
@@ -223,10 +223,11 @@ Ju Paatäi kricht foar älke fon dän 7. ou moakeden Stich Stichpunkte. Ju Höö
  |}
 
 Fääre kricht ju Paatäi ferscheedene Prämien. Foulgjende Begriepe wäide ferwoand:
-= Grootschlemm: 13 Stiche antäld (d. h. 7?, 7{{?}}, 7{{?}}, 7? oder 7NT)      
-* Littikschlemm: 12 Stiche antäld (d. h. 6?, 6{{?}}, 6{{?}}, 6? oder 6NT)
+* Grootschlemm: 13 Stiche antäld (d. h. 7♣, 7{{♦}}, 7{{♥}}, 7♠ of 7NT)      
+* Littikschlemm: 12 Stiche antäld (d. h. 6♣, 6{{♦}}, 6{{♥}}, 6♠ of 6NT)
 * Fulspil of Manche: Een Spil wierbie do Stichpunkte fon do bie ju Raitsenge “antälde” Stiche mindestens 100 bedreege. 
 * Deelkontrakt: N Spil wierbie do Stichpunkte fon do antälde Stiche minner as as 100 sunt.
+
 
 {| class="prettytable"
  |- 
@@ -254,6 +255,7 @@ Fääre kricht ju Paatäi ferscheedene Prämien. Foulgjende Begriepe wäide ferw
 Biespiele (Alleenspieler nit in Gefoar):
 
 Ju Summe sät sik touhoope uut ''Stichpunkte fon do moakede Stiche'' un ''Prämien''. ''Stichpunkte fon do antälde Stiche'' is bloot nöödich foar ju Äntscheedenge, of dät Poor ju Fullspil- of ju Deelkontraktprämie kricht.
+
 {| class="prettytable"
  |- 
  ! style="background: #c0c0c0;" | Kontrakt
