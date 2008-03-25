@@ -61,7 +61,7 @@
 | S                  = {{S-Sätze|-}} (Pulver)<ref name="alfa-SDB"/>
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Bi
 | Massenzahl = 205
@@ -71,7 +71,7 @@
 | Zerfallstyp1ZE = 2,708
 | Zerfallstyp1ZP = [[Blei|<sup>205</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Bi
 | Massenzahl = 206
@@ -81,7 +81,7 @@
 | Zerfallstyp1ZE = 3,758
 | Zerfallstyp1ZP = [[Blei|<sup>206</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Bi
 | Massenzahl = 207
@@ -91,7 +91,7 @@
 | Zerfallstyp1ZE = 2,399
 | Zerfallstyp1ZP = [[Blei|<sup>207</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Bi
 | Massenzahl = 208
@@ -101,7 +101,7 @@
 | Zerfallstyp1ZE = 2,880
 | Zerfallstyp1ZP = [[Blei|<sup>208</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Bi
 | Massenzahl = 209
@@ -111,7 +111,7 @@
 | Zerfallstyp1ZE = 3,137 <ref>''Nature'', Volume 422 Number 6934, 2003, Seite 876–878</ref>
 | Zerfallstyp1ZP = [[Thallium|<sup>205</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Bi
 | Massenzahl = 210
@@ -124,7 +124,7 @@
 | Zerfallstyp2ZE = 5,037
 | Zerfallstyp2ZP = [[Thallium|<sup>206</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Bi
 | Massenzahl = 210m1
@@ -134,7 +134,7 @@
 | Zerfallstyp1ZE = 
 | Zerfallstyp1ZP = [[Thallium|<sup>206</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Bi
 | Massenzahl = 211
@@ -147,7 +147,7 @@
 | Zerfallstyp2ZE = 6,751
 | Zerfallstyp2ZP = [[Thallium|<sup>207</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Bi
 | Massenzahl = 212
@@ -160,7 +160,7 @@
 | Zerfallstyp2ZE = 6,027
 | Zerfallstyp2ZP = [[Thallium|<sup>208</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Bi
 | Massenzahl = 213
