@@ -1,4 +1,4 @@
-[[Image:SIMSPB.JPG|thumb|340px|[[Sekundär-Ione-Massen-Spektroskopie (SIMS)|SIMS]] Massenspektrum fon do [[Isotop]]e]]
+[[Image:SIMSPB.JPG|thumb|340px|[[Sekundär-Ione-Massen-Spektroskopie (SIMS)|SIMS]] Massenspektrum fon do [[Isotop]]e (kiek unner!)]]
 {{Infobox Chemisk Element
 <!--- Periodensystem --->
 | Name = Blei
@@ -62,7 +62,7 @@
 | S                  = {{S-Sätze|53|45|60|61}}<ref name="Merck-SDB"/>
 | Radioaktiv = 
 | Isotope =
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Pb
 | Massenzahl = 202
@@ -75,7 +75,7 @@
 | Zerfallstyp2ZE = 0,050
 | Zerfallstyp2ZP = [[Thallium|<sup>202</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Pb
 | Massenzahl = 203
@@ -85,7 +85,7 @@
 | Zerfallstyp1ZE = 0,975
 | Zerfallstyp1ZP = [[Thallium|<sup>203</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Pb
 | Massenzahl = 204
@@ -95,7 +95,7 @@
 | Zerfallstyp1ZE = 2,186
 | Zerfallstyp1ZP = [[Quecksilber|<sup>200</sup>Hg]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Pb
 | Massenzahl = 205
@@ -105,25 +105,25 @@
 | Zerfallstyp1ZE = 0,051
 | Zerfallstyp1ZP = [[Thallium|<sup>205</sup>Tl]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Pb
 | Massenzahl = 206
 | NH = 24,1
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Pb
 | Massenzahl = 207
 | NH = 22,1
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 0
 | Symbol = Pb
 | Massenzahl = 208
 | NH = '''52,4'''
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Pb
 | Massenzahl = 209
@@ -133,7 +133,7 @@
 | Zerfallstyp1ZE = 0,644
 | Zerfallstyp1ZP = [[Bismut|<sup>209</sup>Bi]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Pb
 | Massenzahl = 210
