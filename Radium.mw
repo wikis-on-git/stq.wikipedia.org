@@ -56,7 +56,7 @@
 | Radioaktiv = Ja
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ra
 | Massenzahl = 223
@@ -66,7 +66,7 @@
 | Zerfallstyp1ZE = 5,979
 | Zerfallstyp1ZP = [[Radon|<sup>219</sup>Rn]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ra
 | Massenzahl = 224
@@ -76,7 +76,7 @@
 | Zerfallstyp1ZE = 5,789
 | Zerfallstyp1ZP = [[Radon|<sup>220</sup>Rn]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ra
 | Massenzahl = 225
@@ -86,7 +86,7 @@
 | Zerfallstyp1ZE = 0,357
 | Zerfallstyp1ZP = [[Actinium|<sup>225</sup>Ac]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ra
 | Massenzahl = 226
@@ -96,7 +96,7 @@
 | Zerfallstyp1ZE = 4,871
 | Zerfallstyp1ZP = [[Radon|<sup>222</sup>Rn]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ra
 | Massenzahl = 227
@@ -106,7 +106,7 @@
 | Zerfallstyp1ZE = 1,325
 | Zerfallstyp1ZP = [[Actinium|<sup>227</sup>Ac]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Ra
 | Massenzahl = 228
@@ -118,7 +118,7 @@
 }}
 | NMREigenschaften=
 <!---
-{{Vorlage:NMREigenschaften
+{{Foarloage:NMREigenschaften
 | Symbol= Sr
 | Massenzahl_1= 87
 | Kernspin_1= -9/2
