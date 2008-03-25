@@ -55,7 +55,7 @@
 | Radioaktiv = Ja
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = At
 | Massenzahl = 209
@@ -68,7 +68,7 @@
 | Zerfallstyp2ZE = 5,757
 | Zerfallstyp2ZP = [[Bismut|<sup>205</sup>Bi]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = At
 | Massenzahl = 210
@@ -81,7 +81,7 @@
 | Zerfallstyp2ZE = 5,631
 | Zerfallstyp2ZP = [[Bismut|<sup>206</sup>Bi]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = At
 | Massenzahl = 211
@@ -94,10 +94,10 @@
 | Zerfallstyp2ZE = 5,982
 | Zerfallstyp2ZP = [[Bismut|<sup>207</sup>Bi]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= -1 <!-- Leerzeile -->
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = At
 | Massenzahl = 213
@@ -107,10 +107,10 @@
 | Zerfallstyp1ZE = ...
 | Zerfallstyp1ZP = ...
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= -1 <!-- Leerzeile -->
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = At
 | Massenzahl = 220
