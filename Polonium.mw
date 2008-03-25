@@ -54,7 +54,7 @@
 | S                  = {{S-Sätze|-}}<ref>[http://www.baua.de/nn_12340/sid_1A5AC775824A933632DA5597DF415EA1/nsc_true/de/Themen-von-A-Z/Gefahrstoffe/Rechtstexte/pdf/RL-67-548-EWG-Anhang-I.pdf Anhang I der Richtlinie RL 67/548/EWG der Bundesanstalt für Arbeitsschutz und Arbeitsmedizin]</ref>
 | Radioaktiv = Ja
 | Isotope = 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Po
 | Massenzahl = 208
@@ -67,7 +67,7 @@
 | Zerfallstyp2ZE = 1,401
 | Zerfallstyp2ZP = [[Bismut|<sup>208</sup>Bi]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Po
 | Massenzahl = 209
@@ -80,7 +80,7 @@
 | Zerfallstyp2ZE = 1,893
 | Zerfallstyp2ZP = [[Bismut|<sup>209</sup>Bi]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 210
@@ -90,7 +90,7 @@
 | Zerfallstyp1ZE = 5,407
 | Zerfallstyp1ZP = [[Blei|<sup>206</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 211
@@ -100,7 +100,7 @@
 | Zerfallstyp1ZE = 7,595
 | Zerfallstyp1ZP = [[Blei|<sup>207</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = <sup>[[metastabiler Zustand|m]]</sup>Po
 | Massenzahl = 211
@@ -113,7 +113,7 @@
 | Zerfallstyp2ZE = 1,462
 | Zerfallstyp2ZP = <sup>211</sup>Po
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 212
@@ -123,7 +123,7 @@
 | Zerfallstyp1ZE = 8,78 
 | Zerfallstyp1ZP = [[Blei|<sup>208</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = <sup>[[metastabiler Zustand|m]]</sup>Po
 | Massenzahl = 212
@@ -136,7 +136,7 @@
 | Zerfallstyp2ZE = 2,922
 | Zerfallstyp2ZP = <sup>212</sup>Po
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 213
@@ -146,7 +146,7 @@
 | Zerfallstyp1ZE = 8,5
 | Zerfallstyp1ZP = [[Blei|<sup>209</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 214
@@ -156,7 +156,7 @@
 | Zerfallstyp1ZE = 7,69
 | Zerfallstyp1ZP = [[Blei|<sup>210</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Po
 | Massenzahl = 215
@@ -169,7 +169,7 @@
 | Zerfallstyp2ZE = 0,721
 | Zerfallstyp2ZP = [[Astat|<sup>215</sup>At]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 216
@@ -179,7 +179,7 @@
 | Zerfallstyp1ZE = 6,78
 | Zerfallstyp1ZP = [[Blei|<sup>212</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 217
@@ -189,7 +189,7 @@
 | Zerfallstyp1ZE = 6,7
 | Zerfallstyp1ZP = [[Blei|<sup>213</sup>Pb]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Po
 | Massenzahl = 218
