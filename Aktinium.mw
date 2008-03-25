@@ -58,7 +58,7 @@
 | Radioaktiv = Ja
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=224
 | Symbol=Ac
 | NH= 0
@@ -74,7 +74,7 @@
 | Zerfallstyp3ZE=0,232
 | Zerfallstyp3ZP=[[Thorium|<sup>224</sup>Th]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=225
 | Symbol=Ac
 | NH= 0
@@ -84,7 +84,7 @@
 | Zerfallstyp1ZE=5,935
 | Zerfallstyp1ZP=[[Francium|<sup>221</sup>Fr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=226
 | Symbol=Ac
 | NH= 0
@@ -100,7 +100,7 @@
 | Zerfallstyp3ZE=5,536
 | Zerfallstyp3ZP=[[Francium|<sup>222</sup>Fr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=227
 | Symbol=Ac
 | NH= < 1 · 10<sup>−10</sup>
@@ -113,7 +113,7 @@
 | Zerfallstyp2ZE=5,536
 | Zerfallstyp2ZP=[[Francium|<sup>223</sup>Fr]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=228
 | Symbol=Ac
 | NH= 0
