@@ -9,7 +9,7 @@
 | Block= s
 | Serienfarbe= OrangeRed
 <!--- Allgemein --->
-| Aussehen= unbekannt
+| Aussehen= uunbekoand
 | Massenanteil= 1 · 10<sup>-21</sup>
 <!--- Atomar --->
 | Atommasse= 223,0197
@@ -23,9 +23,9 @@
 | Ionisierungsenergie_1= 380
 | Ionisierungsenergie_2=
 <!--- Physikalisch --->
-| Aggregatzustand=fest
+| Aggregatzustand=fääst
 | Modifikationen= 1
-| Kristallstruktur= kubisch flächenzentriert
+| Kristallstruktur= kubisk flächenzentrierd
 | Dichte= 1,870 g/cm<sup>3</sup>
 | RefTempDichte_K=
 | Mohshärte= -
@@ -49,14 +49,14 @@
 <!--- Chemisch --->
 | Oxidationszustände= 1
 | Oxide= Fr<sub>2</sub>O
-| Basizität= stark [[Base (Chemie)|basisch]]
+| Basizität= stäärk [[Base (Chemie)|basisk]]
 | Normalpotential= 
 | Elektronegativität= 0,7
 | Gefahrensymbole = {{Gefahrensymbole|?}}
 | Radioaktiv = Ja
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 1
 | Symbol = Fr
 | Massenzahl = 222
@@ -66,7 +66,7 @@
 | Zerfallstyp1ZE = 2,033
 | Zerfallstyp1ZP = [[Radium|<sup>222</sup>Ra]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Symbol = Fr
 | Massenzahl = 223
@@ -79,5 +79,5 @@
 | Zerfallstyp2ZE = 5,430
 | Zerfallstyp2ZP = [[Astat|<sup>219</sup>At]]
 }}
-| NMREigenschaften= unbekannt
+| NMREigenschaften= uunbekoand
 }}
