@@ -60,7 +60,7 @@
 | S                  = {{S-Sätze|-}}
 <!--- Isotope --->
 | Isotope=
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=195
 | Symbol=Au
 | NH= 0
@@ -70,7 +70,7 @@
 | Zerfallstyp1ZE= 0,227
 | Zerfallstyp1ZP= [[Platin|<sup>195</sup>Pt]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 196
 | Symbol= Au
 | NH= 0
@@ -83,14 +83,14 @@
 | Zerfallstyp2ZE= 0,686
 | Zerfallstyp2ZP= [[Quecksilber|<sup>196</sup>Hg]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= 0
 | OZ= 79
 | Massenzahl= 197
 | Symbol= Au
 | NH=100
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl=198
 | Symbol=Au
 | NH=0
@@ -100,7 +100,7 @@
 | Zerfallstyp1ZE= 1,372
 | Zerfallstyp1ZP= [[Quecksilber|<sup>198</sup>Hg]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 199
 | Symbol=Au
 | NH=0
