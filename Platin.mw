@@ -4,13 +4,13 @@
 | Name = Platin
 | Symbol = Pt
 | Ordnungszahl = 78
-| Serie = [[Übergangsmetalle]]
+| Serie = [[Uurgongsmetalle]]
 | Gruppe = 10
 | Periode = 6
 | Block = d
 | Serienfarbe = LightCoral
 <!--- Allgemein --->
-| Aussehen = grau-weiß
+| Aussehen = gries-wiet
 | Massenanteil = 5 · 10<sup>-7</sup>
 <!--- Atomar --->
 | Atommasse = 195,084
@@ -25,13 +25,13 @@
 | Ionisierungsenergie_2 = 1791
 | Ionisierungsenergie_3 =
 <!--- Physikalisch --->
-| Aggregatzustand = fest
+| Aggregatzustand = fääst
 | Modifikationen =
-| Kristallstruktur = kubisch flächenzentriert
+| Kristallstruktur = kubisk flächenzentrierd
 | Dichte = 21,45 g/cm<sup>3</sup>
 | RefTempDichte_K =
 | Mohshärte = 4,3
-| Magnetismus = [[paramagnetisch]]
+| Magnetismus = [[paramagnetisk]]
 | Schmelzpunkt_K = 2045
 | Schmelzpunkt_C = 1772
 | Siedepunkt_K = 4100
@@ -52,7 +52,7 @@
 <!--- Chemisch --->
 | Oxidationszustände = 0, '''+2''', '''+4''', '''+6'''
 | Oxide = PtO, PtO<sub>2</sub>
-| Basizität = leicht [[Base (Chemie)|basisch]]
+| Basizität = licht [[Base (Chemie)|basisk]]
 | Normalpotential = 1,118 [[Volt|V]] (Pt<sup>2+</sup> + 2e<sup>-</sup> → Pt)
 | Elektronegativität = 2,28
 | Gefahrensymbole = <!--- <div>{{Gefahrensymbole\|-}}</div> --->
