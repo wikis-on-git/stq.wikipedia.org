@@ -58,7 +58,7 @@
 | Radioaktiv = Jee
 <!--- Isotope --->
 | Isotope= 
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen= 1
 | Massenzahl= 241
 | Symbol= Am
@@ -68,7 +68,7 @@
 | Zerfallstyp1ZE = 5,638
 | Zerfallstyp1ZP = [[Neptunium|<sup>237</sup>Np]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Massenzahl= 242
 | Symbol= Am
@@ -81,7 +81,7 @@
 | Zerfallstyp2ZE = 0,751
 | Zerfallstyp2ZP = [[Plutonium|<sup>242</sup>Pu]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | AnzahlZerfallstypen = 2
 | Massenzahl= 242m1
 | Symbol= Am
@@ -94,7 +94,7 @@
 | Zerfallstyp2ZE = 5,637
 | Zerfallstyp2ZP = [[Neptunium|<sup>238</sup>Np]]
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 242m2
 | Symbol= Am
 | NH= 0
@@ -110,7 +110,7 @@
 | Zerfallstyp3ZE = 2,2
 | Zerfallstyp3ZP = <sup>242</sup>Am
 }}
-{{Vorlage:Infobox Chemisches Element/Isotop
+{{Infobox Chemisches Element/Isotop
 | Massenzahl= 243
 | Symbol= Am
 | NH= 0
@@ -120,5 +120,5 @@
 | Zerfallstyp1ZE = 5,438
 | Zerfallstyp1ZP = [[Neptunium|<sup>239</sup>Np]]
 }}
-| NMREigenschaften= unbekannt
+| NMREigenschaften= uunbekoand
 }}
