@@ -1,24 +1,20 @@
-
-
 == Breektaal fon ju Luft un uur Stoffe ==
 
 Ju Breektaal fon de [[Luft]] bedrächt ap [[Seeniveau]] in n Truchsleek 1,00029. 
 
 Ju honget ou fon ju Tichte un ju Temperatuur fon ju Luft as uk fon ju spezielle Touhoopestaalenge fon ju Luft - besunners fon ju [[Luftfuchtegaid]]. Deer ju [[Lufttichte]] ätter buppen - äntspreekend do [[Gasgesäts]]e in een [[Äidsweeregaidsfäild|Sweeregaidsfäild]] - exponentiell ounimt, sjuch [[barometriske Hööchtenformel]], bedrächt ju in sowät 8 km Hööchte bloot moor 1,00011. Daach wäide do fon [[Stierne]]n kuumende Luchtstroalen in [[Horizont]]naite uum 0,6° ''aptild'' un in 45° noch uum 0,017°. Die Effekt hat ''[[astronomiske Refraktion]]'' un beeinfloudet in äänelke Oard uk älke [[terrestrisk]]e [[Fermeetenge]].
 
-Deer as in ju Ienleedenge beschrieuwen ju Breektaal fon älk Materioal fon ju Woogenlaangte fon dät ienfaalende Lucht ouhonget - jält
-
-wie in der Einleitung beschrieben die Brechzahl jedes Materials von der Wellenlänge des einfallenden Lichts abhängt – gilt auch bei elektromagnetischen Strahlungen anderer Wellenlängebereiche – wäre es notwendig, diese auch wellenlängenabhängig (tabellarisch oder als Funktion) anzugeben. Da dies aber für viele einfache Anwendungen nicht notwendig ist, wird die Brechzahl üblicherweise für die Wellenlänge der [[Natrium-D-Linie]] (589&nbsp;nm) angegeben.
+Deer as in ju Ienleedenge beschrieuwen ju Breektaal fon älk Materioal fon ju Woogenlaangte fon dät ienfaalende Lucht ouhonget - jält uk bie elektromagnetiske Stroalengen uur Woogenlaangteberäkke - schuul dät noodweendich weese, ju uk woogenlaangteouhongich (tabellarisk of as Funktion) antoureeken. Deer dit oawers foar fuul eenfache Anweendengen nit noodweendich is, wäd ju Breektaal gewöönelk foar ju Woogenlaangte fon ju [[Natrium-D-Lienje]] (589&nbsp;nm) anroat.
 
 
 {| {{Prettytable-R Gesetz}}
-|+ Brechzahlen für sichtbares Licht
+|+ Breektaalen foar sichtboar Lucht
 |---- bgcolor="#F7F8FF"
-! Material || Brechzahl n<sub>D</sub> (bei 589 nm)
+! Materioal || Breektaal n<sub>D</sub> (bie 589 nm)
 |-----
 | [[Vakuum]] || exakt {{Nts|1}}
 |-----
-| [[Luft]] (bodennah) || {{Nts|1.000292}}
+| [[Luft]] (boudemnai) || {{Nts|1.000292}}
 |-----
 | [[Plasma (Physik)|Plasma]] || {{Nts|0}} … 1
 |-----
@@ -26,11 +22,11 @@ wie in der Einleitung beschrieben die Brechzahl jedes Materials von der Wellenl�
 |-----
 | [[Aerogel]] || {{Nts|1.007}} … 1,24
 |-----
-| [[Eis]] || {{Nts|1.31}}
+| [[Ies]] || {{Nts|1.31}}
 |-----
-| [[Wasser]] || {{Nts|1.33}}
+| [[Woater]] || {{Nts|1.33}}
 |-----
-| menschl. [[Linse (Auge)|Augenlinse]] || {{Nts|1.35}} … 1,42
+| moanskelke [[Linse (Ooge)|Oogenlinse]] || {{Nts|1.35}} … 1,42
 |-----
 | [[Ethanol]]<ref name="Lide2006">Lide, David R.: CRC handbook of chemistry and physics: A ready-reference book of chemical and physical data. 87. Aufl. Boca Raton Fla. : CRC Taylor & Francis, 2006 – ISBN 0-8493-0487-3</ref> || {{Nts|1.3614}}
 |-----
@@ -38,47 +34,47 @@ wie in der Einleitung beschrieben die Brechzahl jedes Materials von der Wellenl�
 |-----
 | [[Flussspat]] ([[Calciumfluorid]]) || {{Nts|1.43}}
 |-----
-| menschl. [[Epidermis (Säugetiere)|Epidermis]] || {{Nts|1.45}}
+| moanskelke [[Epidermis (Suugedierte)|Epidermis]] || {{Nts|1.45}}
 |-----
-| [[Tetrachlorkohlenstoff]] || {{Nts|1.46}}
+| [[Tetrachlorkoolenstof]] || {{Nts|1.46}}
 |-----
-| [[Quarzglas]] || {{Nts|1.46}}
+| [[Quarzglääs]] || {{Nts|1.46}}
 |-----
 | [[Celluloseacetat]] (CA) || {{Nts|1.48}}
 |-----
-| [[PMMA]] (Plexiglas™) || {{Nts|1.49}}
+| [[PMMA]] (Plexiglääs™) || {{Nts|1.49}}
 |-----
 | [[Benzol]] || {{Nts|1.49}}
 |-----
-| [[Kronglas]] || ~{{Nts|1.46}} … 1,65
+| [[Krounglääs]] || ~{{Nts|1.46}} … 1,65
 |-----
-| [[Cyclo-Olefin-Copolymere|COC]] (ein Kunststoff)  || {{Nts|1.533}}
+| [[Cyclo-Olefin-Copolymere|COC]] (n Kunststof)  || {{Nts|1.533}}
 |-----
-| Mikroskopische [[Deckglas|Deckgläser]]  || {{Nts|1.523}}
+| Mikroskopiske [[Däkglääs|Däkgleese]]  || {{Nts|1.523}}
 |-----
-| [[Polymethacrylmethylimid|PMMI]] (ein Kunststoff) || {{Nts|1.534}}
+| [[Polymethacrylmethylimid|PMMI]] (n Kunststof) || {{Nts|1.534}}
 |-----
 | [[Quarz]] || {{Nts|1.54}}
 |-----
-| [[Halit]] (Steinsalz) || {{Nts|1.54}}
+| [[Halit]] (Steensoalt) || {{Nts|1.54}}
 |-----
 | [[Polycarbonate|Polycarbonat]] (PC) || {{Nts|1.585}}
 |-----
 | [[Polystyrol]] (PS) || {{Nts|1.58}}
 |-----
-| [[Flintglas]] || ~{{Nts|1.56}} … 1,93
+| [[Flintglääs]] || ~{{Nts|1.56}} … 1,93
 |-----
-| [[Epoxidharz]] || {{Nts|1.60}}
+| [[Epoxidhas]] || {{Nts|1.60}}
 |-----
 | [[Rubin]] ([[Aluminiumoxid]]) || {{Nts|1.76}}
 |-----
-| [[Glas]] || {{Nts|1.45}} … 2,14
+| [[Glääs]] || {{Nts|1.45}} … 2,14
 |-----
-| [[Bleikristall]] || bis {{Nts|1.93}}
+| [[Loodkristal]] || bis {{Nts|1.93}}
 |-----
 | [[Zirkon]] || {{Nts|1.92}}
 |-----
-| [[Schwefel]] || {{Nts|2.00}}
+| [[Swieuwel]] || {{Nts|2.00}}
 |-----
 | [[Zinksulfid]] <ref name="Lide2006" /> || {{Nts|2.37}}
 |-----
@@ -92,5 +88,5 @@ wie in der Einleitung beschrieben die Brechzahl jedes Materials von der Wellenl�
 |-----
 | [[Titandioxid]] (Rutil, 590&nbsp;nm) || {{Nts|3.10}}
 |-----
-| [[Bleisulfid]] (PbS, 590&nbsp;nm) || {{Nts|3.90}}
+| [[Loodsulfid]] (PbS, 590&nbsp;nm) || {{Nts|3.90}}
 |}
