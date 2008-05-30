@@ -1,0 +1,96 @@
+
+
+== Breektaal fon ju Luft un uur Stoffe ==
+
+Ju Breektaal fon de [[Luft]] bedrächt ap [[Seeniveau]] in n Truchsleek 1,00029. 
+
+Ju honget ou fon ju Tichte un ju Temperatuur fon ju Luft as uk fon ju spezielle Touhoopestaalenge fon ju Luft - besunners fon ju [[Luftfuchtegaid]]. Deer ju [[Lufttichte]] ätter buppen - äntspreekend do [[Gasgesäts]]e in een [[Äidsweeregaidsfäild|Sweeregaidsfäild]] - exponentiell ounimt, sjuch [[barometriske Hööchtenformel]], bedrächt ju in sowät 8 km Hööchte bloot moor 1,00011. Daach wäide do fon [[Stierne]]n kuumende Luchtstroalen in [[Horizont]]naite uum 0,6° ''aptild'' un in 45° noch uum 0,017°. Die Effekt hat ''[[astronomiske Refraktion]]'' un beeinfloudet in äänelke Oard uk älke [[terrestrisk]]e [[Fermeetenge]].
+
+Deer as in ju Ienleedenge beschrieuwen ju Breektaal fon älk Materioal fon ju Woogenlaangte fon dät ienfaalende Lucht ouhonget - jält
+
+wie in der Einleitung beschrieben die Brechzahl jedes Materials von der Wellenlänge des einfallenden Lichts abhängt – gilt auch bei elektromagnetischen Strahlungen anderer Wellenlängebereiche – wäre es notwendig, diese auch wellenlängenabhängig (tabellarisch oder als Funktion) anzugeben. Da dies aber für viele einfache Anwendungen nicht notwendig ist, wird die Brechzahl üblicherweise für die Wellenlänge der [[Natrium-D-Linie]] (589&nbsp;nm) angegeben.
+
+
+{| {{Prettytable-R Gesetz}}
+|+ Brechzahlen für sichtbares Licht
+|---- bgcolor="#F7F8FF"
+! Material || Brechzahl n<sub>D</sub> (bei 589 nm)
+|-----
+| [[Vakuum]] || exakt {{Nts|1}}
+|-----
+| [[Luft]] (bodennah) || {{Nts|1.000292}}
+|-----
+| [[Plasma (Physik)|Plasma]] || {{Nts|0}} … 1
+|-----
+| [[Caesium]] <ref>{{Literatur|Autor=H. Steffen, H. Mayer|Titel=Optische Eigenschaften dünner Cäsium-Schichten im Wellenlängenbereich von 0,3 bis 0,9 μ und ihr elektrischer Widerstand|Sammelwerk=Zeitschrift für Physik A Hadrons and Nuclei|Band=254|Nummer=3|Jahr=1972|Monat=Mai|Tag=1|Seiten=250-268|Online=[http://dx.doi.org/10.1007/BF01379784]|Zugriff=2008-02-09}}</ref>|| {{Nts|0.35}}
+|-----
+| [[Aerogel]] || {{Nts|1.007}} … 1,24
+|-----
+| [[Eis]] || {{Nts|1.31}}
+|-----
+| [[Wasser]] || {{Nts|1.33}}
+|-----
+| menschl. [[Linse (Auge)|Augenlinse]] || {{Nts|1.35}} … 1,42
+|-----
+| [[Ethanol]]<ref name="Lide2006">Lide, David R.: CRC handbook of chemistry and physics: A ready-reference book of chemical and physical data. 87. Aufl. Boca Raton Fla. : CRC Taylor & Francis, 2006 – ISBN 0-8493-0487-3</ref> || {{Nts|1.3614}}
+|-----
+| [[Magnesiumfluorid]] || {{Nts|1.38}}
+|-----
+| [[Flussspat]] ([[Calciumfluorid]]) || {{Nts|1.43}}
+|-----
+| menschl. [[Epidermis (Säugetiere)|Epidermis]] || {{Nts|1.45}}
+|-----
+| [[Tetrachlorkohlenstoff]] || {{Nts|1.46}}
+|-----
+| [[Quarzglas]] || {{Nts|1.46}}
+|-----
+| [[Celluloseacetat]] (CA) || {{Nts|1.48}}
+|-----
+| [[PMMA]] (Plexiglas™) || {{Nts|1.49}}
+|-----
+| [[Benzol]] || {{Nts|1.49}}
+|-----
+| [[Kronglas]] || ~{{Nts|1.46}} … 1,65
+|-----
+| [[Cyclo-Olefin-Copolymere|COC]] (ein Kunststoff)  || {{Nts|1.533}}
+|-----
+| Mikroskopische [[Deckglas|Deckgläser]]  || {{Nts|1.523}}
+|-----
+| [[Polymethacrylmethylimid|PMMI]] (ein Kunststoff) || {{Nts|1.534}}
+|-----
+| [[Quarz]] || {{Nts|1.54}}
+|-----
+| [[Halit]] (Steinsalz) || {{Nts|1.54}}
+|-----
+| [[Polycarbonate|Polycarbonat]] (PC) || {{Nts|1.585}}
+|-----
+| [[Polystyrol]] (PS) || {{Nts|1.58}}
+|-----
+| [[Flintglas]] || ~{{Nts|1.56}} … 1,93
+|-----
+| [[Epoxidharz]] || {{Nts|1.60}}
+|-----
+| [[Rubin]] ([[Aluminiumoxid]]) || {{Nts|1.76}}
+|-----
+| [[Glas]] || {{Nts|1.45}} … 2,14
+|-----
+| [[Bleikristall]] || bis {{Nts|1.93}}
+|-----
+| [[Zirkon]] || {{Nts|1.92}}
+|-----
+| [[Schwefel]] || {{Nts|2.00}}
+|-----
+| [[Zinksulfid]] <ref name="Lide2006" /> || {{Nts|2.37}}
+|-----
+| [[Diamant]] || {{Nts|2.42}}
+|-----
+| [[Titandioxid]] (Anatas) || {{Nts|2.52}}
+|-----
+| [[Siliciumcarbid]] || {{Nts|2.65}} … 2,69
+|-----
+| [[Titandioxid]] (Rutil) || {{Nts|2.71}}
+|-----
+| [[Titandioxid]] (Rutil, 590&nbsp;nm) || {{Nts|3.10}}
+|-----
+| [[Bleisulfid]] (PbS, 590&nbsp;nm) || {{Nts|3.90}}
+|}
