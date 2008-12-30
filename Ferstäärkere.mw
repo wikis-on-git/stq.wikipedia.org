@@ -1,7 +1,10 @@
 Die '''Ferstäärker''' is ne Reewe ju wät Litjes (besunners ne litje [[Elektrizität|elektriske Sponnenge]]) uumesätte kon tou wät Gratteres.
 
-Ju foulgjende Teekenge rakt n eenfach Schema fon n [[Transistore|Transistor]]-Ferstäärker. Ju Iengongssponnenge wäd toufierd twiske Basis un Nul, wült ju Uutgongssponnenge ounuumen wäide an dän Kollektor-Wierstand R4. N Emitter-Wierstand R3 kon touföiged wäide uum dän Stroom truch dän Emitter tou begränsjen un die Iengongsstroom ap ju Basis läiger tou moakjen.
+Ju foulgjende Teekenge rakt n eenfach Schema fon n [[Transistore|Transistor]]-Ferstäärker. Ju Iengongssponnenge wäd toufierd twiske Basis un Nul, wült ju Uutgongssponnenge ounuumen wäide an dän Kollektor-Wierstand R3. N Emitter-Wierstand R4 kon touföiged wäide uum dän Stroom truch dän Emitter tou begränsjen un die Iengongsstroom ap ju Basis läiger tou moakjen.
 
-C1 un C3 läite wäil ne [[Wikselsponnenge]] truch man neen Glieksponnenge. Dät is also n Wikselsponnengsferstäärker, toun Biespiel foar Audio (Musik usw.). R1 un R2 suurgje deerfoar, dät ju Basis ju goude Glieksponnenge kricht. Deeruum dät die Basisstroom Ib fuul litjer is as die Kollektorstroom Ic, is ju Ferstäärkenge sowat gliek an R4/R3.
+[[Bielde:Simple transistor amplifier.svg]]
+
+
+Die Kondensator links lät wäil ne [[Wikselsponnenge]] truch man neen Glieksponnenge. Dät is also n Wikselsponnengsferstäärker, toun Biespiel foar Audio (Musik usw.). R1 un R2 suurgje deerfoar, dät ju Basis ju goude Glieksponnenge kricht. Deeruum dät die Basisstroom Ib fuul litjer is as die Kollektorstroom Ice, is ju Ferstäärkenge sowat gliek an R3/R4.
 
 [[Kategorie:Physik]]
