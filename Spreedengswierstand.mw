@@ -1,7 +1,5 @@
-{{Tourääch ätter}}
-
 [[Image:Spreedengswierstand2.jpg|thumb|right|300px|Metallen Kontakt mäd Radius ''a'' ap n Materioal-Muster. Schematisk deerstoald.]]
-Wan me n Kontakt ap n Materioal sät, dan mät me deertwiske n Wierstand ''Rs'', uk wan die Kontakt gans scheen is. Dät naamt me Spreedengswierstand. Die Wierstand wäd bestimd fon dän Radius (Hoolichmeeter) ''a'' fon dän Kontakt un dän spezifisken Wierstand ''ρ'' ätter <div style="text-align: center">''Rs =   ρ/4a''</div>
+Wan me n Kontakt ap n Materioal sät, dan mät me deertwiske n Wierstand ''Rs'', uk wan die Kontakt gans scheen is. Dät naamt me '''Spreedengswierstand''' (äng. ''Spreading Resistance Profiling'', dt. ''Ausbreitungswiderstand''). Die Wierstand wäd bestimd fon dän Radius (Hoolichmeeter) ''a'' fon dän Kontakt un dän spezifisken Wierstand ''ρ'' ätter <div style="text-align: center">''Rs =   ρ/4a''</div>
 
 as bereekend mäd [[Integroalreekenge|Integroalreekenge]].
 Dissen Wierstand spielt ne Rulle, alleweegense wier gans litje Kontakte anwoand wäide, as in ju [[Mikro-Elektronik|Mikro-Elektronik]].
@@ -19,3 +17,5 @@ Uurigens schäl dät Resultoat korrigierd wäide foar ju Tjukte fon do Loagen. U
 == Ferbiendengen ätter buuten ==
 *[http://www.sciencedirect.com/science?_ob=ArticleURL&_udi=B6TY5-46VKB3R-36&_user=10&_coverDate=07%2F31%2F1972&_rdoc=1&_fmt=&_orig=search&_sort=d&view=c&_acct=C000050221&_version=1&_urlVersion=0&_userid=10&md5=a4226c8eb96990b7445908b3847252c7 Temperatuur-Ienfloud]
 *[http://www.cascade.co.uk/srp.pdf Biespiele fon Djupte-Profile]
+
+[[en:Spreading Resistance Profiling]]
