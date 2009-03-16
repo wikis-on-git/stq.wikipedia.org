@@ -1,1 +1,56 @@
-{{stump}}
+{{Infobox Transactinoid
+| Name = Roentgenium
+| Symbol = Rg
+| Ordnungszahl = 111
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 11
+| Periode = 7
+| Block = d
+| Serienfarbe = LightCoral
+| Atommasse = 280 
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Radon|Rn]]] 5f<sup>14</sup> 6d<sup>10</sup> 7s<sup>1</sup> (?)
+| ElektronenProEnergieNiveau =  2, 8, 18, 32, 32, 18, 1
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rg
+| Massenzahl = 272
+| NH = 0
+| Halbwertszeit = 3,8 ms
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE = 10,99
+| Zerfallstyp1ZP = <sup>268</sup>[[Meitnerium|Mt]]  
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rg
+| Massenzahl = 274
+| NH = 0
+| Halbwertszeit = 6,4 ms
+| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZE =  11,15
+| Zerfallstyp1ZP = <sup>270</sup>[[Meitnerium|Mt]]  
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rg
+| Massenzahl = 279
+| NH = 0
+| Halbwertszeit = 170 ms
+| Zerfallstyp1ZM = [[Alphastrahlung|α]] 
+| Zerfallstyp1ZE = 10,37
+| Zerfallstyp1ZP = <sup>275</sup>[[Meitnerium|Mt]] 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Rg
+| Massenzahl = 280
+| NH = 0
+| Halbwertszeit = 3,6 s
+| Zerfallstyp1ZM = [[Alphastrahlung|α]] 
+| Zerfallstyp1ZE = 9.75
+| Zerfallstyp1ZP = <sup>276</sup>[[Meitnerium|Mt]] 
+}}
+}}
+
+{{stump-links}}
