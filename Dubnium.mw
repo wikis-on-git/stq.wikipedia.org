@@ -1,3 +1,58 @@
+{{Infobox Chemisk Element
+| Name = Dubnium
+| Symbol = Db
+| Ordnungszahl = 105
+| Serie = [[Übergangsmetalle]]
+| Gruppe = 5
+| Periode = 7
+| Block = d
+| Serienfarbe = LightCoral
+| Atommasse = 262,1138
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Radon|Rn]]<nowiki>]</nowiki> 5[[F-Orbital|f]]<sup>14</sup> 6[[D-Orbital|d]]<sup>3</sup> 7[[S-Orbital|s]]<sup>2</sup> (?)
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 32, 11, 2
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Db
+| Massenzahl = 261
+| NH = 0
+| Halbwertszeit = 1,8 s
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 9,270
+| Zerfallstyp1ZP = [[Lawrencium|<sup>257</sup>Lr]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = &nbsp;
+| Zerfallstyp2ZP = &nbsp;
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 3
+| Symbol = Db
+| Massenzahl = 262
+| NH = 0
+| Halbwertszeit = 34 s
+| Zerfallstyp1ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp1ZE = 9,210
+| Zerfallstyp1ZP = [[Lawrencium|<sup>258</sup>Lr]]
+| Zerfallstyp2ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp2ZE = &nbsp;
+| Zerfallstyp2ZP = &nbsp;
+| Zerfallstyp3ZM = [[Elektronen-Einfang|&epsilon;]]
+| Zerfallstyp3ZE = 4,000
+| Zerfallstyp3ZP = [[Rutherfordium|<sup>262</sup>Rf]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 2
+| Symbol = Db
+| Massenzahl = 263
+| NH = 0
+| Halbwertszeit = 27 s
+| Zerfallstyp1ZM = [[Spontane Spaltung|SF]]
+| Zerfallstyp1ZE = &nbsp;
+| Zerfallstyp1ZP = &nbsp;
+| Zerfallstyp2ZM = [[Alphastrahlung|&alpha;]]
+| Zerfallstyp2ZE = 9,030
+| Zerfallstyp2ZP = [[Lawrencium|<sup>259</sup>Lr]]
+}}
 {{stump}}
 
 [[ar:دبنيوم]]
