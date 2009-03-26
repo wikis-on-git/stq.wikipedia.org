@@ -1,1 +1,153 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Titan
+| Symbol = Ti
+| Ordnungszahl = 22
+| Serie = [[Uurgongsmetalle]]
+| Gruppe = 4
+| Periode = 4
+| Block = d
+| Serienfarbe = LightCoral
+<!--- Allgemein --->
+| CAS = 7440-32-6
+| Aussehen = silbrig metallisch
+| Massenanteil = 0,41
+<!--- Atomar --->
+| Atommasse = 47,867
+| Atomradius = 140
+| AtomradiusBerechnet = 176
+| KovalenterRadius = 136
+| VanDerWaalsRadius = 
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Argon|Ar]]<nowiki>]</nowiki> 3d<sup>2</sup> 4s<sup>2</sup>
+| ElektronenProEnergieNiveau = 2, 8, 10, 2
+| Austrittsarbeit = 
+| Ionisierungsenergie_1 = 658,8
+| Ionisierungsenergie_2 = 1309,8
+| Ionisierungsenergie_3 = 2652,5
+| Ionisierungsenergie_4 = 4174,6
+<!--- Physikalisch --->
+| Aggregatzustand = fest
+| Modifikationen = 
+| Kristallstruktur = hexagonal (bis 882 °C, darüber krz)
+| Dichte = 4,507 g/cm<sup>3</sup>
+| RefTempDichte_K = 
+| Mohshärte = 6
+| Magnetismus = [[Paramagnetismus|paramagnetisch]]
+| Schmelzpunkt_K = 1941
+| Schmelzpunkt_C = 1668
+| Siedepunkt_K = 3560
+| Siedepunkt_C = 3287
+| MolaresVolumen = 10,64 · 10<sup>-6</sup>
+| Verdampfungswärme = 421
+| Schmelzwärme = 15,45
+| Dampfdruck = 0,49
+| RefTempDampfdruck_K = 1933
+| Schallgeschwindigkeit = 4140
+| RefTempSchallgeschwindigkeit_K = 293,15
+| SpezifischeWärmekapazität = 520
+| RefTempSpezifischeWärmekapazität_K = 
+| ElektrischeLeitfähigkeit = 2,34 · 10<sup>6</sup>
+| RefTempElektrischeLeitfähigkeit_K = 
+| Wärmeleitfähigkeit = 21,9
+| RefTempWärmeleitfähigkeit_K = 
+<!--- Chemisch --->
+| Oxidationszustände = +2, +3, '''+4'''
+| Oxide = TiO<sub>2</sub>
+| Basizität = [[amphoter]]
+| Normalpotential = 1,3 [[Volt|V]] (TiO<sub>2</sub> + 4H<sup>+</sup> + 4e<sup>-</sup><br />→ Ti + 2H<sub>2</sub>O)
+| Elektronegativität = 1,54
+| Quelle GefStKz     = <ref name="alfa-SDB">[http://www.alfa-chemcat.com/daten_msds/D/13997_-_D.pdf Sicherheitsdatenblatt (alfa-aesar)]</ref>
+| Gefahrensymbole    = '''Pulver'''<br />{{Gefahrensymbole|F|Xi}}<br />
+| R                  = {{R-Sätze|17|36/37/38}} (Pulver)
+| S                  = {{S-Sätze|26}}(Pulver)
+| Radioaktiv         = 
+<!--- Isotope --->
+| Isotope = 
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ti
+| Massenzahl = 44
+| NH = 0
+| Halbwertszeit = 49 [[Jier|a]]
+| Zerfallstyp1ZM = [[Elektrone-Fang|ε]]
+| Zerfallstyp1ZE = 0,268
+| Zerfallstyp1ZP = [[Scandium|<sup>44</sup>Sc]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ti
+| Massenzahl = 45
+| NH = 0
+| Halbwertszeit = 184,8 [[Minute|min]]
+| Zerfallstyp1ZM = [[Elektrone-Fang|ε]]
+| Zerfallstyp1ZE = 2,062
+| Zerfallstyp1ZP = [[Scandium|<sup>45</sup>Sc]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ti
+| Massenzahl = 46
+| NH = 8,0
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ti
+| Massenzahl = 47
+| NH = 7,3
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ti
+| Massenzahl = 48
+| NH = '''73,8'''
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ti
+| Massenzahl = 49
+| NH = 5,5
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 0
+| Symbol = Ti
+| Massenzahl = 50
+| NH = 5,4
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ti
+| Massenzahl = 51
+| NH = 0
+| Halbwertszeit = 5,76 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastroalenge|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 2,471
+| Zerfallstyp1ZP = [[Vanadium|<sup>51</sup>V]]
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Ti
+| Massenzahl = 52
+| NH = 0
+| Halbwertszeit = 1,7 [[Minute|min]]
+| Zerfallstyp1ZM = [[Betastroalenge|β]]<sup>&minus;</sup>
+| Zerfallstyp1ZE = 1,973
+| Zerfallstyp1ZP = [[Vanadium|<sup>52</sup>V]]
+}}
+| NMREigenschaften =
+{{Infobox_Chemisches_Element/NMR
+| Symbol = Ti
+| Massenzahl_1 = 47
+| Kernspin_1 = -5/2
+| Gamma_1 = 1,508· 10<sup>7</sup>
+| Empfindlichkeit_1 = 0,00209
+| Larmorfrequenz_1 = 11,3
+| Massenzahl_2 = 49
+| Kernspin_2 = -7/2
+| Gamma_2 = 1,508· 10<sup>7</sup>
+| Empfindlichkeit_2 = 0,00376
+| Larmorfrequenz_2 = 11,3
+}}
+}}
+'''Titanium''' af '''Titan''' (Symbol ''Ti'', Oardnengstoal ''22'') is n Uurgongsmetall. Dät is licht, kon deend wäide un glansed wiet-metallisk.
+
+{{stump-links}}
