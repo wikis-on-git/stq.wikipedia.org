@@ -1,1 +1,42 @@
-{{stump}}
+{{Infobox Chemisk Element
+<!--- Periodensystem --->
+| Name = Ununbium
+| Symbol = Uub
+| Ordnungszahl = 112
+| Serie = [[Uurgongsmetalle]]
+| Gruppe = 12
+| Periode = 7
+| Block = d
+| Serienfarbe = LightCoral
+| CAS         = 54084-26-3
+| Atommasse = 277
+| Elektronenkonfiguration = <nowiki>[</nowiki>[[Radon|Rn]]]5f<sup>14</sup> 6d<sup>10</sup>7s<sup>2</sup><!--- <br/>Schätzung basierend auf [[Quecksilber|Quecksilber]] --->
+| ElektronenProEnergieNiveau = 2, 8, 18, 32, 32, 18, 2
+<!--- Isotope --->
+| Isotope =
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Uub
+| Massenzahl = 277
+| NH = 0
+| Halbwertszeit = 
+| Zerfallstyp1ZM = 
+| Zerfallstyp1ZE = 
+| Zerfallstyp1ZP = 
+}}
+{{Infobox Chemisches Element/Isotop
+| AnzahlZerfallstypen = 1
+| Symbol = Uub
+| Massenzahl = 283
+| NH = 0
+| Halbwertszeit = 4 s
+| Zerfallstyp1ZM = 
+| Zerfallstyp1ZE = 
+| Zerfallstyp1ZP = 
+}}
+}}
+'''Ununbium''' is n kunstelk Uurgongsmetall. Dät wuude 1996 truch [[Käädenfusion|Fusion]] fon n [[Zink]]- un n [[Lood]]-[[Atomkääden]] ärtjuuged.
+{{stump-links}}
+
+
+[[Käädenfusion]]
