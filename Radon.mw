@@ -62,10 +62,10 @@
 | Massenzahl = 208
 | NH = 0
 | Halbwertszeit = 24,35 [[Minute|min]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 6,260
 | Zerfallstyp1ZP = [[Polonium|<sup>204</sup>Po]]
-| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZM = [[Elektrone-Fang|ε]]
 | Zerfallstyp2ZE = 2,850
 | Zerfallstyp2ZP = [[Astat|<sup>208</sup>At]]
 }}
@@ -75,10 +75,10 @@
 | Massenzahl = 209
 | NH = 0
 | Halbwertszeit = 28,5 [[Minute|min]]
-| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZM = [[Elektrone-Fang|ε]]
 | Zerfallstyp1ZE = 3,930
 | Zerfallstyp1ZP = [[Astat|<sup>209</sup>At]]
-| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZM = [[Alphastroalenge|α]]
 | Zerfallstyp2ZE = 6,155
 | Zerfallstyp2ZP = [[Polonium|<sup>205</sup>Po]]
 }}
@@ -88,10 +88,10 @@
 | Massenzahl = 210
 | NH = 0
 | Halbwertszeit = 2,4 [[Stunde|h]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 6,159
 | Zerfallstyp1ZP = [[Polonium|<sup>206</sup>Po]]
-| Zerfallstyp2ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp2ZM = [[Elektrone-Fang|ε]]
 | Zerfallstyp2ZE = 2,374
 | Zerfallstyp2ZP = [[Astat|<sup>210</sup>At]]
 }}
@@ -101,10 +101,10 @@
 | Massenzahl = 211
 | NH = 0
 | Halbwertszeit = 14,6 [[Stunde|h]]
-| Zerfallstyp1ZM = [[Elektronen-Einfang|ε]]
+| Zerfallstyp1ZM = [[Elektrone-Fang|ε]]
 | Zerfallstyp1ZE = 2,892
 | Zerfallstyp1ZP = [[Astat|<sup>211</sup>At]]
-| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZM = [[Alphastroalenge|α]]
 | Zerfallstyp2ZE = 5,965
 | Zerfallstyp2ZP = [[Polonium|<sup>207</sup>Po]]
 }}
@@ -114,7 +114,7 @@
 | Massenzahl = 212
 | NH = 0
 | Halbwertszeit = 23,9 [[Minute|min]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 6,385
 | Zerfallstyp1ZP = [[Polonium|<sup>208</sup>Po]]
 }}
@@ -127,7 +127,7 @@
 | Massenzahl = 217
 | NH = 0
 | Halbwertszeit = 0,54 [[Sekunde|ms]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 7,889
 | Zerfallstyp1ZP = [[Polonium|<sup>213</sup>Po]]
 }}
@@ -137,7 +137,7 @@
 | Massenzahl = 218
 | NH = spuren
 | Halbwertszeit = 0,35 [[Sekunde|ms]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 7,263
 | Zerfallstyp1ZP = [[Polonium|<sup>214</sup>Po]]
 }}
@@ -147,7 +147,7 @@
 | Massenzahl = 219
 | NH = 1
 | Halbwertszeit = 3,96 [[Sekunde|s]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 6,946
 | Zerfallstyp1ZP = [[Polonium|<sup>215</sup>Po]]
 }}
@@ -157,7 +157,7 @@
 | Massenzahl = 220
 | NH = 9
 | Halbwertszeit = 55,6 [[Sekunde|s]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 6,405
 | Zerfallstyp1ZP = [[Polonium|<sup>216</sup>Po]]
 }}
@@ -167,10 +167,10 @@
 | Massenzahl = 221
 | NH = 0
 | Halbwertszeit = 25,0 [[Minute|min]]
-| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZM = [[Betastroalenge|β<sup>−</sup>]]
 | Zerfallstyp1ZE = 
 | Zerfallstyp1ZP = [[Francium|<sup>221</sup>Fr]]
-| Zerfallstyp2ZM = [[Alphastrahlung|α]]
+| Zerfallstyp2ZM = [[Alphastroalenge|α]]
 | Zerfallstyp2ZE = 
 | Zerfallstyp2ZP = [[Polonium|<sup>217</sup>Po]]
 }}
@@ -179,8 +179,8 @@
 | Symbol = Rn
 | Massenzahl = 222
 | NH = '''90'''
-| Halbwertszeit = 3,824 [[Tag|d]]
-| Zerfallstyp1ZM = [[Alphastrahlung|α]]
+| Halbwertszeit = 3,824 [[Dai|d]]
+| Zerfallstyp1ZM = [[Alphastroalenge|α]]
 | Zerfallstyp1ZE = 5,590
 | Zerfallstyp1ZP = [[Polonium|<sup>218</sup>Po]]
 }}
@@ -190,7 +190,7 @@
 | Massenzahl = 223
 | NH = spuren
 | Halbwertszeit = 23,2 [[Minute|min]]
-| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZM = [[Betastroalenge|β<sup>−</sup>]]
 | Zerfallstyp1ZE =1,000
 | Zerfallstyp1ZP = [[Francium|<sup>223</sup>Fr]]
 }}
@@ -200,7 +200,7 @@
 | Massenzahl = 224
 | NH = 0
 | Halbwertszeit = 107 [[Minute|min]]
-| Zerfallstyp1ZM = [[Betastrahlung|β<sup>−</sup>]]
+| Zerfallstyp1ZM = [[Betastroalenge|β<sup>−</sup>]]
 | Zerfallstyp1ZE =
 | Zerfallstyp1ZP = [[Francium|<sup>224</sup>Fr]]
 }}
